@@ -1,26 +1,22 @@
 # My Favorite Linux Tools
 
-Many of these are actually cross-platform.
+Many of these are actually cross-platform. For context, I am currently using Linux
+Mint 19.x, based off of Ubuntu 18.04.
 
 ## Terminal-based tools
 
-* [autojump](https://github.com/wting/autojump) - Lets me change working directory
-  to recently used directories via quick pattern match. `apt install autojump`
-  and consult man file for launching in your *.bashrc*.
-* [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - Fancy bash
-  prompt whenever you are in a Git workspace folder. Shows branch and status with
-  respect to remote, as well as indication of exit code of most recently executed
-  command.
-* [bat](https://github.com/sharkdp/bat) - Think `cat` with paging and syntax
-  highlighting.
-* [bpytop](https://github.com/aristocratos/bpytop) - Fancy `top` replacement. I
-  install it using `python3 -m pip install --user bpytop`, and add an alias to run
-  `python3 -m bpytop`.
-* [duf](https://github.com/muesli/duf) - Easy-on-the-eyes `du`/`df` replacement.
-* [ripgrep](https://github.com/BurntSushi/ripgrep) - Fast, developer-friendly
-  grep-like code searcher.
-* [tig](https://jonas.github.io/tig/) - Fancy git browser. The page doesn't state it,
-  but in Ubuntu, this is just an `apt install tig` away.
+Name | My Preferred Install Method | Description
+---- | --------------------------- | -----------
+[autojump](https://github.com/wting/autojump) | `apt intall autojump`, consult man file for launching in your *.bashrc* | Lets me change working directory to recently used directories via quick pattern match. 
+[bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) | see *Git clone* method at site | Fancy bash prompt whenever you are in a Git workspace folder. Shows branch and status with respect to remote, as well as indication of exit code of most recently executed command.
+[bat](https://github.com/sharkdp/bat) | dpkg (see below) | Think `cat` with paging and syntax highlighting.
+[bpytop](https://github.com/aristocratos/bpytop) | `python3 -m pip install --user bpytop`, then make alias to `python3 -m bpytop`| Fancy `top` replacement.
+[duf](https://github.com/muesli/duf) | dpkg (see below) | Easy-on-the-eyes `du`/`df` replacement.
+[ripgrep](https://github.com/BurntSushi/ripgrep) | `sudo snap install --classic ripgrep` | Fast, developer-friendly grep-like code searcher.
+[tig](https://jonas.github.io/tig/) | `apt install tig` | Fancy git browser.
+
+**dpkg** = `curl -LO [release-file]` the appropriate .deb release file from the project release
+files, then `dpkg -i [release-file]`
 
 ### Candidates
 
