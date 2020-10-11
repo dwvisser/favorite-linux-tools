@@ -12,8 +12,10 @@ Name | My Preferred Install Method | Description
 [bat](https://github.com/sharkdp/bat) | dpkg (see below) | Think `cat` with paging and syntax highlighting.
 [bpytop](https://github.com/aristocratos/bpytop) | `python3 -m pip install --user bpytop`, then make alias to `python3 -m bpytop`| Fancy `top` replacement.
 [duf](https://github.com/muesli/duf) | dpkg (see below) | Easy-on-the-eyes `du`/`df` replacement.
-[ripgrep](https://github.com/BurntSushi/ripgrep) | `sudo snap install --classic ripgrep` | Fast, developer-friendly grep-like code searcher.
+[micro](https://github.com/zyedidia/) | `snap install --classic micro` | Nano replacement with syntax highlighting, implemented in Go.
+[ripgrep](https://github.com/BurntSushi/ripgrep) | `snap install --classic ripgrep` | Fast, developer-friendly grep-like code searcher.
 [tig](https://jonas.github.io/tig/) | `apt install tig` | Fancy git browser.
+[vim](https://vim8.org/) | `apt install vim` | Like trusty old `vi` but better, includs syntax highlighting.
 
 **dpkg** = `curl -LO [release-file]` the appropriate .deb release file from the project release
 files, then `dpkg -i [release-file]`
