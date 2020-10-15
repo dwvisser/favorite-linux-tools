@@ -14,6 +14,7 @@ Name | My Preferred Install Method | Description
 [bpytop](https://github.com/aristocratos/bpytop) | `python3 -m pip install --user bpytop`, then make [alias](.bash_aliases) to `python3 -m bpytop`| Fancy `top` replacement.
 [duf](https://github.com/muesli/duf) | dpkg (see below) | Easy-on-the-eyes `du`/`df` replacement.
 [micro](https://github.com/zyedidia/) | `snap install --classic micro` | Nano replacement with syntax highlighting, implemented in Go.
+[nushell](https://github.com/nushell/nushell) | Download tarball release file, extract, and update [alias](.bash_aliases) | Fancy uber-capable shell, implemented in Rust.
 [ripgrep](https://github.com/BurntSushi/ripgrep) | `snap install --classic ripgrep` | Fast, developer-friendly grep-like code searcher.
 [tig](https://jonas.github.io/tig/) | `apt install tig` | Fancy git browser.
 [vim](https://vim8.org/) | `apt install vim` | Like trusty old `vi` but better, includs syntax highlighting.
