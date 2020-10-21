@@ -9,9 +9,11 @@ Many of these are actually cross-platform. For context, I am currently using
 Name | My Preferred Install Method | Description
 ---- | --------------------------- | -----------
 [autojump](https://github.com/wting/autojump) | `apt intall autojump`, then see man file for launching in your *.bashrc* | Lets me change working directory to recently used directories via quick pattern match.
+[bandwhich](https://github.com/imsnif/bandwhich) | Unzip executable from releases tarball to */usr/local/bin* | Very nice presentation of what programs are consuming bandwith on connections to where. Needs `sudo` to run.
 [bat](https://github.com/sharkdp/bat) | dpkg (see below) | Think `cat` with paging and syntax highlighting.
 [bpytop](https://github.com/aristocratos/bpytop) | `sudo snap install bpytop`, follow instructions at [snapcraft](https://snapcraft.io/bpytop) to give permissions, then otionally make an [alias](.bash_aliases) | Fancy `top` replacement.
 [duf](https://github.com/muesli/duf) | dpkg (see below) | Easy-on-the-eyes `du`/`df` replacement.
+[hexyl](https://github.com/sharkdp/hexyl/) | dpkg (see below) | Rust-based colorful hexadecimal binary file viewer.
 [micro](https://github.com/zyedidia/) | `snap install --classic micro` | Nano replacement with syntax highlighting, implemented in Go.
 [nushell](https://github.com/nushell/nushell) | Download tarball release file, extract, and update [alias](.bash_aliases) | Fancy uber-capable shell, implemented in Rust.
 [ripgrep](https://github.com/BurntSushi/ripgrep) | `snap install --classic ripgrep` | Fast, developer-friendly grep-like code searcher.
