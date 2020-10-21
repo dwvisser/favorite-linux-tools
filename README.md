@@ -9,13 +9,13 @@ Many of these are actually cross-platform. For context, I am currently using
 Name | My Preferred Install Method | Description
 ---- | --------------------------- | -----------
 [autojump](https://github.com/wting/autojump) | `apt intall autojump`, then see man file for launching in your *.bashrc* | Lets me change working directory to recently used directories via quick pattern match.
-[bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) | see *Git clone* method at site | Fancy bash prompt whenever you are in a Git workspace folder. Shows branch and status with respect to remote, as well as indication of exit code of most recently executed command.
 [bat](https://github.com/sharkdp/bat) | dpkg (see below) | Think `cat` with paging and syntax highlighting.
 [bpytop](https://github.com/aristocratos/bpytop) | `sudo snap install bpytop`, follow instructions at [snapcraft](https://snapcraft.io/bpytop) to give permissions, then otionally make an [alias](.bash_aliases) | Fancy `top` replacement.
 [duf](https://github.com/muesli/duf) | dpkg (see below) | Easy-on-the-eyes `du`/`df` replacement.
 [micro](https://github.com/zyedidia/) | `snap install --classic micro` | Nano replacement with syntax highlighting, implemented in Go.
 [nushell](https://github.com/nushell/nushell) | Download tarball release file, extract, and update [alias](.bash_aliases) | Fancy uber-capable shell, implemented in Rust.
 [ripgrep](https://github.com/BurntSushi/ripgrep) | `snap install --classic ripgrep` | Fast, developer-friendly grep-like code searcher.
+[starship](https://starship.rs/) | Copy Fira Code Nerd Font *\*.ttf* files to *~/.fonts*; Set as font in terminal application; `curl -fsSL https://starship.rs/install.sh | bash`; add `eval "$(starship init bash)"` as last line in *.bashrc* | Rust-based amazing developer-friendly rich shell prompt.
 [tig](https://jonas.github.io/tig/) | `apt install tig` | Fancy git browser.
 [vim](https://vim8.org/) | `apt install vim` | Like trusty old `vi` but better, includs syntax highlighting.
 
