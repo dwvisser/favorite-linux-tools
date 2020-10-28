@@ -25,7 +25,7 @@ Name | My Preferred Install Method | Description
 <img src=images/rustacean.svg height=18/> [ripgrep](https://github.com/BurntSushi/ripgrep) | `snap install --classic ripgrep` | Fast, developer-friendly grep-like code searcher.
 <img src=images/rustacean.svg height=18/> [starship](https://starship.rs/) | Copy Fira Code Nerd Font *\*.ttf* files to *~/.fonts*; Set as font in terminal application; `curl -fsSL https://starship.rs/install.sh | bash`; add `eval "$(starship init bash)"` as last line in *.bashrc* | Amazing developer-friendly, colorful, and rich shell prompt.
 [tig](https://jonas.github.io/tig/) | `apt install tig` | Fancy git browser.
-[vim](https://vim8.org/) | `apt install vim` | Like trusty old `vi` but better, includs syntax highlighting.
+[vim](https://vim8.org/) | `apt install vim` | Like trusty old `vi` but better, includes syntax highlighting.
 <img src=images/rustacean.svg height=18/> [zenith](https://github.com/bvaisvil/zenith) | PPA (see below) - instructions on project page | Colorful `top` replacement.
 
 **dpkg** = Find the appropriate *.deb* release file in the project releases
