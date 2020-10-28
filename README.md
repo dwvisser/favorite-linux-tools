@@ -2,28 +2,43 @@
 
 Many of these are actually cross-platform. For context, I am currently using
 [Linux Mint](https://www.linuxmint.com/) 19.x, based off of
-[Ubuntu](https://ubuntu.com) 18.04.
+[Ubuntu](https://ubuntu.com) 18.04. I am also a heavy user of the default
+[bash](https://www.gnu.org/software/bash/) shell.
 
 ## Terminal-based tools
 
+I really like tools build using modern (relative to C/C++) languages like Rust
+(<a href=https://commons.wikimedia.org/wiki/File:Rustacean-orig-noshadow.svg><img src=images/rustacean.svg height=18/></a>),
+Go (<a href=https://github.com/golang-samples/gopher-vector><img src=images/gopher.svg height=18/></a>), or even Python
+(<a href=https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg><img src=images/python.svg height=18/></a>),
+so I've marked those tools with icons.
+
 Name | My Preferred Install Method | Description
 ---- | --------------------------- | -----------
-[autojump](https://github.com/wting/autojump) | `apt intall autojump`, then see man file for launching in your *.bashrc* | Lets me change working directory to recently used directories via quick pattern match.
-[bandwhich](https://github.com/imsnif/bandwhich) | Unzip executable from releases tarball to */usr/local/bin* | Very nice presentation of what programs are consuming bandwith on connections to where. Needs `sudo` to run.
-[bat](https://github.com/sharkdp/bat) | dpkg (see below) | Think `cat` with paging and syntax highlighting.
-[bpytop](https://github.com/aristocratos/bpytop) | `sudo snap install bpytop`, follow instructions at [snapcraft](https://snapcraft.io/bpytop) to give permissions, then otionally make an [alias](.bash_aliases) | Python 3-based fancy `top` replacement. Fun for workstations, but don't use for serious system performance diagnostics, because it spins up lots of subprocesses to make its measurements.
-[duf](https://github.com/muesli/duf) | dpkg (see below) | Easy-on-the-eyes `du`/`df` replacement.
-[hexyl](https://github.com/sharkdp/hexyl/) | dpkg (see below) | Rust-based colorful hexadecimal binary file viewer.
-[micro](https://github.com/zyedidia/) | `snap install --classic micro` | Nano replacement with syntax highlighting, implemented in Go.
-[nushell](https://github.com/nushell/nushell) | Download tarball release file, extract, and update [alias](.bash_aliases) | Fancy uber-capable shell, implemented in Rust.
-[ripgrep](https://github.com/BurntSushi/ripgrep) | `snap install --classic ripgrep` | Fast, developer-friendly grep-like code searcher.
-[starship](https://starship.rs/) | Copy Fira Code Nerd Font *\*.ttf* files to *~/.fonts*; Set as font in terminal application; `curl -fsSL https://starship.rs/install.sh | bash`; add `eval "$(starship init bash)"` as last line in *.bashrc* | Rust-based amazing developer-friendly rich shell prompt.
+<img src=images/python.svg height=18/> [autojump](https://github.com/wting/autojump) | `apt intall autojump`, then see man file for launching in your *.bashrc* | Lets me change working directory to recently used directories via quick pattern match.
+<img src=images/rustacean.svg height=18/> [bandwhich](https://github.com/imsnif/bandwhich) | Unzip executable from releases tarball to */usr/local/bin* | Very nice presentation of what programs are consuming bandwith on connections to where. Needs `sudo` to run.
+<img src=images/rustacean.svg height=18/> [bat](https://github.com/sharkdp/bat) | dpkg (see below) | Colorful `cat` with line numbers, paging, and syntax highlighting.
+<img src=images/gopher.svg height=18/> [duf](https://github.com/muesli/duf) | dpkg (see below) | Easy-on-the-eyes `du`/`df` replacement.
+<img src=images/rustacean.svg height=18/> [hexyl](https://github.com/sharkdp/hexyl/) | dpkg (see below) | Colorful hexadecimal binary file viewer.
+<img src=images/gopher.svg height=18/> [micro](https://github.com/zyedidia/micro) | `snap install --classic micro` | Nano replacement with syntax highlighting.
+<img src=images/rustacean.svg height=18/> [nushell](https://github.com/nushell/nushell) | Download tarball release file, extract, and update [alias](.bash_aliases) | Fancy uber-capable shell, inspired by PowerShell, but results are more column-and-row based.
+<img src=images/rustacean.svg height=18/> [ripgrep](https://github.com/BurntSushi/ripgrep) | `snap install --classic ripgrep` | Fast, developer-friendly grep-like code searcher.
+<img src=images/rustacean.svg height=18/> [starship](https://starship.rs/) | Copy Fira Code Nerd Font *\*.ttf* files to *~/.fonts*; Set as font in terminal application; `curl -fsSL https://starship.rs/install.sh | bash`; add `eval "$(starship init bash)"` as last line in *.bashrc* | Amazing developer-friendly, colorful, and rich shell prompt.
 [tig](https://jonas.github.io/tig/) | `apt install tig` | Fancy git browser.
 [vim](https://vim8.org/) | `apt install vim` | Like trusty old `vi` but better, includs syntax highlighting.
+<img src=images/rustacean.svg height=18/> [zenith](https://github.com/bvaisvil/zenith) | PPA (see below) - instructions on project page | Colorful `top` replacement.
 
 **dpkg** = Find the appropriate *.deb* release file in the project releases site,
 `curl -LO [release-file-url]` for the appropriate .deb release file, then
 `sudo dpkg -i [release-file]`
+
+**PPA** is described well on [itsfoss.com](https://itsfoss.com/ppa-guide/):
+
+> PPA stands for Personal Package Archive. The PPA allows application developers and Linux users to create their own repositories to distribute software. With PPA, you can easily get newer software version or software that are not available via the official Ubuntu repositories.
+
+Nowadays, containerized solutions like [snap](https://snapcraft.io/about) or
+[flatpak](https://flathub.org/about) are the preferred, and arguably more secure, ways
+to independently deploy Linux software, but PPA's do still exist.
 
 ### Candidates
 
