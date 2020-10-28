@@ -7,7 +7,7 @@ Many of these are actually cross-platform. For context, I am currently using
 
 ## Terminal-based tools
 
-I really like tools build using modern (relative to C/C++) languages like Rust
+I really like tools built using modern (relative to C/C++) languages like Rust
 (<a href=https://commons.wikimedia.org/wiki/File:Rustacean-orig-noshadow.svg><img src=images/rustacean.svg height=18/></a>),
 Go (<a href=https://github.com/golang-samples/gopher-vector><img src=images/gopher.svg height=18/></a>), or even Python
 (<a href=https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg><img src=images/python.svg height=18/></a>),
