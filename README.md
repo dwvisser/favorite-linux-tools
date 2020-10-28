@@ -29,7 +29,7 @@ Name | My Preferred Install Method | Description
 <img src=images/rustacean.svg height=18/> [zenith](https://github.com/bvaisvil/zenith) | PPA (see below) - instructions on project page | Colorful `top` replacement.
 
 **dpkg** = Find the appropriate *.deb* release file in the project releases
-page (generally just add **/releases** to GitHub URL),
+page (generally just add **/releases** to the GitHub project URL),
 `curl -LO [release-file-url]` for the appropriate .deb release file, then
 `sudo dpkg -i [release-file]`
 
