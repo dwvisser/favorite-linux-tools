@@ -30,10 +30,11 @@ Name | My Preferred Install Method | Description
 [vim](https://vim8.org/) | `apt install vim` | Like trusty old `vi` but better, includes syntax highlighting.
 <img src=images/rustacean.svg height=18/> [zenith](https://github.com/bvaisvil/zenith) | PPA (see below) - instructions on project page | Colorful `top` replacement.
 
-**dpkg** = Find the appropriate *.deb* release file in the project releases
-page (generally just add **/releases** to the GitHub project URL),
-`curl -LO [release-file-url]` for the appropriate .deb release file, then
-`sudo dpkg -i [release-file]`
+**dpkg** = Find the appropriate
+[non-musl-variant](https://www.musl-libc.org/faq.html) AMD64 *.deb* release file in
+the project releases page (generally just add **/releases** to the GitHub project
+URL), `curl -LO [release-file-url]` for the appropriate .deb release file, then
+`sudo dpkg -i [release-file]`.
 
 **PPA** is described well on [itsfoss.com](https://itsfoss.com/ppa-guide/):
 
