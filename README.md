@@ -1,10 +1,20 @@
 <!-- markdownlint-disable html -->
 # My Favorite Linux Tools
 
-Many of these are actually cross-platform. For context, I am currently using
-[Linux Mint](https://www.linuxmint.com/) 19.x, based off of
-[Ubuntu](https://ubuntu.com) 18.04. I am also a heavy user of the default
-[bash](https://www.gnu.org/software/bash/) shell.
+Many of these are actually cross-platform. For context, I mostly use
+
+1. [Linux Mint](https://www.linuxmint.com/) 19.x, based off of
+   [Ubuntu](https://ubuntu.com) 18.04 on an x86_64 laptop.
+2. [Raspbian](https://www.raspbian.org/) Buster on a
+   [Raspberry Pi 2](https://www.raspberrypi.org/products/raspberry-pi-2-model-b/).
+3. At work, I use Ubuntu 18.04 virtual machines, and to a lesser extent a
+   [WSL](https://docs.microsoft.com/en-us/windows/wsl/) 1 instance of Ubuntu
+   18.04.
+4. Speaking of WSL, I also use Ubuntu 20.04 via WSL 2 a little bit on a home
+   machine.
+
+ I am also a heavy user of the default
+ [bash](https://www.gnu.org/software/bash/) shell.
 
 ## Terminal-based tools
 
@@ -31,10 +41,10 @@ Name | My Preferred Install Method | Description
 <img src=images/rustacean.svg height=18/> [zenith](https://github.com/bvaisvil/zenith) | PPA (see below) - instructions on project page | Colorful `top` replacement.
 
 **dpkg** = Find the appropriate
-[non-musl-variant](https://www.musl-libc.org/faq.html) AMD64 *.deb* release file in
-the project releases page (generally just add **/releases** to the GitHub project
-URL), `curl -LO [release-file-url]` for the appropriate .deb release file, then
-`sudo dpkg -i [release-file]`.
+[non-musl-variant](https://www.musl-libc.org/faq.html) amd64 or armhf *.deb* release
+file in the project releases page (generally just add **/releases** to the GitHub
+project URL), `curl -LO [release-file-url]` for the appropriate .deb release file,
+then `sudo dpkg -i [release-file]`.
 
 **PPA** is described well on [itsfoss.com](https://itsfoss.com/ppa-guide/):
 
