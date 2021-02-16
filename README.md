@@ -36,7 +36,7 @@ Name | My Preferred Install Method | Description
 <img src=images/rustacean.svg height=18/> [nushell](https://github.com/nushell/nushell) | Download tarball release file, extract under *~/.local*, and update [alias](.bash_aliases) | Fancy uber-capable shell, inspired by PowerShell, but results are more column-and-row based.
 <img src=images/rustacean.svg height=18/> [ripgrep](https://github.com/BurntSushi/ripgrep) | `snap install --classic ripgrep` | Fast, developer-friendly grep-like code searcher.
 <img src=images/rustacean.svg height=18/> [starship](https://starship.rs/) | Copy Fira Code Nerd Font *\*.ttf* files to *~/.fonts*; Set as font in terminal application; Follow *Quick Install* instructions using shell script. | Amazing developer-friendly, colorful, and rich shell prompt.
-[tig](https://jonas.github.io/tig/) | `apt install tig` | Fancy git browser.
+[tig](https://jonas.github.io/tig/) | `apt install tig` | Fancy git browser. I also like the "git lola" variant given at [this blog post](https://medium.com/better-programming/5-git-tricks-that-i-wished-i-have-known-earlier-af1060881880)
 [vim](https://vim8.org/) | `apt install vim` | Like trusty old `vi` but better, includes syntax highlighting.
 <img src=images/rustacean.svg height=18/> [zenith](https://github.com/bvaisvil/zenith) | PPA (see below) - instructions on project page | Colorful `top` replacement.
 
