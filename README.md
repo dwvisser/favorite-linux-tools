@@ -62,3 +62,7 @@ These look promising, but I haven't really tried them yet:
 
 * [nb](https://github.com/xwmx/nb) - CLI-based notebook that utilizes Git and can
   sync your notes using a remote git repository.
+* [zellij](https://github.com/zellij-org/zellij) - Rust-based "batteries included"
+  (i.e., supports YAML-based layout files) tmux replacement. As of this writing
+  (2021-04-29), they just released their first beta, which doesn't yet support
+  persistent sessions, which is what I really want. I'm paying attention, though!
