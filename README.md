@@ -18,11 +18,12 @@ Many of these are actually cross-platform. For context, I mostly use
 
 ## Terminal-based tools
 
-I really like tools built using modern (relative to C/C++) languages like Rust
-(<a href=https://commons.wikimedia.org/wiki/File:Rustacean-orig-noshadow.svg><img src=images/rustacean.svg height=18/></a>),
-Go (<a href=https://github.com/golang-samples/gopher-vector><img src=images/gopher.svg height=18/></a>), or even Python
-(<a href=https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg><img src=images/python.svg height=18/></a>),
-so I've marked those tools with icons.
+ I've marked all tools with icons indicating the primary implmentation language.
+ I really like tools built using modern (relative to, say, C
+ <img src=images/C_Logo.png height=18>) languages like Rust
+<a href=https://commons.wikimedia.org/wiki/File:Rustacean-orig-noshadow.svg><img src=images/rustacean.svg height=18/></a>,
+Go (<a href=https://github.com/golang-samples/gopher-vector><img src=images/gopher.svg height=18/></a>), Python
+(<a href=https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg><img src=images/python.svg height=18/></a>) and Ruby <img src=images/ruby.svg height=18>,
 
 Name | My Preferred Install Method | Description
 ---- | --------------------------- | -----------
@@ -34,6 +35,7 @@ Name | My Preferred Install Method | Description
 <img src=images/rustacean.svg height=18/> [hexyl](https://github.com/sharkdp/hexyl/) | dpkg (see below) | Colorful hexadecimal binary file viewer.
 <img src=images/gopher.svg height=18/> [micro](https://github.com/zyedidia/micro) | `snap install --classic micro` Also make sure to `apt install xclip`, and I have found it necessary on some machines to `export DISPLAY=:0.0` in my *.bashrc* file. | Nano replacement with syntax highlighting.
 <img src=images/rustacean.svg height=18/> [nushell](https://github.com/nushell/nushell) | Download tarball release file, extract under *~/.local*, and update [alias](.bash_aliases) | Fancy uber-capable shell, inspired by PowerShell, but results are more column-and-row based.
+<img src=images/rustacean.svg height=18/> [procs](https://github.com/dalance/procs) | `snap install procs` | Colorful, flexible `ps` replacement.
 <img src=images/rustacean.svg height=18/> [ripgrep](https://github.com/BurntSushi/ripgrep) | `snap install --classic ripgrep` | Fast, developer-friendly grep-like code searcher.
 <img src=images/rustacean.svg height=18/> [starship](https://starship.rs/) | Copy Fira Code Nerd Font *\*.ttf* files to *~/.fonts*; Set as font in terminal application; Follow *Quick Install* instructions using shell script. | Amazing developer-friendly, colorful, and rich shell prompt.
 <img src=images/C_Logo.png height=18> [tig](https://jonas.github.io/tig/) | `apt install tig` | Fancy git browser. I also like the "git lola" variant given at [this blog post](https://medium.com/better-programming/5-git-tricks-that-i-wished-i-have-known-earlier-af1060881880)
