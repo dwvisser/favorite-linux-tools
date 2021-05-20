@@ -60,8 +60,15 @@ to independently deploy Linux software, but PPA's do still exist.
 
 ### Candidates
 
-These look promising, but I haven't really tried them yet:
+These look promising, but I haven't really made up my mind about them yet:
 
+* [exa](https://github.com/ogham/exa) - Fancy `ls` replacement implemented in
+  Rust. I like that it defaults to colorful output with human readable file sizes.
+  It has a `--git` option that if you are in a worktree, shows Git status of files
+  and folders. My hangup is that it doesn't really have a good install experience
+  prior to Ubuntu 20.10 (where it has `apt` support). I have downloaded the Linux
+  executable and put it in *~/.local/bin*, and run its accompanying Bash completion
+  script in my *.bashrc* too.
 * [nb](https://github.com/xwmx/nb) - CLI-based notebook that utilizes Git and can
   sync your notes using a remote git repository.
 * [zellij](https://github.com/zellij-org/zellij) - Rust-based "batteries included"
