@@ -31,6 +31,7 @@ Name | Preferred Install Method | Description
 <img src=images/rustacean.svg height=18/> [bandwhich](https://github.com/imsnif/bandwhich) | Unzip executable from releases tarball to */usr/local/bin* | Very nice presentation of what programs are consuming bandwith on connections to where. Needs `sudo` to run.
 <img src=images/rustacean.svg height=18/> [bat](https://github.com/sharkdp/bat) | dpkg (see below) | Colorful `cat` with line numbers, paging, and syntax highlighting.
 <img src=images/gopher.svg height=18/> [duf](https://github.com/muesli/duf) | dpkg (see below) | Easy-on-the-eyes `du`/`df` replacement.
+<img src=images/rustacean.svg height=18> [exa](https://github.com/ogham/exa) | Download latest.zip from releases. Place binary in *~/.local/bin*. Add bash completion script to your *~/.bash_profile*. | `ls` replacement with colorful, columnar output. My [.bash_aliases](.bash_aliases) shows a headers, a Git status column, and nerd font icons.
 <img src=images/gopher.svg height=18> [fzf](https://github.com/junegunn/fzf) | See the [Using git](https://github.com/junegunn/fzf#using-git) instructions so [keyboard shortcuts](https://github.com/junegunn/fzf#key-bindings-for-command-line) are installed to the bash environment. | Powerful "command-line fuzzy finder" that is hard to describe adequately. Just watch [this YouTube video](https://youtu.be/qgG5Jhi_Els).
 <img src=images/rustacean.svg height=18/> [hexyl](https://github.com/sharkdp/hexyl/) | dpkg (see below) | Colorful hexadecimal binary file viewer.
 <img src=images/gopher.svg height=18/> [micro](https://github.com/zyedidia/micro) | `snap install --classic micro` Also make sure to `apt install xclip`, and I have found it necessary on some machines to `export DISPLAY=:0.0` in my *.bashrc* file. | Nano replacement with syntax highlighting.
@@ -62,13 +63,6 @@ to independently deploy Linux software, but PPA's do still exist.
 
 These look promising, but I haven't really made up my mind about them yet:
 
-* [exa](https://github.com/ogham/exa) - Fancy `ls` replacement implemented in
-  Rust. I like that it defaults to colorful output with human readable file sizes.
-  It has a `--git` option that if you are in a worktree, shows Git status of files
-  and folders. My hangup is that it doesn't really have a good install experience
-  prior to Ubuntu 20.10 (where it has `apt` support). I have downloaded the Linux
-  executable and put it in *~/.local/bin*, and run its accompanying Bash completion
-  script in my *.bashrc* too.
 * [nb](https://github.com/xwmx/nb) - CLI-based notebook that utilizes Git and can
   sync your notes using a remote git repository.
 * [zellij](https://github.com/zellij-org/zellij) - Rust-based "batteries included"
