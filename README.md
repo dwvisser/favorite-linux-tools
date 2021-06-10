@@ -51,6 +51,8 @@ file in the project releases page (generally just add **/releases** to the GitHu
 project URL), `curl -LO [release-file-url]` for the appropriate .deb release file,
 then `sudo dpkg -i [release-file]`.
 
+**snap** unfortunately is not supported on WSL.
+
 **PPA** is described well on [itsfoss.com](https://itsfoss.com/ppa-guide/):
 
 > PPA stands for Personal Package Archive. The PPA allows application developers and Linux users to create their own repositories to distribute software. With PPA, you can easily get newer software version or software that are not available via the official Ubuntu repositories.
