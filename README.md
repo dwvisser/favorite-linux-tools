@@ -23,7 +23,9 @@ Many of these are actually cross-platform. For context, I mostly use
  <img src=images/C_Logo.png height=18>) languages like Rust
 <a href=https://commons.wikimedia.org/wiki/File:Rustacean-orig-noshadow.svg><img src=images/rustacean.svg height=18/></a>,
 Go (<a href=https://github.com/golang-samples/gopher-vector><img src=images/gopher.svg height=18/></a>), Python
-(<a href=https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg><img src=images/python.svg height=18/></a>) and Ruby <img src=images/ruby.svg height=18>,
+(<a href=https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg><img src=images/python.svg height=18/></a>) and Ruby <img src=images/ruby.svg height=18>.
+
+The excellent list at [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) contains more tools I may try in the future.
 
 Name | Preferred Install Method | Description
 ---- | --------------------------- | -----------
@@ -31,6 +33,7 @@ Name | Preferred Install Method | Description
 <img src=images/rustacean.svg height=18/> [bandwhich](https://github.com/imsnif/bandwhich) | Unzip executable from releases tarball to */usr/local/bin* | Very nice presentation of what programs are consuming bandwith on connections to where. Needs `sudo` to run.
 <img src=images/rustacean.svg height=18/> [bat](https://github.com/sharkdp/bat) | dpkg (see below) | Colorful `cat` with line numbers, paging, and syntax highlighting.
 <img src=images/gopher.svg height=18/> [duf](https://github.com/muesli/duf) | dpkg (see below) | Easy-on-the-eyes `du`/`df` replacement.
+<img src=images/rustacean.svg height=18> [exa](https://github.com/ogham/exa) | Download latest.zip from releases. Place binary in *~/.local/bin*. Add bash completion script to your *~/.bash_profile*. | `ls` replacement with colorful, columnar output. My [.bash_aliases](.bash_aliases) defines `exag`, which shows column headers, a Git status column, and nerd font icons.
 <img src=images/gopher.svg height=18> [fzf](https://github.com/junegunn/fzf) | See the [Using git](https://github.com/junegunn/fzf#using-git) instructions so [keyboard shortcuts](https://github.com/junegunn/fzf#key-bindings-for-command-line) are installed to the bash environment. | Powerful "command-line fuzzy finder" that is hard to describe adequately. Just watch [this YouTube video](https://youtu.be/qgG5Jhi_Els).
 <img src=images/rustacean.svg height=18/> [hexyl](https://github.com/sharkdp/hexyl/) | dpkg (see below) | Colorful hexadecimal binary file viewer.
 <img src=images/gopher.svg height=18/> [micro](https://github.com/zyedidia/micro) | `snap install --classic micro` Also make sure to `apt install xclip`, and I have found it necessary on some machines to `export DISPLAY=:0.0` in my *.bashrc* file. | Nano replacement with syntax highlighting.
@@ -50,6 +53,8 @@ file in the project releases page (generally just add **/releases** to the GitHu
 project URL), `curl -LO [release-file-url]` for the appropriate .deb release file,
 then `sudo dpkg -i [release-file]`.
 
+**snap** unfortunately is not supported on WSL.
+
 **PPA** is described well on [itsfoss.com](https://itsfoss.com/ppa-guide/):
 
 > PPA stands for Personal Package Archive. The PPA allows application developers and Linux users to create their own repositories to distribute software. With PPA, you can easily get newer software version or software that are not available via the official Ubuntu repositories.
@@ -60,7 +65,7 @@ to independently deploy Linux software, but PPA's do still exist.
 
 ### Candidates
 
-These look promising, but I haven't really tried them yet:
+These look promising, but I haven't really made up my mind about them yet:
 
 * [nb](https://github.com/xwmx/nb) - CLI-based notebook that utilizes Git and can
   sync your notes using a remote git repository.
