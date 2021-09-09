@@ -16,6 +16,12 @@ Many of these are actually cross-platform. For context, I mostly use
  I am also a heavy user of the default
  [bash](https://www.gnu.org/software/bash/) shell.
 
+## Excellent External Resources
+
+* [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - Much of my day job is concerned with understanding log files we produce. This page gives
+  an invaluable overview of standard tools available for slicing, dicing and comprehending large structured text outputs.
+* The excellent list at [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) contains more tools I may try in the future.
+
 ## Terminal-based tools
 
  I've marked all tools with icons indicating the primary implmentation language.
@@ -24,8 +30,6 @@ Many of these are actually cross-platform. For context, I mostly use
 <a href=https://commons.wikimedia.org/wiki/File:Rustacean-orig-noshadow.svg><img src=images/rustacean.svg height=18/></a>,
 Go (<a href=https://github.com/golang-samples/gopher-vector><img src=images/gopher.svg height=18/></a>), Python
 (<a href=https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg><img src=images/python.svg height=18/></a>) and Ruby <img src=images/ruby.svg height=18>.
-
-The excellent list at [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) contains more tools I may try in the future.
 
 Name | Preferred Install Method | Description
 ---- | --------------------------- | -----------
