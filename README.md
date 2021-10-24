@@ -30,7 +30,7 @@ Many of these are actually cross-platform. For context, I mostly use
  <img src=images/C_Logo.png height=18>) languages like Rust
 <a href=https://commons.wikimedia.org/wiki/File:Rustacean-orig-noshadow.svg><img src=images/rustacean.svg height=18/></a>,
 Go (<a href=https://github.com/golang-samples/gopher-vector><img src=images/gopher.svg height=18/></a>), Python
-(<a href=https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg><img src=images/python.svg height=18/></a>) and Ruby <img src=images/ruby.svg height=18>.
+(<a href=https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg><img src=images/python.svg height=18/></a>) and Ruby <img src=images/ruby.svg height=18>. In the middle column, no markings mean the installation method is only known to be best for Ubuntu 18.04 and Raspbian. A check mark (✓) means the method is also best for Ubuntu 21.10. Otherwise, explicit text will be provided (evantually) if a better method is determined for Ubuntu 21.10.
 
 Name | Preferred Install Method | Description
 ---- | --------------------------- | -----------
@@ -42,7 +42,7 @@ Name | Preferred Install Method | Description
 <img src=images/gopher.svg height=18> [fzf](https://github.com/junegunn/fzf) | See the [Using git](https://github.com/junegunn/fzf#using-git) instructions so [keyboard shortcuts](https://github.com/junegunn/fzf#key-bindings-for-command-line) are installed to the bash environment. | Powerful "command-line fuzzy finder" that is hard to describe adequately. Just watch [this YouTube video](https://youtu.be/qgG5Jhi_Els).
 <img src=images/rustacean.svg height=18/> [gitui](https://github.com/extrawurst/gutui/) | Download binary. Place in *~/.local/bin* | Intuitive terminal-based UI to your Git repository. Lacks *tig*'s multi-branch tree view, so both tools are nice to have.
 <img src=images/rustacean.svg height=18/> [hexyl](https://github.com/sharkdp/hexyl/) | dpkg (see below) | Colorful hexadecimal binary file viewer.
-<img src=images/gopher.svg height=18/> [micro](https://github.com/zyedidia/micro) | `snap install --classic micro` Also make sure to `apt install xclip`, and I have found it necessary on some machines to `export DISPLAY=:0.0` in my *.bashrc* file. | Nano replacement with syntax highlighting.
+<img src=images/gopher.svg height=18/> [micro](https://github.com/zyedidia/micro) | ✓ `snap install --classic micro` Also make sure to `apt install xclip`, and I have found it necessary on some machines to `export DISPLAY=:0.0` in my *.bashrc* file. | Nano replacement with syntax highlighting.
 <img src=images/rustacean.svg height=18/> [nushell](https://github.com/nushell/nushell) | Download tarball release file, extract under *~/.local*, and update [alias](.bash_aliases) | Fancy uber-capable shell, inspired by PowerShell, but results are more column-and-row based.
 <img src=images/rustacean.svg height=18/> [procs](https://github.com/dalance/procs) | `snap install procs` | Colorful, flexible `ps` replacement.
 <img src=images/rustacean.svg height=18/> [ripgrep](https://github.com/BurntSushi/ripgrep) | `snap install --classic ripgrep` | Fast, developer-friendly grep-like code searcher.
