@@ -3,15 +3,16 @@
 
 Many of these are actually cross-platform. For context, I mostly use
 
-1. [Linux Mint](https://www.linuxmint.com/) 19.x, based off of
-   [Ubuntu](https://ubuntu.com) 18.04 on an x86_64 laptop.
+1. ~~[Linux Mint](https://www.linuxmint.com/) 19.x, based off of
+   [Ubuntu](https://ubuntu.com) 18.04~~ [Ubuntu MATE](https://ubuntu-mate.org) 21.10
+   on an x86_64 laptop. I will need to be updating this site to show best
+   installation methods on this device.
 2. [Raspbian](https://www.raspbian.org/) Buster on a
    [Raspberry Pi 2](https://www.raspberrypi.org/products/raspberry-pi-2-model-b/).
-3. At work, I use Ubuntu 18.04 virtual machines, and to a lesser extent a
-   [WSL](https://docs.microsoft.com/en-us/windows/wsl/) 1 instance of Ubuntu
-   18.04.
-4. Speaking of WSL, I also use Ubuntu 20.04 via WSL 2 a little bit on a home
-   machine.
+3. At work, I use Ubuntu 18.04 on 
+   1. a [WSL](https://docs.microsoft.com/en-us/windows/wsl/) 2, and to a lesser
+      extent,
+   2. a VirtualBox VM
 
  I am also a heavy user of the default
  [bash](https://www.gnu.org/software/bash/) shell.
