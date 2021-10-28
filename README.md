@@ -35,7 +35,7 @@ Go (<a href=https://github.com/golang-samples/gopher-vector><img src=images/goph
 Name | Preferred Install Method | Description
 ---- | --------------------------- | -----------
 <img src=images/python.svg height=18/> [autojump](https://github.com/wting/autojump) | ✓ `apt intall autojump`, then see man file for launching in your *.bashrc* | Lets me change working directory to recently used directories via quick pattern match.
-<img src=images/rustacean.svg height=18/> [bandwhich](https://github.com/imsnif/bandwhich) | Unzip executable from releases tarball to */usr/local/bin* | Very nice presentation of what programs are consuming bandwith on connections to where. Needs `sudo` to run.
+<img src=images/rustacean.svg height=18/> [bandwhich](https://github.com/imsnif/bandwhich) | ✓ Unzip executable from releases tarball to */usr/local/bin* | Very nice presentation of what programs are consuming bandwith on connections to where. Needs `sudo` to run.
 <img src=images/rustacean.svg height=18/> [bat](https://github.com/sharkdp/bat) | On Ubuntu 20.04 and newer, `apt install bat` (tool is invoked with `batcat` in this case). Otherwise, use dpkg (see below) | Colorful `cat` with line numbers, paging, and syntax highlighting.
 <img src=images/gopher.svg height=18/> [duf](https://github.com/muesli/duf) | ✓ `snap install duf-utility` | Easy-on-the-eyes `du`/`df` replacement.
 <img src=images/rustacean.svg height=18> [exa](https://github.com/ogham/exa) | Download latest.zip from releases. Place binary in *~/.local/bin*. Add bash completion script to your *~/.bash_profile*. | `ls` replacement with colorful, columnar output. My [.bash_aliases](.bash_aliases) defines `exag`, which shows column headers, a Git status column, and nerd font icons.
@@ -51,7 +51,7 @@ Name | Preferred Install Method | Description
 <img src=images/C_Logo.png height=18> [tmux](https://github.com/tmux/tmux) | ✓ `apt install tmux` | Terminal Multiplexer. Its [man page](https://linux.die.net/man/1/tmux) is excellent. The best "plain English" docs I've seen so far are at [The Tao of tmux](https://leanpub.com/the-tao-of-tmux/read).
 <img src=images/ruby.svg height=18> [tmuxinator](https://github.com/tmuxinator/tmuxinator) | ✓ `apt install tmuxinator` | Easily define *tmux* layouts/configs in YAML. This wins out over *tmuxp*, which is implemented and scriptable in my beloved Python, because it seems to be more actively developed.
 <img src=images/C_Logo.png height=18> [vim](https://vim8.org/) | ✓ `apt install vim` | Like trusty old `vi` but better, includes syntax highlighting.
-<img src=images/rustacean.svg height=18/> [zenith](https://github.com/bvaisvil/zenith) | dpkg (see below) | Colorful `top` replacement.
+<img src=images/rustacean.svg height=18/> [zenith](https://github.com/bvaisvil/zenith) | ✓ dpkg (see below) | Colorful `top` replacement.
 
 **dpkg** = Find the appropriate
 [non-musl-variant](https://www.musl-libc.org/faq.html) amd64 or armhf *.deb* release
