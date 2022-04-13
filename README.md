@@ -22,6 +22,7 @@ Many of these are actually cross-platform. For context, I mostly use
 * [dbohdan/structured-text-tools](https://github.com/dbohdan/structured-text-tools) - Much of my day job is concerned with understanding log files we produce. This page gives
   an invaluable overview of standard tools available for slicing, dicing and comprehending large structured text outputs.
 * The excellent list at [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) contains more tools I may try in the future.
+* A [blog post](https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/) by Julia Evans has some cool stuff to look at too.
 
 ## Terminal-based tools
 
