@@ -4,7 +4,7 @@
 Many of these are actually cross-platform. For context, I mostly use
 
 1. ~~[Linux Mint](https://www.linuxmint.com/) 19.x, based off of
-   [Ubuntu](https://ubuntu.com) 18.04~~ [Ubuntu MATE](https://ubuntu-mate.org) 21.10
+   [Ubuntu](https://ubuntu.com) 18.04~~ [Ubuntu MATE](https://ubuntu-mate.org) 22.04
    on an x86_64 laptop. I will need to be updating this site to show best
    installation methods on this device.
 2. [Raspbian](https://www.raspbian.org/) Buster on a
