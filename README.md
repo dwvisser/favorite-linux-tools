@@ -53,7 +53,7 @@ Name | Preferred Install Method | Description
 <img src=images/C_Logo.png height=18> [tmux](https://github.com/tmux/tmux) | ✓ `apt install tmux` | Terminal Multiplexer. Its [man page](https://linux.die.net/man/1/tmux) is excellent. The best "plain English" docs I've seen so far are at [The Tao of tmux](https://leanpub.com/the-tao-of-tmux/read).
 <img src=images/ruby.svg height=18> [tmuxinator](https://github.com/tmuxinator/tmuxinator) | ✓ `apt install tmuxinator` | Easily define *tmux* layouts/configs in YAML. This wins out over *tmuxp*, which is implemented and scriptable in my beloved Python, because it seems to be more actively developed.
 <img src=images/C_Logo.png height=18> [vim](https://vim8.org/) | ✓ `apt install vim` | Like trusty old `vi` but better, includes syntax highlighting.
-<img src=images/rustacean.svg height=18/> [zellij](https://github.com/zellij-org/zellij) | ✓ Copy binary release to */usr/local/bin*. In some environments, I prefer to `cargo install zellij`. | Colorful, user-friendly, `tmux` and `tmuxinator` replacement, that I'm starting to use instead.
+<img src=images/rustacean.svg height=18/> [zellij](https://github.com/zellij-org/zellij) | ✓ Copy binary release to */usr/local/bin*. In some environments, I prefer to `cargo install zellij` (at least Rust v1.61.0, obtained in Ubuntu 18.04 using *rustup* installed via snap). | Colorful, user-friendly, `tmux` and `tmuxinator` replacement, that I'm starting to use instead.
 <img src=images/rustacean.svg height=18/> [zenith](https://github.com/bvaisvil/zenith) | ✓ dpkg (see below) | Colorful `top` replacement.
 
 **dpkg** = Find the appropriate
