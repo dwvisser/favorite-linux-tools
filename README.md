@@ -78,3 +78,4 @@ Look promising, but I haven't really tried enough and/or made up my mind yet:
 
 * [nb](https://github.com/xwmx/nb) - CLI-based notebook that utilizes Git and can
   sync your notes using a remote git repository.
+* [rulex](https://rulex-rs.github.io/) - I love that this "simplified" text matching language can generate non-trivial regexes for numeric ranges for me.
