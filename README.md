@@ -23,7 +23,7 @@ Many of these are actually cross-platform. For context, I currently use:
  <img src=images/C_Logo.png height=18>) languages like Rust
 <a href=https://commons.wikimedia.org/wiki/File:Rustacean-orig-noshadow.svg><img src=images/rustacean.svg height=18/></a>,
 Go (<a href=https://github.com/golang-samples/gopher-vector><img src=images/gopher.svg height=18/></a>), Python
-(<a href=https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg><img src=images/python.svg height=18/></a>) and Ruby <img src=images/ruby.svg height=18>. In the middle column, no markings mean the installation method is only known to be best for Ubuntu 18.04. A check mark (✓) means the method is also best for Ubuntu 21.10+. Otherwise, explicit text will be provided (evantually) if a better method is determined for Ubuntu 21.10+.
+(<a href=https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg><img src=images/python.svg height=18/></a>) and Ruby <img src=images/ruby.svg height=18>.
 
 Name | Ubuntu 18.04 | Later Ubuntu | Fedora | Description
 ---- | --------------------------- | - | - | -----------
