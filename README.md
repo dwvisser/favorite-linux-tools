@@ -36,7 +36,7 @@ Name | Ubuntu 18.04 | Later Ubuntu | Fedora | Description
 <img src=images/gopher.svg height=18> [fzf](https://github.com/junegunn/fzf) | See the [Using git](https://github.com/junegunn/fzf#using-git) instructions so [keyboard shortcuts](https://github.com/junegunn/fzf#key-bindings-for-command-line) are installed to the bash environment. | On Ubuntu 19.10 and newer, just `apt install fzf`, then look at `apt show fzf` to find instructions on enabling keybindings and autocompletions. | | Powerful "command-line fuzzy finder" that is hard to describe adequately. Just watch [this YouTube video](https://youtu.be/qgG5Jhi_Els).
 <img src=images/rustacean.svg height=18/> [gitui](https://github.com/extrawurst/gitui/) | Download binary. Place in *~/.local/bin* | | | Intuitive terminal-based UI to your Git repository. Lacks *tig*'s multi-branch tree view, so both tools are nice to have.
 <img src=images/rustacean.svg height=18/> [hexyl](https://github.com/sharkdp/hexyl/) | dpkg (see below) | | | Colorful hexadecimal binary file viewer.
-<img src=images/ruby.svg height=18> [mdless](https://github.com/ttscoff/mdless) | `snap install mdless` | | | Pretty print Markdown with color to terminal. I find the `--no-pager` option useful when looking at small Markdown files
+<img src=images/ruby.svg height=18> [mdless](https://github.com/ttscoff/mdless) | `snap install mdless` | | `snap install mdless` | Pretty print Markdown with color to terminal. I find the `--no-pager` option useful when looking at small Markdown files
 <img src=images/gopher.svg height=18/> [micro](https://github.com/zyedidia/micro) | | `snap install --classic micro` Also make sure to `apt install xclip`. | | Nano replacement with syntax highlighting.
 <img src=images/rustacean.svg height=18/> [nushell](https://github.com/nushell/nushell) | Download tarball release file, extract under *~/.local*, and update [alias](.bash_aliases) | | | Fancy uber-capable shell, inspired by PowerShell, but results are more column-and-row based.
 <img src=images/rustacean.svg height=18/> [procs](https://github.com/dalance/procs) | | `snap install procs` | | Colorful, flexible `ps` replacement.
@@ -55,7 +55,7 @@ file in the project releases page (generally just add **/releases** to the GitHu
 project URL), `curl -LO [release-file-url]` for the appropriate .deb release file,
 then `sudo dpkg -i [release-file]`.
 
-**snap** unfortunately is not supported on WSL.
+**snap** is included on Ubuntu, can be [installed on Fedora](https://snapcraft.io/install/snap-store/fedora), and is not supported on WSL.
 
 **PPA** is described well on [itsfoss.com](https://itsfoss.com/ppa-guide/):
 
