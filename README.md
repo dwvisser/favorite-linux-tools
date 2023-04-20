@@ -69,6 +69,9 @@ to independently deploy Linux software, but PPA's do still exist.
 
 Look promising, but I haven't really tried enough and/or made up my mind yet:
 
+* I've been nervous about Nix & NixOS, but this tool looks to possibly give me 99%
+  of what I might want from those, anyway, including having a lot of the above
+  tools installed on any new machine easily: https://getfleek.dev/
 * [nb](https://github.com/xwmx/nb) - CLI-based notebook that utilizes Git and can
   sync your notes using a remote git repository.
 * [rulex](https://rulex-rs.github.io/) - I love that this "simplified" text matching language can generate non-trivial regexes for numeric ranges for me.
