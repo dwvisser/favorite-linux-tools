@@ -3,11 +3,10 @@
 
 Many of these are actually cross-platform. For context, I currently use:
 
-1. At home: Fedora Workstation 36
-3. At work: Ubuntu 18.04 and 20.04.
+1. At home: Fedora Workstation 39 & Ubuntu 23.10
+3. At work: Ubuntu 22.04.
 
- I am also a heavy user of the default
- [bash](https://www.gnu.org/software/bash/) shell.
+ I am also a heavy user of the default [bash](https://www.gnu.org/software/bash/) shell.
 
 ## Excellent External Resources
 
@@ -25,32 +24,30 @@ Many of these are actually cross-platform. For context, I currently use:
 Go (<a href=https://github.com/golang-samples/gopher-vector><img src=images/gopher.svg height=18/></a>), Python
 (<a href=https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg><img src=images/python.svg height=18/></a>) and Ruby <img src=images/ruby.svg height=18>. I obtained the <a href="https://iconscout.com/icons/programming-language-file" target="_blank">Programming language file Icon</a> icon at <a href="https://iconscout.com">IconScout</a>.
 
-Impl <img src=images/programming-language-file.svg height = 18> | Name | Ubuntu 18.04 | Later Ubuntu | Fedora | Description / Config
----- | -- |--------------------------- | - | - | -----------
-<img src=images/python.svg height=18/> | [autojump](https://github.com/wting/autojump) | | `apt intall autojump`, then see man file for launching in your *.bashrc* | | Lets me change working directory to recently used directories via quick pattern match.
-<img src=images/rustacean.svg height=18/> | [bandwhich](https://github.com/imsnif/bandwhich) | | Unzip executable from releases tarball to */usr/local/bin* | | Very nice presentation of what programs are consuming bandwith on connections to where. Needs `sudo` to run.
-<img src=images/rustacean.svg height=18/> | [bat](https://github.com/sharkdp/bat) | use dpkg (see below) | `apt install bat` (tool is invoked with `batcat` in this case). | `dnf install bat` | Colorful `cat` with line numbers, paging, and syntax highlighting.
-<img src=images/rustacean.svg height=18/> | [diskonaut](https://github.com/imsnif/diskonaut/) | `cargo install diskonaut` | same | same | Interactive treemap visualization of disk space usage, right in the console
-<img src=images/gopher.svg height=18/> | [duf](https://github.com/muesli/duf) |  use dpkg (see below) | 22.04+: `apt intall duf` | `dnf install duf` | Easy-on-the-eyes `du`/`df` replacement.
-<img src=images/python.svg height=18/> | [dunk](https://github.com/darrenburns/dunk) | | Use Python >= 3.7 and [pipx](https://pypi.org/project/pipx/) to install to your user executable path. | | Pretty, colorful side-by-side git diffs achieved by `git diff foo bar \| dunk`.
-<img src=images/rustacean.svg height=18> | [exa](https://github.com/ogham/exa) | Download latest *.zip* from releases. Place binary in *~/.local/bin*. Add bash completion script to your *~/.bash_profile*. Useful `exag` alias in [.bash_aliases](.bash_aliases) | 20.10+: `apt install exa` (Git support not included) | | `ls` replacement with colorful, columnar output.
-<img src=images/gopher.svg height=18/> | [fx](https://github.com/antonmedv/fx) | | | | JSON Viewer that helps with figuring out [jq](https://github.com/jqlang/jq) query syntax. | 
-<img src=images/gopher.svg height=18> | [fzf](https://github.com/junegunn/fzf) | See the [Using git](https://github.com/junegunn/fzf#using-git) instructions so [keyboard shortcuts](https://github.com/junegunn/fzf#key-bindings-for-command-line) are installed to the bash environment. | `apt install fzf`, then look at `apt show fzf` to find instructions on enabling keybindings and autocompletions. | `dnf install fzf`, then look in */usr/share/doc/fzf* for how to enable keybindings. | Powerful "command-line fuzzy finder" that is hard to describe adequately. Its *Alt-C* function has allowed me to augment *autojump* when jumping *into* the current tree. Just watch [this YouTube video](https://youtu.be/qgG5Jhi_Els), or read [this blog post](https://andrew-quinn.me/fzf/).
-<img src=images/gopher.svg height=18/> | [glow](https://github.com/charmbracelet/glow) | dpkg (see below) | same | same | Render markdown nicely right in the terminal.
+Impl <img src=images/programming-language-file.svg height = 18> | Name | Ubuntu | Fedora | Description / Config
+---- | -- |--------------------------- | - | -
+<img src=images/python.svg height=18/> | [autojump](https://github.com/wting/autojump) | `apt intall autojump`, then see man file for launching in your *.bashrc* | | Lets me change working directory to recently used directories via quick pattern match.
+<img src=images/rustacean.svg height=18/> | [bandwhich](https://github.com/imsnif/bandwhich) | Unzip executable from releases tarball to */usr/local/bin* | | Very nice presentation of what programs are consuming bandwith on connections to where. Needs `sudo` to run.
+<img src=images/rustacean.svg height=18/> | [bat](https://github.com/sharkdp/bat) | `apt install bat` (tool is invoked with `batcat` in this case). | `dnf install bat` | Colorful `cat` with line numbers, paging, and syntax highlighting.
+<img src=images/rustacean.svg height=18/> | [diskonaut](https://github.com/imsnif/diskonaut/) | `cargo install diskonaut` | same | Interactive treemap visualization of disk space usage, right in the console
+<img src=images/gopher.svg height=18/> | [duf](https://github.com/muesli/duf) | 22.04+: `apt intall duf` | `dnf install duf` | Easy-on-the-eyes `du`/`df` replacement.
+<img src=images/python.svg height=18/> | [dunk](https://github.com/darrenburns/dunk) | Use Python >= 3.7 and [pipx](https://pypi.org/project/pipx/) to install to your user executable path. | | Pretty, colorful side-by-side git diffs achieved by `git diff foo bar \| dunk`.
+<img src=images/rustacean.svg height=18> | [exa](https://github.com/ogham/exa) | 20.10+: `apt install exa` (Git support not included) Add bash completion script to your *~/.bash_profile*. Useful `exag` alias in [.bash_aliases](.bash_aliases) | | `ls` replacement with colorful, columnar output.
+<img src=images/gopher.svg height=18/> | [fx](https://github.com/antonmedv/fx) | | | JSON Viewer that helps with figuring out [jq](https://github.com/jqlang/jq) query syntax. | 
+<img src=images/gopher.svg height=18> | [fzf](https://github.com/junegunn/fzf) | `apt install fzf`, then look at `apt show fzf` to find instructions on enabling keybindings and autocompletions. | `dnf install fzf`, then look in */usr/share/doc/fzf* for how to enable keybindings. | Powerful "command-line fuzzy finder" that is hard to describe adequately. Its *Alt-C* function has allowed me to augment *autojump* when jumping *into* the current tree. Just watch [this YouTube video](https://youtu.be/qgG5Jhi_Els), or read [this blog post](https://andrew-quinn.me/fzf/).
+<img src=images/gopher.svg height=18/> | [glow](https://github.com/charmbracelet/glow) | dpkg (see below) | same | Render markdown nicely right in the terminal.
 <img src=images/rustacean.svg height=18/> | [gitui](https://github.com/extrawurst/gitui/) | Download binary. Place in *~/.local/bin* | same | same | Intuitive terminal-based UI to your Git repository. Lacks *tig*'s multi-branch tree view, so both tools are nice to have.
-<img src=images/rustacean.svg height=18/> | [hexyl](https://github.com/sharkdp/hexyl/) | dpkg (see below) | | | Colorful hexadecimal binary file viewer.
-<img src=images/ruby.svg height=18> | [mdless](https://github.com/ttscoff/mdless) | `snap install mdless` | | `snap install mdless` | Pretty print Markdown with color to terminal. I find the `--no-pager` option useful when looking at small Markdown files
-<img src=images/gopher.svg height=18/> | [micro](https://github.com/zyedidia/micro) | `snap install --classic micro` Also make sure to `apt install xclip`. | `apt install micro` | `dnf install micro` | Nano replacement with syntax highlighting.
+<img src=images/rustacean.svg height=18/> | [hexyl](https://github.com/sharkdp/hexyl/) | dpkg (see below) | | Colorful hexadecimal binary file viewer.
+<img src=images/ruby.svg height=18> | [mdless](https://github.com/ttscoff/mdless) | `snap install mdless` | `snap install mdless` | Pretty print Markdown with color to terminal. I find the `--no-pager` option useful when looking at small Markdown files
+<img src=images/gopher.svg height=18/> | [micro](https://github.com/zyedidia/micro) | `apt install micro` | `dnf install micro` | Nano replacement with syntax highlighting.
 <img src=images/rustacean.svg height=18/> | [nushell](https://github.com/nushell/nushell) | Download tarball release file, extract under *~/.local*, and update [alias](.bash_aliases) | | | Fancy uber-capable shell, inspired by PowerShell, but results are more column-and-row based.
-<img src=images/rustacean.svg height=18/> | [procs](https://github.com/dalance/procs) | `snap install procs` | `snap install procs` | `dnf install procs` | Colorful, flexible `ps` replacement.
-<img src=images/rustacean.svg height=18/> | [ripgrep](https://github.com/BurntSushi/ripgrep) | `snap install --classic ripgrep` | `apt install ripgrep` | `dnf install ripgrep` | Fast, developer-friendly grep-like code searcher.
-<img src=images/rustacean.svg height=18/> | [starship](https://starship.rs/) | [Install Fira Code Nerd Font](https://github.com/tonsky/FiraCode/wiki/Linux-instructions#installing-with-a-package-manager); Set as font in terminal application; [Set as font in VS Code](https://github.com/tonsky/FiraCode/wiki/VS-Code-Instructions); Follow *Quick Install* instructions using shell script. | same | same | Amazing developer-friendly, colorful, and rich shell prompt. **Config**: Copy *.config/starship.toml* to *~/.config*
-<img src=images/C_Logo.png height=18> | [tig](https://jonas.github.io/tig/) | `apt install tig` | `apt install tig` | | Fancy git browser. I also like the "git lola" variant given at [this blog post](https://medium.com/better-programming/5-git-tricks-that-i-wished-i-have-known-earlier-af1060881880)
-<img src=images/C_Logo.png height=18> | [tmux](https://github.com/tmux/tmux) | `apt install tmux` | `apt install tmux` | | Terminal Multiplexer. Its [man page](https://linux.die.net/man/1/tmux) is excellent. The best "plain English" docs I've seen so far are at [The Tao of tmux](https://leanpub.com/the-tao-of-tmux/read).
-<img src=images/ruby.svg height=18> | [tmuxinator](https://github.com/tmuxinator/tmuxinator) | `apt install tmuxinator` | `apt install tmuxinator` | | Easily define *tmux* layouts/configs in YAML. This wins out over *tmuxp*, which is implemented and scriptable in my beloved Python, because it seems to be more actively developed.
-<img src=images/C_Logo.png height=18> | [vim](https://vim8.org/) | `apt install vim`  | `apt install vim` | | Like trusty old `vi` but better, includes syntax highlighting.
-<img src=images/rustacean.svg height=18/> | [zellij](https://github.com/zellij-org/zellij) | Copy binary release to *~/.local/bin*; or `snap install rustup` && `rustup update` && `cargo install zellij` | `apt install cargo` && `cargo install zellij` | `dnf install cargo` && `cargo install zellij` | Colorful, user-friendly, `tmux` replacement, that I usually use now.  **Config**: Copy *.config/zellij/config.yaml* to use Alt-S and Alt-Q instead, which avoids collision with *micro* editor keys.
-<img src=images/rustacean.svg height=18/> | [zenith](https://github.com/bvaisvil/zenith) | dpkg (see below) | dpkg (see below) | | Colorful `top` replacement.
+<img src=images/rustacean.svg height=18/> | [procs](https://github.com/dalance/procs) | `snap install procs` | `dnf install procs` | Colorful, flexible `ps` replacement.
+<img src=images/rustacean.svg height=18/> | [ripgrep](https://github.com/BurntSushi/ripgrep) | `apt install ripgrep` | `dnf install ripgrep` | Fast, developer-friendly grep-like code searcher.
+<img src=images/rustacean.svg height=18/> | [starship](https://starship.rs/) | [Install Fira Code Nerd Font](https://github.com/tonsky/FiraCode/wiki/Linux-instructions#installing-with-a-package-manager); Set as font in terminal application; [Set as font in VS Code](https://github.com/tonsky/FiraCode/wiki/VS-Code-Instructions); Follow *Quick Install* instructions using shell script. | same | Amazing developer-friendly, colorful, and rich shell prompt. **Config**: Copy *.config/starship.toml* to *~/.config*
+<img src=images/C_Logo.png height=18> | [tig](https://jonas.github.io/tig/) | `apt install tig` | | Fancy git browser. I also like the "git lola" variant given at [this blog post](https://medium.com/better-programming/5-git-tricks-that-i-wished-i-have-known-earlier-af1060881880)
+<img src=images/C_Logo.png height=18> | [vim](https://vim8.org/) | `apt install vim` | | Like trusty old `vi` but better, includes syntax highlighting.
+<img src=images/rustacean.svg height=18/> | [zellij](https://github.com/zellij-org/zellij) | `snap install --classic zellij` | `dnf install cargo` && `cargo install zellij` | Colorful, user-friendly, `tmux` replacement, that I usually use now.  **Config**: Copy *.config/zellij/config.yaml* to use Alt-S and Alt-Q instead, which avoids collision with *micro* editor keys.
+<img src=images/rustacean.svg height=18/> | [zenith](https://github.com/bvaisvil/zenith) | dpkg (see below) | | Colorful `top` replacement.
 
 **dpkg** = Find the appropriate
 [non-musl-variant](https://www.musl-libc.org/faq.html) amd64 or armhf *.deb* release
