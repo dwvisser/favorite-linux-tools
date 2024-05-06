@@ -26,7 +26,7 @@ Go (<a href=https://github.com/golang-samples/gopher-vector><img src=images/goph
 
 Impl <img src=images/programming-language-file.svg height = 18> | Name | Ubuntu | Fedora | Description / Config
 ---- | -- |--------------------------- | - | -
-<img src=images/python.svg height=18/> | [autojump](https://github.com/wting/autojump) | `apt intall autojump`, then see man file for launching in your *.bashrc* | | Lets me change working directory to recently used directories via quick pattern match. (A tool I'm watching to replace this whenever I can rely on fzf 0.33 or later packages is [zoxide](https://github.com/ajeetdsouza/zoxide).
+<img src=images/python.svg height=18/> | [autojump](https://github.com/wting/autojump) | `apt intall autojump`, then see man file for launching in your *.bashrc* | | Lets me change working directory to recently used directories via quick pattern match. (A tool I'm watching to replace this whenever I can rely on fzf 0.33 or later packages is [zoxide](https://github.com/ajeetdsouza/zoxide).)
 <img src=images/rustacean.svg height=18/> | [bandwhich](https://github.com/imsnif/bandwhich) | Unzip executable from releases tarball to */usr/local/bin* | | Very nice presentation of what programs are consuming bandwith on connections to where. Needs `sudo` to run.
 <img src=images/rustacean.svg height=18/> | [bat](https://github.com/sharkdp/bat) | `apt install bat` (tool is invoked with `batcat` in this case). | `dnf install bat` | Colorful `cat` with line numbers, paging, and syntax highlighting.
 <img src=images/rustacean.svg height=18/> | [diskonaut](https://github.com/imsnif/diskonaut/) | `cargo install diskonaut` | same | Interactive treemap visualization of disk space usage, right in the console
