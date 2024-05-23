@@ -3,7 +3,7 @@
 
 Many of these are actually cross-platform. For context, I currently use:
 
-1. At home: Fedora Workstation 40 & Ubuntu 23.10
+1. At home: Fedora Workstation 40 & Ubuntu 24.04
 3. At work: Ubuntu 22.04.
 
  I am also a heavy user of the default [bash](https://www.gnu.org/software/bash/) shell.
@@ -29,6 +29,7 @@ Impl <img src=images/programming-language-file.svg height = 18> | Name | Ubuntu 
 <img src=images/python.svg height=18/> | [autojump](https://github.com/wting/autojump) | `apt intall autojump`, then see man file for launching in your *.bashrc* | | Lets me change working directory to recently used directories via quick pattern match. (A tool I'm watching to replace this whenever I can rely on fzf 0.33 or later packages is [zoxide](https://github.com/ajeetdsouza/zoxide).)
 <img src=images/rustacean.svg height=18/> | [bandwhich](https://github.com/imsnif/bandwhich) | Unzip executable from releases tarball to */usr/local/bin* | | Very nice presentation of what programs are consuming bandwith on connections to where. Needs `sudo` to run.
 <img src=images/rustacean.svg height=18/> | [bat](https://github.com/sharkdp/bat) | `apt install bat` (tool is invoked with `batcat` in this case). | `dnf install bat` | Colorful `cat` with line numbers, paging, and syntax highlighting.
+<img src=images/rustacean.svg height=18/> | [csvlens](https://github.com/YS-L/csvlens/) | `cargo install csvlens` | `cargo install csvlens` | Amazing command-line interactive CSV file viewer. (H or ? shows help)
 <img src=images/rustacean.svg height=18/> | [diskonaut](https://github.com/imsnif/diskonaut/) | `cargo install diskonaut` | same | Interactive treemap visualization of disk space usage, right in the console
 <img src=images/gopher.svg height=18/> | [duf](https://github.com/muesli/duf) | 22.04+: `apt intall duf` | `dnf install duf` | Easy-on-the-eyes `du`/`df` replacement.
 <img src=images/python.svg height=18/> | [dunk](https://github.com/darrenburns/dunk) | Use Python >= 3.7 and [pipx](https://pypi.org/project/pipx/) to install to your user executable path. | | Pretty, colorful side-by-side git diffs achieved by `git diff foo bar \| dunk`.
