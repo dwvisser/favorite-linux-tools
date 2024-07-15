@@ -58,15 +58,14 @@ file in the project releases page (generally just add **/releases** to the GitHu
 project URL), `curl -LO [release-file-url]` for the appropriate .deb release file,
 then `sudo dpkg -i [release-file]`.
 
-**snap** is included on Ubuntu, can be [installed on Fedora](https://snapcraft.io/install/snap-store/fedora), and is not supported on WSL.
-
-**PPA** is described well on [itsfoss.com](https://itsfoss.com/ppa-guide/):
-
-> PPA stands for Personal Package Archive. The PPA allows application developers and Linux users to create their own repositories to distribute software. With PPA, you can easily get newer software version or software that are not available via the official Ubuntu repositories.
+**snap** is included on Ubuntu as its favored containerized application solution.
+It can be [installed on Fedora](https://snapcraft.io/install/snap-store/fedora),
+and is not supported on WSL. **flatpak** is in a way, the inverse: it is available
+by default on Fedora, but must be installed on Ubuntu.
 
 Nowadays, containerized solutions like [snap](https://snapcraft.io/about) or
-[flatpak](https://flathub.org/about) are the preferred, and arguably more secure, ways
-to independently deploy Linux software, but PPA's do still exist.
+[flatpak](https://flathub.org/about) are a common and useful way to install
+software on Linux.
 
 ### Maybe at some point?
 
