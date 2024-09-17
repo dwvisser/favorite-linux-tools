@@ -67,6 +67,11 @@ Nowadays, containerized solutions like [snap](https://snapcraft.io/about) or
 [flatpak](https://flathub.org/about) are a common and useful way to install
 software on Linux.
 
+### For Python Development
+
+* [uv](https://docs.astral.sh/uv/) - Fast replacement for pip, venv, et al, written in Rust.
+* [wat](https://igrek51.github.io/wat/) - Interactive object introspection with colorful output.
+
 ### Maybe at some point?
 
 Look promising, but I haven't really tried enough and/or made up my mind yet:
@@ -78,4 +83,4 @@ Look promising, but I haven't really tried enough and/or made up my mind yet:
   sync your notes using a remote git repository.
 * [rulex](https://rulex-rs.github.io/) - I love that this "simplified" text matching language can generate non-trivial regexes for numeric ranges for me.
 * [chezmoi](https://www.chezmoi.io/) - Manage dotfiles across machines leveraging Git, written in Go.
-* [uv](https://docs.astral.sh/uv/) - Fast replacement for pip, venv, et al, written in Rust.
+
