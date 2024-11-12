@@ -24,7 +24,7 @@ Many of these are actually cross-platform. For context, I currently use:
 Go (<a href=https://github.com/golang-samples/gopher-vector><img src=images/gopher.svg height=18/></a>), Python
 (<a href=https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg><img src=images/python.svg height=18/></a>) and Ruby <img src=images/ruby.svg height=18>. I obtained the <a href="https://iconscout.com/icons/programming-language-file" target="_blank">Programming language file Icon</a> icon at <a href="https://iconscout.com">IconScout</a>.
 
-Impl <img src=images/programming-language-file.svg height = 18> | Name | Ubuntu | Fedora | Description / Config
+Lang <img src=images/programming-language-file.svg height = 18> | Name | Ubuntu | Fedora | Description / Config
 ---- | -- |--------------------------- | - | -
 <img src=images/python.svg height=18/> | [autojump](https://github.com/wting/autojump) | `apt intall autojump`, then see man file for launching in your *.bashrc* | | Lets me change working directory to recently used directories via quick pattern match. (A tool I'm watching to replace this whenever I can rely on fzf 0.33 or later packages is [zoxide](https://github.com/ajeetdsouza/zoxide).)
 <img src=images/rustacean.svg height=18/> | [bandwhich](https://github.com/imsnif/bandwhich) | Unzip executable from releases tarball to */usr/local/bin* | | Very nice presentation of what programs are consuming bandwith on connections to where. Needs `sudo` to run.
@@ -42,6 +42,7 @@ Impl <img src=images/programming-language-file.svg height = 18> | Name | Ubuntu 
 <img src=images/rustacean.svg height=18/> | [gitui](https://github.com/extrawurst/gitui/) | Download binary. Place in *~/.local/bin* | same | same | Intuitive terminal-based UI to your Git repository. Lacks *tig*'s multi-branch tree view, so both tools are nice to have.
 <img src=images/rustacean.svg height=18/> | [hexyl](https://github.com/sharkdp/hexyl/) | dpkg (see below) | | Colorful hexadecimal binary file viewer.
 <img src=images/rustacean.svg height=18/> | [jnv](https://github.com/ynqa/jnv) | `cargo install jnv` | same | Pure Rust interactive json filtering for subset of [jq filters](https://jqlang.github.io/jq/manual/#basic-filters).
+<img src=images/python.svg height=18/> | [litecli](https://github.com/dbcli/litecli) | `pip install litecli` | same | Colorful autocomplete-savvy SQLite CLI client
 <img src=images/ruby.svg height=18> | [mdless](https://github.com/ttscoff/mdless) | `gem install --user-install mdless` | `snap install mdless`? | Pretty print Markdown with color to terminal. I find the `--no-pager` option useful when looking at small Markdown files
 <img src=images/gopher.svg height=18/> | [micro](https://github.com/zyedidia/micro) | `apt install micro` | `dnf install micro` | Nano replacement with syntax highlighting.
 <img src=images/rustacean.svg height=18/> | [nushell](https://github.com/nushell/nushell) | Download tarball release file, extract under *~/.local*, and update [alias](.bash_aliases) | | | Fancy uber-capable shell, inspired by PowerShell, but results are more column-and-row based.
