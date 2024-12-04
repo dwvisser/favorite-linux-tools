@@ -24,7 +24,7 @@ Go (<a href=https://github.com/golang-samples/gopher-vector><img src=images/goph
 
 Name | Ubuntu | Fedora | Description / Config
 ---- |------- | ------ | --------------------
-<img src=images/python.svg height=18/> [autojump](https://github.com/wting/autojump) | `apt intall autojump`, then see man file for launching in your *.bashrc* | | Lets me change working directory to recently used directories via quick pattern match. (A tool I'm watching to replace this whenever I can rely on fzf 0.33 or later packages is [zoxide](https://github.com/ajeetdsouza/zoxide).)
+<img src=images/python.svg height=18/> [autojump](https://github.com/wting/autojump) | `apt intall autojump`, then see man file for launching in your *.bashrc* | | Lets me change working directory to recently used directories via quick pattern match. A tool I'm watching to replace this whenever I can rely on fzf 0.33 or later packages (Ubuntu 24.04+/Fedora 40+) is [zoxide](https://github.com/ajeetdsouza/zoxide).
 <img src=images/rustacean.svg height=18/> [bandwhich](https://github.com/imsnif/bandwhich) | Unzip executable from releases tarball to */usr/local/bin* | | Very nice presentation of what programs are consuming bandwith on connections to where. Needs `sudo` to run.
 <img src=images/rustacean.svg height=18/> [bat](https://github.com/sharkdp/bat) | `apt install bat` (tool is invoked with `batcat` in this case). | `dnf install bat` | Colorful `cat` with line numbers, paging, and syntax highlighting.
 <img src=images/rustacean.svg height=18/> [csvlens](https://github.com/YS-L/csvlens/) | `cargo install csvlens` | `cargo install csvlens` | Amazing command-line interactive CSV file viewer. (H or ? shows help)
