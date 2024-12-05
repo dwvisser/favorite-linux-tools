@@ -22,17 +22,25 @@ Many of these are actually cross-platform. For context, I currently use:
 Go (<a href=https://github.com/golang-samples/gopher-vector><img src=images/gopher.svg height=18/></a>), Python
 (<a href=https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg><img src=images/python.svg height=18/></a>) and Ruby <img src=images/ruby.svg height=18>.
 
+### Filesystem
+
 Name | Ubuntu | Fedora | Description / Config
 ---- |------- | ------ | --------------------
 <img src=images/python.svg height=18/> [autojump](https://github.com/wting/autojump) | `apt intall autojump`, then see man file for launching in your *.bashrc* | | Lets me change working directory to recently used directories via quick pattern match. A tool I'm watching to replace this whenever I can rely on fzf 0.33 or later packages (Ubuntu 24.04+/Fedora 40+) is [zoxide](https://github.com/ajeetdsouza/zoxide).
-<img src=images/rustacean.svg height=18/> [bandwhich](https://github.com/imsnif/bandwhich) | Unzip executable from releases tarball to */usr/local/bin* | | Very nice presentation of what programs are consuming bandwith on connections to where. Needs `sudo` to run.
-<img src=images/rustacean.svg height=18/> [bat](https://github.com/sharkdp/bat) | `apt install bat` (tool is invoked with `batcat` in this case). | `dnf install bat` | Colorful `cat` with line numbers, paging, and syntax highlighting.
-<img src=images/rustacean.svg height=18/> [csvlens](https://github.com/YS-L/csvlens/) | `cargo install csvlens` | `cargo install csvlens` | Amazing command-line interactive CSV file viewer. (H or ? shows help)
 <img src=images/rustacean.svg height=18/> [diskonaut](https://github.com/imsnif/diskonaut/) | `cargo install diskonaut` | same | Interactive treemap visualization of disk space usage, right in the console
-<img src=images/gopher.svg height=18/> [doggo](https://github.com/mr-karan/doggo) | Unzip executable from releases tarball to */usr/local/bin* |  | Pretty [dig](https://www.isc.org/bind/) replacement, for querying DNS from the command-line.
 <img src=images/gopher.svg height=18/> [duf](https://github.com/muesli/duf) | `apt intall duf` | `dnf install duf` | Easy-on-the-eyes `du`/`df` replacement.
 <img src=images/rustacean.svg height=18> [eza](https://github.com/eza-community/eza) | [PPA instructions](https://eza.rocks/#debian-and-ubuntu) | `dnf install eza` | `ls` replacement with colorful, columnar output. See useful `ezag` alias in [.bash_aliases](.bash_aliases)
 <img src=images/rustacean.svg height=18/> [fd](https://github.com/sharkdp/fd) | `apt install fd-find` | `dnf install fd-find` | Colorful, fast *find* replacement with sensible, opinionated defaults. `fdfind` is the command on Ubuntu.
+<img src=images/rustacean.svg height=18> [lla](https://crates.io/crates/lla) | `cargo install lla` | same | A different take on what *eza* does. I particularly like using the `-G` option to peruse a local Git repository.
+
+### Et al
+
+Name | Ubuntu | Fedora | Description / Config
+---- |------- | ------ | --------------------
+<img src=images/rustacean.svg height=18/> [bandwhich](https://github.com/imsnif/bandwhich) | Unzip executable from releases tarball to */usr/local/bin* | | Very nice presentation of what programs are consuming bandwith on connections to where. Needs `sudo` to run.
+<img src=images/rustacean.svg height=18/> [bat](https://github.com/sharkdp/bat) | `apt install bat` (tool is invoked with `batcat` in this case). | `dnf install bat` | Colorful `cat` with line numbers, paging, and syntax highlighting.
+<img src=images/rustacean.svg height=18/> [csvlens](https://github.com/YS-L/csvlens/) | `cargo install csvlens` | `cargo install csvlens` | Amazing command-line interactive CSV file viewer. (H or ? shows help)
+<img src=images/gopher.svg height=18/> [doggo](https://github.com/mr-karan/doggo) | Unzip executable from releases tarball to */usr/local/bin* |  | Pretty [dig](https://www.isc.org/bind/) replacement, for querying DNS from the command-line.
 <img src=images/gopher.svg height=18/> [fx](https://github.com/antonmedv/fx) | `snap install fx` | same or `go install github.com/antonmedv/fx@latest` | JSON Viewer that helps with figuring out [jq](https://github.com/jqlang/jq) query syntax. | 
 <img src=images/gopher.svg height=18> [fzf](https://github.com/junegunn/fzf) | `apt install fzf`, then look at `apt show fzf` to find instructions on enabling keybindings and autocompletions. | `dnf install fzf`, then look in */usr/share/doc/fzf* for how to enable keybindings. | Powerful "command-line fuzzy finder" that is hard to describe adequately. Its *Alt-C* function has allowed me to augment *autojump* when jumping *into* the current tree. Just watch [this YouTube video](https://youtu.be/qgG5Jhi_Els), or read [this blog post](https://andrew-quinn.me/fzf/).
 <img src=images/gopher.svg height=18/> [glow](https://github.com/charmbracelet/glow) | `snap install glow` | See page for DNF install method. | Render markdown nicely right in the terminal. Use `-p` for paged output.
