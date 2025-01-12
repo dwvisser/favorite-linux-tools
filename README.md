@@ -58,6 +58,8 @@ Name | Ubuntu | Fedora | Description / Config
 <img src=images/rustacean.svg height=18/> [zellij](https://github.com/zellij-org/zellij) | `snap install --classic zellij` | `dnf install cargo` && `cargo install zellij` | Colorful, user-friendly, `tmux` replacement, that I usually use now.  **Config**: Copy *.config/zellij/config.yaml* to use Alt-S and Alt-Q instead, which avoids collision with *micro* editor keys.
 <img src=images/rustacean.svg height=18/> [zenith](https://github.com/bvaisvil/zenith) | dpkg (see below) | | Colorful `top` replacement.
 
+**cargo** = Just what it says. My favorite way to get Rust up and running is to `apt/dnf install rustup`, then issue the command, `rustup toolchain install stable`. That way, it's easy to update to a newer version of Rust later. Some tools, like diskonaut, have C++ dependencies to build as well. Om Ubuntu, `sudo apt install build-essintial`, on Fedora, `sudo dnf groupinstall "Development Tools" "Development Libraries"`.
+
 **dpkg** = Find the appropriate
 [non-musl-variant](https://www.musl-libc.org/faq.html) amd64 or armhf *.deb* release
 file in the project releases page (generally just add **/releases** to the GitHub
