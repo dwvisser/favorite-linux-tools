@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1028: for Floccus bookmark sync browser extension -->
+<!--- highestId :1030: for Floccus bookmark sync browser extension -->
 
 <folder id="1014">
   <title>News Stories</title>
@@ -116,6 +116,12 @@
   <bookmark href="https://fighthealthinsurance.com/" id="14">
     <title>Fight Your Health Insurance Denial -- Use AI to Generate Your Health Insurance Appeal</title>
   </bookmark>
+  <bookmark href="https://www.vsp.com/" id="1029">
+    <title>VSP Vision Care | Vision Insurance</title>
+  </bookmark>
+  <bookmark href="https://www.goodrx.com/" id="1008">
+    <title>Prescription Prices, Coupons &amp; Pharmacy Information - GoodRx</title>
+  </bookmark>
 </folder>
 <folder id="1026">
   <title>Gaming</title>
@@ -131,6 +137,15 @@
   <bookmark href="http://www.emalayalee.com/varthaFull.php?page=7&amp;newsId=77831" id="122">
     <title>emalayalee.com - C Sekar Chandersekaran – The Man I Knew</title>
   </bookmark>
+</folder>
+<folder id="1028">
+  <title>Music</title>
+  <bookmark href="http://nullmorphem.bandcamp.com/track/schnee-von-gestern" id="149">
+    <title>Schnee von gestern | Nullmorphem</title>
+  </bookmark>
+</folder>
+<folder id="1030">
+  <title>Home Maintenance</title>
 </folder>
 <folder id="1">
   <title>Unorganized</title>
@@ -173,12 +188,6 @@
   <bookmark href="https://stubbisms.wordpress.com/2009/07/10/git-script-to-show-largest-pack-objects-and-trim-your-waist-line/" id="130">
     <title>Git Script to Show Largest Pack Objects and Trim Your Waist Line! | Stubbisms - Tony&apos;s Weblog</title>
   </bookmark>
-  <bookmark href="http://wiki.lxde.org/en/Main_Menu" id="137">
-    <title>Main Menu - LXDE.org</title>
-  </bookmark>
-  <bookmark href="https://www.vsp.com/glasses-deals.html?id=0#marchon20" id="138">
-    <title>Prescription glasses and sunglasses deals, discounts and special offers</title>
-  </bookmark>
   <bookmark href="https://spideroak.com/faq/questions/173/i_accidentally_selected_a_file_for_backup_i_removed_it_from_my_backup_selection_but_it_still_keeps_uploading_what_can_i_do%3E%3C/https:%3E." id="139">
     <title>Unstick my SpiderOak queue</title>
   </bookmark>
@@ -193,12 +202,6 @@
   </bookmark>
   <bookmark href="http://www.defenseone.com/ideas/2014/03/three-myths-about-defense-budget/80557/print/" id="153">
     <title>Three Myths About the Defense Budget - Defense One</title>
-  </bookmark>
-  <bookmark href="http://www.amazon.com/s/ref=sr_kk_3?rh=i%3Amobile%2Ck%3Aqi+wireless+charger&amp;keywords=qi+wireless+charger&amp;ie=UTF8&amp;qid=1394746547" id="154">
-    <title>Amazon.com: qi wireless charger - Cell Phones &amp; Accessories</title>
-  </bookmark>
-  <bookmark href="https://spideroak.com/faq/questions/65/what_are_the_apt_sources_lines_for_spideroak/" id="155">
-    <title>What are the apt sources lines for SpiderOak? - SpiderOak.com</title>
   </bookmark>
   <bookmark href="http://android.stackexchange.com/questions/16389/automatically-install-new-applications-on-sd-card" id="156">
     <title>app2sd - Automatically install new applications on SD card - Android Enthusiasts Stack Exchange</title>
@@ -2627,29 +2630,8 @@
   <bookmark href="https://gitlab.com/njam/terraform-aws-syncthing" id="1000">
     <title>Reto Kaiser / terraform-aws-syncthing</title>
   </bookmark>
-  <bookmark href="https://github.com/koalaman/shellcheck" id="1001">
-    <title>koalaman/shellcheck</title>
-  </bookmark>
-  <bookmark href="https://argbash.io/" id="1002">
-    <title>Argbash: Bash argument parsing made easy</title>
-  </bookmark>
-  <bookmark href="http://www.dell.com/support/article/us/en/19/sln171755/updating-the-dell-bios-in-linux-and-ubuntu-environments?lang=en#Creating%20a%20USB%20Bootable%20Storage%20Device" id="1003">
-    <title>Updating the Dell BIOS in Linux and Ubuntu Environments | Dell Deutschland</title>
-  </bookmark>
-  <bookmark href="http://typecast.com/blog/a-more-modern-scale-for-web-typography" id="1004">
-    <title>A More Modern Scale for Web Typography - Typecast</title>
-  </bookmark>
-  <bookmark href="https://dev.to/sobolevn/using-better-clis-6o8" id="1005">
-    <title>Using better CLIs</title>
-  </bookmark>
-  <bookmark href="https://serverfault.com/questions/225155/virtualbox-how-to-set-up-networking-so-both-host-and-guest-can-access-internet" id="1006">
-    <title>VirtualBox: How to set up networking so both host and guest can access internet and talk to each other</title>
-  </bookmark>
   <bookmark href="https://biloskimiller.com/" id="1007">
     <title>Family Law, Divorce &amp; Custody Attorneys in Oak Ridge + Clinton</title>
-  </bookmark>
-  <bookmark href="https://www.goodrx.com/" id="1008">
-    <title>Prescription Prices, Coupons &amp; Pharmacy Information - GoodRx</title>
   </bookmark>
   <bookmark href="https://mspoweruser.com/set-multiple-outlook-com-email-addresses/" id="1009">
     <title>How to set up multiple Outlook.com email addresses - MSPoweruser</title>
@@ -2662,12 +2644,6 @@
   </bookmark>
   <bookmark href="https://blog.byjasco.com/surge-protector-guide" id="1012">
     <title>Find the Best Surge Protector | Surge Protection Buying Guide</title>
-  </bookmark>
-</folder>
-<folder id="1028">
-  <title>Music</title>
-  <bookmark href="http://nullmorphem.bandcamp.com/track/schnee-von-gestern" id="149">
-    <title>Schnee von gestern | Nullmorphem</title>
   </bookmark>
 </folder>
 </xbel>
