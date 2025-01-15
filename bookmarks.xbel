@@ -536,17 +536,11 @@
   <bookmark href="http://canvasquery.com/" id="272">
     <title>Canvas Query</title>
   </bookmark>
-  <bookmark href="https://openrdf.ci.cloudbees.com/view/All/job/Sesame%20master/buildTimeTrend" id="273">
-    <title>Sesame master Build time trend [Jenkins]</title>
-  </bookmark>
   <bookmark href="http://blog.bittorrent.com/2013/01/24/test-bittorrent-sync-pre-alpha/" id="274">
     <title>Test BitTorrent Sync (Pre-Alpha) | The Official BitTorrent Blog</title>
   </bookmark>
   <bookmark href="http://cpuboss.com/" id="275">
     <title>CPUBoss</title>
-  </bookmark>
-  <bookmark href="http://stackoverflow.com/questions/14466798/sesame-repository-configuration/14471745#14471745" id="276">
-    <title>sesame repository configuration - Stack Overflow</title>
   </bookmark>
   <bookmark href="http://blog.techstacks.com/2011/08/tomcat-6-directory-locations-on-ubuntu-server-1104.html" id="278">
     <title>Tomcat 6 Directory Locations on Ubuntu Server 11.04 - Blogging Techstacks</title>
@@ -653,9 +647,6 @@
   <bookmark href="http://www.omgubuntu.co.uk/2010/11/get-chromium-on-ubuntu-to-play-mp4-h-264-mp3-view-pdf-files-natively" id="316">
     <title>Get Chromium on Ubuntu To Play mp4, H.264, MP3 &amp; view PDF files natively | OMG! Ubuntu!</title>
   </bookmark>
-  <bookmark href="http://rivuli-development.com/further-reading/sesame-cookbook/basic-security-with-http-authentication/" id="317">
-    <title>Basic Security with HTTP authentication | rivuli development</title>
-  </bookmark>
   <bookmark href="http://weblogs.dailypress.com/features/gardening/diggin-in/2010/12/recycle_a_milk_jug_into_a_bird_1.html" id="318">
     <title>Recycle an empty milk jug into a bird feeder - Diggin&apos; In - dailypress.com</title>
   </bookmark>
@@ -706,9 +697,6 @@
   </bookmark>
   <bookmark href="http://www.bright.com/" id="334">
     <title>Bright.com - Connect with Friends, Find Jobs, Explore Companies</title>
-  </bookmark>
-  <bookmark href="http://rivuli-development.com/further-reading/sesame-cookbook/loading-large-file-in-sesame-native/" id="335">
-    <title>Loading large files in the Sesame Native Store | rivuli development</title>
   </bookmark>
   <bookmark href="http://www.openstreetmap.org/" id="337">
     <title>OpenStreetMap</title>
@@ -889,9 +877,6 @@
   </bookmark>
   <bookmark href="http://sparql-wrapper.sourceforge.net/" id="396">
     <title>SPARQL Endpoint interface to Python</title>
-  </bookmark>
-  <bookmark href="http://www.jenitennison.com/blog/node/153" id="397">
-    <title>Getting Started with RDF and SPARQL Using Sesame and Python | Jeni&apos;s Musings</title>
   </bookmark>
   <bookmark href="https://launchpad.net/ubuntu/+source/pysesame" id="398">
     <title>“pysesame” package : Ubuntu</title>
