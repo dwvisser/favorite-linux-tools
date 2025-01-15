@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1021: for Floccus bookmark sync browser extension -->
+<!--- highestId :1022: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>floccus</title>
@@ -2867,5 +2867,8 @@
   <bookmark href="https://www.forbes.com/sites/sap/2014/07/07/douglas-adams-technology-rules/?sh=1f261f6153e6" id="22">
     <title>SAP BrandVoice: Douglas Adams&apos; Technology Rules</title>
   </bookmark>
+</folder>
+<folder id="1022">
+  <title>Making Software</title>
 </folder>
 </xbel>
