@@ -2753,14 +2753,14 @@
       <title>How to run an Electrum Server in few easy steps</title>
     </bookmark>
   </folder>
-  <bookmark href="https://www.schwab.com/learn/story/structuring-your-retirement-portfolio" id="12">
-    <title>How to Structure Your Retirement Portfolio</title>
-  </bookmark>
-  <bookmark href="https://www.schwab.com/learn/story/retirement-portfolio-assets-allocation-by-age" id="13">
-    <title>Retirement Portfolio Assets: Allocation by Age</title>
-  </bookmark>
   <folder id="1025">
     <title>Retirement</title>
+    <bookmark href="https://www.schwab.com/learn/story/structuring-your-retirement-portfolio" id="12">
+      <title>How to Structure Your Retirement Portfolio</title>
+    </bookmark>
+    <bookmark href="https://www.schwab.com/learn/story/retirement-portfolio-assets-allocation-by-age" id="13">
+      <title>Retirement Portfolio Assets: Allocation by Age</title>
+    </bookmark>
   </folder>
 </folder>
 <folder id="1021">
