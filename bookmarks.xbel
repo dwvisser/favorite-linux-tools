@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1019: for Floccus bookmark sync browser extension -->
+<!--- highestId :1020: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>floccus</title>
@@ -31,9 +31,6 @@
   </bookmark>
   <bookmark href="https://medium.blockchainedu.net/how-to-run-an-electrum-server-in-few-easy-steps-f87e98a229e3" id="15">
     <title>How to run an Electrum Server in few easy steps</title>
-  </bookmark>
-  <bookmark href="https://www.b2p-central.com/" id="16">
-    <title>B2P Central</title>
   </bookmark>
   <bookmark href="https://www.rmwraps.com/shop-products/p/tardis-refrigerator-wrap" id="17">
     <title>Tardis Refrigerator Wrap</title>
@@ -2918,5 +2915,11 @@
   <bookmark href="https://www.knoxvillehomeguys.com/" id="9">
     <title>Sell Your House Fast In Knoxville, Tennessee | Sell Your House Fast For Cash!</title>
   </bookmark>
+  <folder id="1020">
+    <title>Bitcoin</title>
+    <bookmark href="https://www.b2p-central.com/" id="16">
+      <title>B2P Central</title>
+    </bookmark>
+  </folder>
 </folder>
 </xbel>
