@@ -5,9 +5,6 @@
 
 <folder id="1">
   <title>Unorganized</title>
-  <bookmark href="http://www.shellcheck.net/" id="173">
-    <title>ShellCheck – Online shell script analyzer</title>
-  </bookmark>
   <bookmark href="http://stackoverflow.com/questions/59895/can-a-bash-script-tell-what-directory-its-stored-in" id="174">
     <title>Can a Bash script tell what directory it&apos;s stored in? - Stack Overflow</title>
   </bookmark>
@@ -2415,6 +2412,9 @@
     </bookmark>
     <bookmark href="http://explainshell.com/" id="166">
       <title>explainshell.com - match command-line arguments to their help text</title>
+    </bookmark>
+    <bookmark href="http://www.shellcheck.net/" id="173">
+      <title>ShellCheck – Online shell script analyzer</title>
     </bookmark>
   </folder>
   <folder id="1022">
