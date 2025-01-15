@@ -32,9 +32,6 @@
   <bookmark href="https://www.versionrocket.com/" id="63">
     <title>VersionRocket</title>
   </bookmark>
-  <bookmark href="https://rtyley.github.io/bfg-repo-cleaner/" id="65">
-    <title>BFG Repo-Cleaner by rtyley</title>
-  </bookmark>
   <bookmark href="https://www.privacytools.io/" id="68">
     <title>privacy tools - encryption against surveillance</title>
   </bookmark>
@@ -2836,6 +2833,9 @@
   </bookmark>
   <bookmark href="http://stackoverflow.com/questions/97640/force-maven2-to-copy-dependencies-into-target-lib" id="42">
     <title>Copy Dependencies in Maven</title>
+  </bookmark>
+  <bookmark href="https://rtyley.github.io/bfg-repo-cleaner/" id="65">
+    <title>BFG Repo-Cleaner by rtyley</title>
   </bookmark>
 </folder>
 <folder id="1023">
