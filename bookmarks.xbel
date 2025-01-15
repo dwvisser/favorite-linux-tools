@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1024: for Floccus bookmark sync browser extension -->
+<!--- highestId :1025: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>floccus</title>
@@ -2759,6 +2759,9 @@
   <bookmark href="https://www.schwab.com/learn/story/retirement-portfolio-assets-allocation-by-age" id="13">
     <title>Retirement Portfolio Assets: Allocation by Age</title>
   </bookmark>
+  <folder id="1025">
+    <title>Retirement</title>
+  </folder>
 </folder>
 <folder id="1021">
   <title>Quotable Quotes</title>
