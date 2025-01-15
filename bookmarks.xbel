@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1020: for Floccus bookmark sync browser extension -->
+<!--- highestId :1021: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>floccus</title>
@@ -28,9 +28,6 @@
   </bookmark>
   <bookmark href="https://support.geniecompany.com/app/answers/detail/a_id/1573#gs=eyJndWlkZUlEIjoxMjQ0LCJxdWVzdGlvbklEIjoxLCJyZXNwb25zZUlEIjoxMywiZ3VpZGVTZXNzaW9uIjoiekJsS0oxRnEiLCJzZXNzaW9uSUQiOiJtOU9GSjFGcSJ9" id="19">
     <title>Garage Door Openers and Accessories | The Genie Company</title>
-  </bookmark>
-  <bookmark href="https://www.forbes.com/sites/sap/2014/07/07/douglas-adams-technology-rules/?sh=1f261f6153e6" id="22">
-    <title>SAP BrandVoice: Douglas Adams&apos; Technology Rules</title>
   </bookmark>
   <bookmark href="https://privacy.com/" id="26">
     <title>Virtual Cards That Protect Your Payments | Online Payment Security</title>
@@ -2875,6 +2872,12 @@
   </folder>
   <bookmark href="https://www.schwab.com/learn/story/structuring-your-retirement-portfolio" id="12">
     <title>How to Structure Your Retirement Portfolio</title>
+  </bookmark>
+</folder>
+<folder id="1021">
+  <title>Quotable Quotes</title>
+  <bookmark href="https://www.forbes.com/sites/sap/2014/07/07/douglas-adams-technology-rules/?sh=1f261f6153e6" id="22">
+    <title>SAP BrandVoice: Douglas Adams&apos; Technology Rules</title>
   </bookmark>
 </folder>
 </xbel>
