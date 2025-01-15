@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1025: for Floccus bookmark sync browser extension -->
+<!--- highestId :1027: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>floccus</title>
@@ -17,59 +17,20 @@
   <bookmark href="https://www.tsienna.net/programming_the_homelinkv_for_u_s_a_owners_-328.html" id="27">
     <title>Toyota Sienna 2010-2023 Owners Manual: Programming the HomeLink® (for U.S.A. owners) - Garage door opener - Using the other interior features - Interior features</title>
   </bookmark>
-  <bookmark href="https://spin.atomicobject.com/2015/11/30/command-line-tools-docker/" id="46">
-    <title>Command-Line tools in Docker</title>
-  </bookmark>
-  <bookmark href="http://www.developerfiles.com/deploying-python-projects-with-docker/" id="56">
-    <title>Deploying Python projects with Docker | Developer files</title>
-  </bookmark>
-  <bookmark href="http://www.physicsgames.net/" id="61">
-    <title>Physics Games</title>
-  </bookmark>
   <bookmark href="https://www.versionrocket.com/" id="63">
     <title>VersionRocket</title>
   </bookmark>
   <bookmark href="https://www.privacytools.io/" id="68">
     <title>privacy tools - encryption against surveillance</title>
   </bookmark>
-  <bookmark href="http://einsteinpapers.press.princeton.edu/" id="94">
-    <title>Digital Einstein Papers Home</title>
-  </bookmark>
   <bookmark href="http://www.puppychau.com/archives/362" id="109">
     <title>CSS: Fill browser screen with Linear-gradient | Puppy Chau</title>
-  </bookmark>
-  <bookmark href="http://www.puppychau.com/archives/62" id="110">
-    <title>VirtualBox Ubuntu Guest Boots Up with “SMBus base address uninitialized” error | Puppy Chau</title>
-  </bookmark>
-  <bookmark href="https://www.verizonwireless.com/support/myverizon/HowToAddActivateDevice.html" id="111">
-    <title>Activate or Switch a Device in My Verizon | Verizon Wireless</title>
-  </bookmark>
-  <bookmark href="http://www.bay12games.com/dwarves/" id="112">
-    <title>Bay 12 Games: Dwarf Fortress</title>
   </bookmark>
   <bookmark href="http://www.allaregreen.us/" id="114">
     <title>Install Greenhouse | Expose Political Corruption</title>
   </bookmark>
   <bookmark href="http://www.eyebuyexpress.com/" id="115">
     <title>Eye Buy Express</title>
-  </bookmark>
-  <bookmark href="http://www.webupd8.org/2011/03/sublime-text-2-ubuntu-ppa.html" id="116">
-    <title>Sublime Text 2 Ubuntu PPA ~ Web Upd8: Ubuntu / Linux blog</title>
-  </bookmark>
-  <bookmark href="https://stackoverflow.com/questions/12799237/how-to-watch-and-compile-all-typescript-sources" id="118">
-    <title>javascript - How to watch and compile all TypeScript sources? - Stack Overflow</title>
-  </bookmark>
-  <bookmark href="http://marketplace.eclipse.org/content/typescript" id="119">
-    <title>TypeScript | Eclipse Plugins, Bundles and Products - Eclipse Marketplace</title>
-  </bookmark>
-  <bookmark href="https://ppedregal.github.io/typescript-maven-plugin/" id="120">
-    <title>TypeScript Maven Plugin -</title>
-  </bookmark>
-  <bookmark href="https://internetexplorer.github.io/" id="121">
-    <title>Open Source at Internet Explorer</title>
-  </bookmark>
-  <bookmark href="http://www.emalayalee.com/varthaFull.php?page=7&amp;newsId=77831" id="122">
-    <title>emalayalee.com - C Sekar Chandersekaran – The Man I Knew</title>
   </bookmark>
   <bookmark href="https://bugs.launchpad.net/ubuntu/+source/update-manager/+bug/1046563" id="123">
     <title>Bug #1046563 “update-manager never appears on lubuntu precise &gt; ...” : Bugs : “update-manager” package : Ubuntu</title>
@@ -2456,9 +2417,6 @@
   <bookmark href="https://www.linuxhowtos.org/C_C++/socket.htm" id="939">
     <title>Linux Howtos: C/C++ -&gt; Sockets Tutorial</title>
   </bookmark>
-  <bookmark href="https://stackoverflow.com/questions/17157721/how-to-get-a-docker-containers-ip-address-from-the-host" id="940">
-    <title>How to get a Docker container&apos;s IP address from the host</title>
-  </bookmark>
   <bookmark href="https://github.com/sharkdp/bat/" id="941">
     <title>sharkdp/bat</title>
   </bookmark>
@@ -2479,9 +2437,6 @@
   </bookmark>
   <bookmark href="http://ezprompt.net/" id="947">
     <title>Easy Bash Prompt Generator</title>
-  </bookmark>
-  <bookmark href="https://blog.hypriot.com/about/" id="948">
-    <title>About Us · Docker Pirates ARMed with explosive stuff</title>
   </bookmark>
   <bookmark href="https://stackoverflow.com/questions/33943362/timeit-equivalent-in-code" id="950">
     <title>%timeit equivalent in code</title>
@@ -2519,20 +2474,11 @@
   <bookmark href="https://gist.github.com/mbinna/c61dbb39bca0e4fb7d1f73b0d66a4fd1" id="961">
     <title>Effective Modern CMake</title>
   </bookmark>
-  <bookmark href="https://dev.to/domysee/setting-up-a-reverse-proxy-with-nginx-and-docker-compose-29jg" id="962">
-    <title>Setting up a Reverse-Proxy with Nginx and docker-compose</title>
-  </bookmark>
   <bookmark href="https://github.com/marketplace/actions/github-pages-action#%EF%B8%8F-static-site-generators-with-nodejs" id="963">
     <title>GitHub Pages action - GitHub Marketplace</title>
   </bookmark>
   <bookmark href="https://github.com/GoogleChromeLabs/dark-mode-toggle" id="964">
     <title>GoogleChromeLabs/dark-mode-toggle</title>
-  </bookmark>
-  <bookmark href="https://blog.linuxserver.io/2019/10/01/updating-and-backing-up-docker-containers-with-version-control/" id="965">
-    <title>Updating and Backing Up Docker Containers With Version Control</title>
-  </bookmark>
-  <bookmark href="https://medium.com/@SaravSun/running-gui-applications-inside-docker-containers-83d65c0db110" id="966">
-    <title>Running GUI Applications inside Docker Containers</title>
   </bookmark>
   <bookmark href="https://www.open-xchange.com/" id="967">
     <title>Home | Open-Xchange</title>
@@ -2669,9 +2615,6 @@
   <bookmark href="https://blog.byjasco.com/surge-protector-guide" id="1012">
     <title>Find the Best Surge Protector | Surge Protection Buying Guide</title>
   </bookmark>
-  <bookmark href="https://docs.docker.com/engine/reference/run/#runtime-privilege-and-linux-capabilities" id="1013">
-    <title>Docker run reference</title>
-  </bookmark>
 </folder>
 <folder id="1014">
   <title>News Stories</title>
@@ -2759,6 +2702,12 @@
   <bookmark href="https://rtyley.github.io/bfg-repo-cleaner/" id="65">
     <title>BFG Repo-Cleaner by rtyley</title>
   </bookmark>
+  <bookmark href="https://dev.to/domysee/setting-up-a-reverse-proxy-with-nginx-and-docker-compose-29jg" id="962">
+    <title>Setting up a Reverse-Proxy with Nginx and docker-compose</title>
+  </bookmark>
+  <bookmark href="https://blog.linuxserver.io/2019/10/01/updating-and-backing-up-docker-containers-with-version-control/" id="965">
+    <title>Updating and Backing Up Docker Containers With Version Control</title>
+  </bookmark>
 </folder>
 <folder id="1023">
   <title>Healthcare</title>
@@ -2770,6 +2719,21 @@
   </bookmark>
   <bookmark href="https://fighthealthinsurance.com/" id="14">
     <title>Fight Your Health Insurance Denial -- Use AI to Generate Your Health Insurance Appeal</title>
+  </bookmark>
+</folder>
+<folder id="1026">
+  <title>Gaming</title>
+  <bookmark href="http://www.bay12games.com/dwarves/" id="112">
+    <title>Bay 12 Games: Dwarf Fortress</title>
+  </bookmark>
+  <bookmark href="http://www.physicsgames.net/" id="61">
+    <title>Physics Games</title>
+  </bookmark>
+</folder>
+<folder id="1027">
+  <title>Eulogies</title>
+  <bookmark href="http://www.emalayalee.com/varthaFull.php?page=7&amp;newsId=77831" id="122">
+    <title>emalayalee.com - C Sekar Chandersekaran – The Man I Knew</title>
   </bookmark>
 </folder>
 </xbel>
