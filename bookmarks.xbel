@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1030: for Floccus bookmark sync browser extension -->
+<!--- highestId :1033: for Floccus bookmark sync browser extension -->
 
 <folder id="1014">
   <title>News Stories</title>
@@ -34,6 +34,9 @@
     <bookmark href="http://www.tuxfiles.org/linuxhelp/vimcheat.html" id="309">
       <title>The Vim commands cheat sheet</title>
     </bookmark>
+    <bookmark href="http://explainshell.com/" id="166">
+      <title>explainshell.com - match command-line arguments to their help text</title>
+    </bookmark>
   </folder>
   <folder id="1022">
     <title>Making Software</title>
@@ -57,6 +60,15 @@
     </bookmark>
     <bookmark href="http://semver.org/" id="128">
       <title>Semantic Versioning 2.0.0</title>
+    </bookmark>
+    <bookmark href="https://stubbisms.wordpress.com/2009/07/10/git-script-to-show-largest-pack-objects-and-trim-your-waist-line/" id="130">
+      <title>Git Script to Show Largest Pack Objects and Trim Your Waist Line! | Stubbisms - Tony&apos;s Weblog</title>
+    </bookmark>
+    <bookmark href="https://stackoverflow.com/questions/17537390/how-to-install-a-package-using-the-python-apt-api" id="997">
+      <title>How to install a package using the python-apt API</title>
+    </bookmark>
+    <bookmark href="http://daringfireball.net/projects/markdown/syntax#philosophy" id="184">
+      <title>Daring Fireball: Markdown Syntax Documentation</title>
     </bookmark>
   </folder>
 </folder>
@@ -146,77 +158,29 @@
 </folder>
 <folder id="1030">
   <title>Home Maintenance</title>
-</folder>
-<folder id="1">
-  <title>Unorganized</title>
   <bookmark href="https://www.rmwraps.com/shop-products/p/tardis-refrigerator-wrap" id="17">
     <title>Tardis Refrigerator Wrap</title>
   </bookmark>
   <bookmark href="https://support.geniecompany.com/app/answers/detail/a_id/1573#gs=eyJndWlkZUlEIjoxMjQ0LCJxdWVzdGlvbklEIjoxLCJyZXNwb25zZUlEIjoxMywiZ3VpZGVTZXNzaW9uIjoiekJsS0oxRnEiLCJzZXNzaW9uSUQiOiJtOU9GSjFGcSJ9" id="19">
     <title>Garage Door Openers and Accessories | The Genie Company</title>
   </bookmark>
-  <bookmark href="https://privacy.com/" id="26">
-    <title>Virtual Cards That Protect Your Payments | Online Payment Security</title>
+</folder>
+<folder id="1031">
+  <title>Online Tools</title>
+  <bookmark href="http://www.allaregreen.us/" id="114">
+    <title>Install Greenhouse | Expose Political Corruption</title>
   </bookmark>
+</folder>
+<folder id="1">
+  <title>Unorganized</title>
   <bookmark href="https://www.tsienna.net/programming_the_homelinkv_for_u_s_a_owners_-328.html" id="27">
     <title>Toyota Sienna 2010-2023 Owners Manual: Programming the HomeLink® (for U.S.A. owners) - Garage door opener - Using the other interior features - Interior features</title>
   </bookmark>
   <bookmark href="https://www.versionrocket.com/" id="63">
     <title>VersionRocket</title>
   </bookmark>
-  <bookmark href="https://www.privacytools.io/" id="68">
-    <title>privacy tools - encryption against surveillance</title>
-  </bookmark>
-  <bookmark href="http://www.puppychau.com/archives/362" id="109">
-    <title>CSS: Fill browser screen with Linear-gradient | Puppy Chau</title>
-  </bookmark>
-  <bookmark href="http://www.allaregreen.us/" id="114">
-    <title>Install Greenhouse | Expose Political Corruption</title>
-  </bookmark>
-  <bookmark href="http://www.eyebuyexpress.com/" id="115">
-    <title>Eye Buy Express</title>
-  </bookmark>
-  <bookmark href="https://bugs.launchpad.net/ubuntu/+source/update-manager/+bug/1046563" id="123">
-    <title>Bug #1046563 “update-manager never appears on lubuntu precise &gt; ...” : Bugs : “update-manager” package : Ubuntu</title>
-  </bookmark>
-  <bookmark href="https://medium.com/starts-with-a-bang/b77f63fe733b" id="127">
-    <title>Weekend Diversion: Finding Darkness — Starts With A Bang! — Medium</title>
-  </bookmark>
-  <bookmark href="https://btrfs.wiki.kernel.org/index.php/FAQ#When_will_Btrfs_have_a_fsck_like_tool.3F" id="129">
-    <title>FAQ - btrfs Wiki (When will btrfs have an fsck-like tool?)</title>
-  </bookmark>
-  <bookmark href="https://stubbisms.wordpress.com/2009/07/10/git-script-to-show-largest-pack-objects-and-trim-your-waist-line/" id="130">
-    <title>Git Script to Show Largest Pack Objects and Trim Your Waist Line! | Stubbisms - Tony&apos;s Weblog</title>
-  </bookmark>
   <bookmark href="https://spideroak.com/faq/questions/173/i_accidentally_selected_a_file_for_backup_i_removed_it_from_my_backup_selection_but_it_still_keeps_uploading_what_can_i_do%3E%3C/https:%3E." id="139">
     <title>Unstick my SpiderOak queue</title>
-  </bookmark>
-  <bookmark href="http://css.csail.mit.edu/mylar/" id="148">
-    <title>Mylar</title>
-  </bookmark>
-  <bookmark href="http://blog.bittorrent.com/2013/09/17/sync-hacks-how-to-set-up-bittorrent-sync-on-ubuntu-server-13-04/" id="150">
-    <title>Sync Hacks: Setting up BitTorrent Sync on Ubuntu 13.04 Server | The Official BitTorrent Blog</title>
-  </bookmark>
-  <bookmark href="http://smplayer.sourceforge.net/" id="151">
-    <title>SMPlayer - General Info</title>
-  </bookmark>
-  <bookmark href="http://www.defenseone.com/ideas/2014/03/three-myths-about-defense-budget/80557/print/" id="153">
-    <title>Three Myths About the Defense Budget - Defense One</title>
-  </bookmark>
-  <bookmark href="http://android.stackexchange.com/questions/16389/automatically-install-new-applications-on-sd-card" id="156">
-    <title>app2sd - Automatically install new applications on SD card - Android Enthusiasts Stack Exchange</title>
-  </bookmark>
-  <bookmark href="https://chunkhost.com/" id="157">
-    <title>SSD VPS Server, Fast Cloud Server, VPS Server, Cloud Hosting From ChunkHost</title>
-  </bookmark>
-  <bookmark href="https://supportforums.cisco.com/message/4152395#4152395" id="158">
-    <title>AnyConnect 3.1.04072 won&apos;t allow Internet connectivity from…|2264361 - Cisco Support Community</title>
-  </bookmark>
-  <bookmark href="http://wirelessnetworkbooster.com/hawking-hwren1-hi-gain-wireless-300n-range-extender/" id="160">
-    <title>Hawking HWREN1 Hi-Gain Wireless-300N Range Extender | Wireless Network Booster</title>
-  </bookmark>
-  <bookmark href="http://www.npr.org/2014/01/09/260554814/slow-cook-your-way-to-the-colonels-secret-recipe?utm_medium=Email&amp;utm_campaign=20140112&amp;utm_source=mostemailed" id="161">
-    <title>Found Recipe: KFC-Inspired Chicken : NPR</title>
   </bookmark>
   <bookmark href="http://www.quick-and-easy-dinner.com/crock-pot-potatoes.html" id="162">
     <title>Crock Pot Potatoes</title>
@@ -229,9 +193,6 @@
   </bookmark>
   <bookmark href="http://www.gnu.org/software/autoconf-archive/ax_cflags_warn_all.html" id="165">
     <title>Autoconf Archive: ax_cflags_warn_all</title>
-  </bookmark>
-  <bookmark href="http://explainshell.com/" id="166">
-    <title>explainshell.com - match command-line arguments to their help text</title>
   </bookmark>
   <bookmark href="https://www.gnu.org/software/autoconf/" id="167">
     <title>Autoconf - GNU Project - Free Software Foundation (FSF)</title>
@@ -268,24 +229,6 @@
   </bookmark>
   <bookmark href="http://ubuntuforums.org/showthread.php?t=2165630" id="178">
     <title>Ubuntu Forum: [AMD/ATi] HDMI sound not working - graphics driver not working</title>
-  </bookmark>
-  <bookmark href="http://techblog.netflix.com/2013/02/rxjava-netflix-api.html?m=1" id="179">
-    <title>The Netflix Tech Blog: Functional Reactive in the Netflix API with RxJava</title>
-  </bookmark>
-  <bookmark href="https://bugs.launchpad.net/ubuntu/+source/procps/+bug/1240203" id="180">
-    <title>Bug I need to remediate on my Living Room PC</title>
-  </bookmark>
-  <bookmark href="http://nlp.stanford.edu/software/lex-parser.shtml" id="181">
-    <title>The Stanford NLP (Natural Language Processing) Group</title>
-  </bookmark>
-  <bookmark href="http://www.link.cs.cmu.edu/link/" id="182">
-    <title>Link Grammar</title>
-  </bookmark>
-  <bookmark href="http://lubuntublog.blogspot.com.es/p/areo-snap.html" id="183">
-    <title>Lubuntu Aero Snap</title>
-  </bookmark>
-  <bookmark href="http://daringfireball.net/projects/markdown/syntax#philosophy" id="184">
-    <title>Daring Fireball: Markdown Syntax Documentation</title>
   </bookmark>
   <bookmark href="http://www.mamasblissfulbites.com/2013/09/22/learning-count-preschooler-math/" id="185">
     <title>Pre-school addition and counting learning craft</title>
@@ -365,86 +308,11 @@
   <bookmark href="http://gitblit.com/" id="212">
     <title>Gitblit</title>
   </bookmark>
-  <bookmark href="http://www.fipa.org/specs/fipa00061/SC00061G.html" id="213">
-    <title>FIPA No. 61: ACL Message Structure Specification</title>
-  </bookmark>
-  <bookmark href="http://www.fipa.org/specs/fipa00023/SC00023K.html" id="214">
-    <title>FIPA No. 23: Agent Management Specification</title>
-  </bookmark>
-  <bookmark href="http://nvie.com/posts/a-successful-git-branching-model/" id="216">
-    <title>None</title>
-  </bookmark>
-  <bookmark href="http://c2.com/cgi/wiki?DatabaseBestPractices" id="217">
-    <title>Database Best Practices</title>
-  </bookmark>
-  <bookmark href="http://ow.ly/url/shorten-url" id="218">
-    <title>Ow.ly - Shorten urls, share files and track visits - Owly</title>
-  </bookmark>
-  <bookmark href="http://virtual-notary.org/" id="219">
-    <title>Virtual Notary</title>
-  </bookmark>
-  <bookmark href="http://dound.com/2009/04/git-forever-remove-files-or-folders-from-history/" id="220">
-    <title>David Underhill » git: forever remove files or folders from history</title>
-  </bookmark>
-  <bookmark href="http://www.myfax.com/?bid=1" id="221">
-    <title>MyFax | Send &amp; Receive Faxes Online | Internet Fax Service</title>
-  </bookmark>
-  <bookmark href="https://www.google.com/trends/hottrends/visualize" id="222">
-    <title>Google Trends - Hot Searches</title>
-  </bookmark>
-  <bookmark href="http://www.howtogeek.com/116179/how-to-disable-home-folder-encryption-after-installing-ubuntu/" id="223">
-    <title>How to Disable Home Folder Encryption After Installing Ubuntu</title>
-  </bookmark>
-  <bookmark href="http://wiki.twit.tv/wiki/Security_Now_349" id="224">
-    <title>Security Now 349 - The Official TWiT Wiki</title>
-  </bookmark>
   <bookmark href="https://www.jungledisk.com/" id="225">
     <title>Online storage and backup | Secure file sharing | Unlimited online storage | Jungle Disk</title>
   </bookmark>
   <bookmark href="https://github.com/deaddrop" id="226">
     <title>deaddrop (DeadDrop)</title>
-  </bookmark>
-  <bookmark href="http://www.starfall.com/" id="227">
-    <title>Star Fall</title>
-  </bookmark>
-  <bookmark href="http://support.apple.com/kb/HT4527" id="228">
-    <title>None</title>
-  </bookmark>
-  <bookmark href="http://labs.bittorrent.com/experiments/sync.html" id="229">
-    <title>BitTorrent Sync</title>
-  </bookmark>
-  <bookmark href="https://opennlp.apache.org/" id="230">
-    <title>Apache OpenNLP - Welcome to Apache OpenNLP</title>
-  </bookmark>
-  <bookmark href="http://www.hostgator.com/vps-hosting/" id="231">
-    <title>VPS Hosting | Linux VPS Servers with cPanel from HostGator</title>
-  </bookmark>
-  <bookmark href="https://www.eff.org/who-has-your-back-2013" id="232">
-    <title>Who Has Your Back? 2013 | Electronic Frontier Foundation</title>
-  </bookmark>
-  <bookmark href="http://askubuntu.com/questions/17332/how-can-i-move-an-encrypted-home-directory-to-another-partition" id="233">
-    <title>partitioning - How can i move an encrypted home directory to another partition? - Ask Ubuntu</title>
-  </bookmark>
-  <bookmark href="https://help.ubuntu.com/community/Partitioning/Home/Moving" id="234">
-    <title>Partitioning/Home/Moving</title>
-  </bookmark>
-  <bookmark href="https://www.digicert.com/" id="235">
-    <title>SSL Certificates DigiCert Digital SSL Certificate Authority</title>
-  </bookmark>
-  <bookmark href="http://beyondgrep.com/" id="236">
-    <title>Beyond grep: ack 2.04, a source code search tool for programmers</title>
-  </bookmark>
-  <bookmark href="https://apps.ubuntu.com/cat/applications/natty/einstein/" id="237">
-    <title>Einstein — Ubuntu Apps Directory</title>
-  </bookmark>
-  <bookmark href="http://klavaro.sourceforge.net/en/" id="238">
-    <title>Klavaro - Touch Typing Tutor</title>
-  </bookmark>
-  <bookmark href="http://www.jaegertech.com/software/cross-platform-blu-ray-playback" id="240">
-    <title>Jaeger Technologies - Cross-Platform Blu-ray Playback</title>
-  </bookmark>
-  <bookmark href="http://www.cyberlink.com/store/index_en_US.html" id="241">
-    <title>Buy Video Editing, Photo Editing, &amp; Blu-ray Playback Software | CyberLink</title>
   </bookmark>
   <bookmark href="http://www.techrepublic.com/blog/itdojo/clone-and-move-virtual-machines-in-virtualbox/3305" id="242">
     <title>Clone and move virtual machines in VirtualBox | TechRepublic</title>
@@ -2594,15 +2462,6 @@
   <bookmark href="http://www.ufopub.com/" id="994">
     <title>UFO Publishing</title>
   </bookmark>
-  <bookmark href="https://wordpress.org/plugins/static-html-output-plugin/" id="995">
-    <title>WP Static HTML Output</title>
-  </bookmark>
-  <bookmark href="https://stackoverflow.com/questions/12332975/installing-python-module-within-code#15950647" id="996">
-    <title>Installing python module within code</title>
-  </bookmark>
-  <bookmark href="https://stackoverflow.com/questions/17537390/how-to-install-a-package-using-the-python-apt-api" id="997">
-    <title>How to install a package using the python-apt API</title>
-  </bookmark>
   <bookmark href="https://www.savjee.be/2018/05/Content-security-policy-and-aws-s3-cloudfront/" id="998">
     <title>Implement Content Security Policy with AWS S3 and CloudFront | Savjee.be</title>
   </bookmark>
@@ -2612,20 +2471,17 @@
   <bookmark href="https://gitlab.com/njam/terraform-aws-syncthing" id="1000">
     <title>Reto Kaiser / terraform-aws-syncthing</title>
   </bookmark>
+</folder>
+<folder id="1032">
+  <title>Recipes</title>
+  <bookmark href="http://www.npr.org/2014/01/09/260554814/slow-cook-your-way-to-the-colonels-secret-recipe?utm_medium=Email&amp;utm_campaign=20140112&amp;utm_source=mostemailed" id="161">
+    <title>Found Recipe: KFC-Inspired Chicken : NPR</title>
+  </bookmark>
+</folder>
+<folder id="1033">
+  <title>Family Law</title>
   <bookmark href="https://biloskimiller.com/" id="1007">
     <title>Family Law, Divorce &amp; Custody Attorneys in Oak Ridge + Clinton</title>
-  </bookmark>
-  <bookmark href="https://mspoweruser.com/set-multiple-outlook-com-email-addresses/" id="1009">
-    <title>How to set up multiple Outlook.com email addresses - MSPoweruser</title>
-  </bookmark>
-  <bookmark href="http://wingsoffire.scholastic.com/books/wings-of-fire-series-1#wings-of-fire-book-one-the-dragonet-prophecy" id="1010">
-    <title>Wings of Fire</title>
-  </bookmark>
-  <bookmark href="https://mobile.nytimes.com/2017/09/08/technology/personaltech/itunes-download-one-tap.html?em_pos=small&amp;ref=headline&amp;nl_art=11&amp;te=1&amp;nl=technology&amp;emc=edit_ct_20170914&amp;referer=https://www.nytimes.com/newsletters/2017/09/14/personal-tech?nlid=61193344" id="1011">
-    <title>Grab All Your iTunes Music With One Tap</title>
-  </bookmark>
-  <bookmark href="https://blog.byjasco.com/surge-protector-guide" id="1012">
-    <title>Find the Best Surge Protector | Surge Protection Buying Guide</title>
   </bookmark>
 </folder>
 </xbel>
