@@ -59,9 +59,6 @@
   <bookmark href="https://hub.docker.com/_/python/" id="47">
     <title>Python Official Docker Images</title>
   </bookmark>
-  <bookmark href="https://freedomnode.com/blog/how-to-create-and-use-an-offline-bitcoin-wallet-aka-cold-storage-with-electrum/" id="29">
-    <title>How to Create and Use an Offline Bitcoin Wallet aka Cold Storage with Electrum</title>
-  </bookmark>
   <bookmark href="https://www.shodan.io/" id="50">
     <title>Shodan</title>
   </bookmark>
@@ -2895,6 +2892,9 @@
     </bookmark>
     <bookmark href="https://ln.bitfinex.com/" id="31">
       <title>Bitfinex Bitcoin Lightning Network</title>
+    </bookmark>
+    <bookmark href="https://freedomnode.com/blog/how-to-create-and-use-an-offline-bitcoin-wallet-aka-cold-storage-with-electrum/" id="29">
+      <title>How to Create and Use an Offline Bitcoin Wallet aka Cold Storage with Electrum</title>
     </bookmark>
   </folder>
   <bookmark href="https://www.schwab.com/learn/story/structuring-your-retirement-portfolio" id="12">
