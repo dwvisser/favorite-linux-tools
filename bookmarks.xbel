@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1022: for Floccus bookmark sync browser extension -->
+<!--- highestId :1023: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>floccus</title>
@@ -2864,5 +2864,8 @@
   <bookmark href="https://jensd.be/1126/linux/cross-compiling-for-arm-or-aarch64-on-debian-or-ubuntu" id="30">
     <title>Cross compiling for arm or aarch64 on Debian or Ubuntu | Jensd&apos;s I/O buffer</title>
   </bookmark>
+</folder>
+<folder id="1023">
+  <title>Healthcare</title>
 </folder>
 </xbel>
