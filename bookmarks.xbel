@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1014: for Floccus bookmark sync browser extension -->
+<!--- highestId :1017: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>floccus</title>
@@ -109,9 +109,6 @@
   </bookmark>
   <bookmark href="https://cpubenchmark.net/cpu.php?cpu=Intel+Core+i5-4430+%40+3.00GHz&amp;id=1924" id="44">
     <title>CPU Benchmark Recommended for American Truck Simulator</title>
-  </bookmark>
-  <bookmark href="http://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+760&amp;id=2561" id="45">
-    <title>GeForce GTX 760 - Recommended Min for American Truck Simulator</title>
   </bookmark>
   <bookmark href="https://spin.atomicobject.com/2015/11/30/command-line-tools-docker/" id="46">
     <title>Command-Line tools in Docker</title>
@@ -308,9 +305,6 @@
   <bookmark href="http://www.bay12games.com/dwarves/" id="112">
     <title>Bay 12 Games: Dwarf Fortress</title>
   </bookmark>
-  <bookmark href="http://blogs.msdn.com/b/mssmallbiz/archive/2014/07/07/largest-collection-of-free-microsoft-ebooks-ever-including-windows-8-1-windows-8-windows-7-office-2013-office-365-office-2010-sharepoint-2013-dynamics-crm-powershell-exchange-server-lync-2013-system-center-azure-cloud-sql.aspx" id="113">
-    <title>Largest collection of FREE Microsoft eBooks ever, including: Windows 8.1, Windows 8, Windows 7, Office 2013, Office 365, Office 2010, SharePoint 2013, Dynamics CRM, PowerShell, Exchange Server, Lync 2013, System Center, Azure, Cloud, SQL Server, and much</title>
-  </bookmark>
   <bookmark href="http://www.allaregreen.us/" id="114">
     <title>Install Greenhouse | Expose Political Corruption</title>
   </bookmark>
@@ -319,9 +313,6 @@
   </bookmark>
   <bookmark href="http://www.webupd8.org/2011/03/sublime-text-2-ubuntu-ppa.html" id="116">
     <title>Sublime Text 2 Ubuntu PPA ~ Web Upd8: Ubuntu / Linux blog</title>
-  </bookmark>
-  <bookmark href="http://www.wpxbox.com/windows-phone-other-storage/" id="117">
-    <title>How to reduce Other Storage Space in Windows Phone</title>
   </bookmark>
   <bookmark href="https://stackoverflow.com/questions/12799237/how-to-watch-and-compile-all-typescript-sources" id="118">
     <title>javascript - How to watch and compile all TypeScript sources? - Stack Overflow</title>
@@ -445,9 +436,6 @@
   </bookmark>
   <bookmark href="https://supportforums.cisco.com/message/4152395#4152395" id="158">
     <title>AnyConnect 3.1.04072 won&apos;t allow Internet connectivity from…|2264361 - Cisco Support Community</title>
-  </bookmark>
-  <bookmark href="https://outlook.office365.com/owa/?realm=ida159.onmicrosoft.com" id="159">
-    <title>Office365 OWA</title>
   </bookmark>
   <bookmark href="http://wirelessnetworkbooster.com/hawking-hwren1-hi-gain-wireless-300n-range-extender/" id="160">
     <title>Hawking HWREN1 Hi-Gain Wireless-300N Range Extender | Wireless Network Booster</title>
@@ -587,9 +575,6 @@
   <bookmark href="http://technet.microsoft.com/en-us/security/advisory/2876146" id="205">
     <title>Windows Phone 8 Wi-Fi Vulnerability</title>
   </bookmark>
-  <bookmark href="http://io9.com/behold-the-incredible-places-where-well-build-cities-i-884807373" id="206">
-    <title>Behold the incredible places where we&apos;ll build cities in space</title>
-  </bookmark>
   <bookmark href="http://uscodebeta.house.gov/download/download.shtml" id="207">
     <title>United States Code in XML</title>
   </bookmark>
@@ -613,9 +598,6 @@
   </bookmark>
   <bookmark href="http://www.fipa.org/specs/fipa00023/SC00023K.html" id="214">
     <title>FIPA No. 23: Agent Management Specification</title>
-  </bookmark>
-  <bookmark href="http://spaceplace.nasa.gov/" id="215">
-    <title>NASA&apos;s Space Place</title>
   </bookmark>
   <bookmark href="http://nvie.com/posts/a-successful-git-branching-model/" id="216">
     <title>None</title>
@@ -977,9 +959,6 @@
   <bookmark href="http://rivuli-development.com/further-reading/sesame-cookbook/loading-large-file-in-sesame-native/" id="335">
     <title>Loading large files in the Sesame Native Store | rivuli development</title>
   </bookmark>
-  <bookmark href="http://lifehacker.com/5747897/how-to-build-a-car-mount-for-your-cellphone-from-office-supplies" id="336">
-    <title>How to Build a Car Mount for Your Cellphone from Office Supplies</title>
-  </bookmark>
   <bookmark href="http://www.openstreetmap.org/" id="337">
     <title>OpenStreetMap</title>
   </bookmark>
@@ -1235,9 +1214,6 @@
   <bookmark href="http://flask.pocoo.org/" id="421">
     <title>Welcome | Flask (A Python Microframework)</title>
   </bookmark>
-  <bookmark href="http://www.addictivetips.com/microsoft-office/outlook-2010-advanced-search-query-builder/" id="422">
-    <title>Outlook 2010 Advanced Search [Query Builder]</title>
-  </bookmark>
   <bookmark href="http://drupal.org/start" id="423">
     <title>Get Started with Drupal | drupal.org</title>
   </bookmark>
@@ -1346,9 +1322,6 @@
   <bookmark href="http://www.ushistory.org/paine/reason/index.htm" id="458">
     <title>Age of Reason</title>
   </bookmark>
-  <bookmark href="http://www.hanselman.com/blog/GuideToFreeingUpDiskSpaceUnderWindows7.aspx" id="459">
-    <title>Guide to Freeing up Disk Space under Windows 7 - Scott Hanselman</title>
-  </bookmark>
   <bookmark href="http://opencompute.org/" id="460">
     <title>Open Compute Project - Hacking Conventional Computing Infrastructure</title>
   </bookmark>
@@ -1381,9 +1354,6 @@
   </bookmark>
   <bookmark href="http://www.codeproject.com/KB/cpp/XSDTutorial_01.aspx?display=Print" id="470">
     <title>XSD Tutorial - Part 1 of 5 - Elements and Attributes - CodeProject</title>
-  </bookmark>
-  <bookmark href="http://keep-tube.com/?url=http://www.vimeo.com/31505142" id="471">
-    <title>Download Youtube Videos in HD! Download Youtube, Megavideo, Dailymotion, Facebook, Myspace, Vimeo, Metacafe, Spike, Break, Current Videos &amp; more!</title>
   </bookmark>
   <bookmark href="http://www.grouprecipes.com/62148/easy-homemade-macaroni-and-cheese.html" id="472">
     <title>Easy Homemade Macaroni And Cheese Recipe</title>
@@ -1475,9 +1445,6 @@
   <bookmark href="http://www.vudu.com/" id="501">
     <title>VUDU - Rent, buy &amp; watch HD movies and TV shows on-demand</title>
   </bookmark>
-  <bookmark href="http://www.defense.gov/home/features/2011/0411_cyberstrategy/" id="502">
-    <title>Department of Defense Strategy for Operating in Cyberspace</title>
-  </bookmark>
   <bookmark href="http://www.zamzar.com/" id="503">
     <title>Zamzar - Free online file conversion</title>
   </bookmark>
@@ -1489,9 +1456,6 @@
   </bookmark>
   <bookmark href="http://www.imdb.com/title/tt0448134/" id="506">
     <title>Sunshine (2007) - IMDb</title>
-  </bookmark>
-  <bookmark href="http://pcsupport.about.com/od/productkeysactivation/ht/findof2007key.htm" id="507">
-    <title>Microsoft Office 2007 Key - How To Find the Microsoft Office 2007 Product Key Code - Office 2007 CD Key</title>
   </bookmark>
   <bookmark href="http://consumer.fonolo.com/" id="508">
     <title>Fonolo.com - Try it out!</title>
@@ -1799,9 +1763,6 @@
   <bookmark href="http://www.taskcoach.org/" id="609">
     <title>Task Coach</title>
   </bookmark>
-  <bookmark href="http://www.codeproject.com/KB/office/biffcsharp.aspx?msg=3661014#xx3661014xx" id="610">
-    <title>Generate Excel files without using Microsoft Excel - CodeProject</title>
-  </bookmark>
   <bookmark href="http://worthmonkey.com/" id="611">
     <title>Worth Monkey</title>
   </bookmark>
@@ -1846,9 +1807,6 @@
   </bookmark>
   <bookmark href="http://symphonyofscience.com/" id="625">
     <title>Symphony of Science</title>
-  </bookmark>
-  <bookmark href="http://msdn.microsoft.com/en-us/library/aa140011(office.10).aspx" id="626">
-    <title>Fundamental Microsoft Jet SQL for Access 2000</title>
   </bookmark>
   <bookmark href="http://www.winsplit-revolution.com/" id="627">
     <title>WinSplit Revolution</title>
@@ -2081,9 +2039,6 @@
   <bookmark href="http://www.iis.net/media/experiencesmoothstreaming" id="703">
     <title>Experience Smooth Streaming : Media : The Official Microsoft IIS Site</title>
   </bookmark>
-  <bookmark href="http://www.springerlink.com/content/k6kxl7/" id="704">
-    <title>Beginning Information Cards and Cardspace: From Novice to Professional eBook at SpringerLink</title>
-  </bookmark>
   <bookmark href="http://www.sciencedirect.com/science/book/9781597492737" id="705">
     <title>The Best Damn Windows Server 2008 Book Period (Second Edition) eBook at ScienceDirect</title>
   </bookmark>
@@ -2092,9 +2047,6 @@
   </bookmark>
   <bookmark href="http://dummyimage.com/" id="707">
     <title>Dynamic Dummy Image Generator - DummyImage.com</title>
-  </bookmark>
-  <bookmark href="http://office.microsoft.com/en-us/templates/CT103366151033.aspx" id="708">
-    <title>Example slide effects with instructions - Templates - Microsoft Office Online</title>
   </bookmark>
   <bookmark href="http://www.rainymood.com/" id="709">
     <title>RainyMood.com</title>
@@ -2137,9 +2089,6 @@
   </bookmark>
   <bookmark href="http://suicidemachine.org/" id="722">
     <title>Web 2.0 Suicide Machine - Meet your Real Neighbours again! - Sign out forever!</title>
-  </bookmark>
-  <bookmark href="http://technet.microsoft.com/en-us/library/dd572433(office.13).aspx" id="723">
-    <title>Technical Reference for Office Communications Server 2007 R2</title>
   </bookmark>
   <bookmark href="http://docs.oasis-open.org/ws-sx/ws-securitypolicy/v1.3/os/ws-securitypolicy-1.3-spec-os.html" id="724">
     <title>WS-SecurityPolicy 1.3</title>
@@ -2236,12 +2185,6 @@
   </bookmark>
   <bookmark href="http://linkedintuition.com/blog/13-linkedin-action-steps?goback=.anh_1857786" id="755">
     <title>13 LinkedIn Action Steps | Linked Intuition</title>
-  </bookmark>
-  <bookmark href="http://wurkspaces.com/" id="756">
-    <title>Co-Working Facility Directory Map - Wurkspaces.com</title>
-  </bookmark>
-  <bookmark href="http://www.carrborocoworking.com/" id="757">
-    <title>Carrboro Creative Coworking | North Carolina&apos;s First Professional Coworking Space</title>
   </bookmark>
   <bookmark href="http://faxzero.com/" id="758">
     <title>Free Fax • Free Internet Faxing</title>
@@ -2579,9 +2522,6 @@
   <bookmark href="https://www.connectionsacademy.com/tennessee-online-school/" id="869">
     <title>Tennessee Connections Academy - Free Online Program in Tennessee</title>
   </bookmark>
-  <bookmark href="https://www.gpucheck.com/en-usd/compare/nvidia-geforce-gtx-1650-vs-nvidia-geforce-rtx-3060-ti/intel-core-i7-4790-3-60ghz-vs-intel-core-i7-4790-3-60ghz/ultra/ultra/-vs-" id="870">
-    <title>GTX 1650 vs RTX 3060 Ti Game Performance Benchmarks (i7-4790 vs i7-4790) - GPUCheck United States / USA</title>
-  </bookmark>
   <bookmark href="https://learn.robosats.com/docs/access/" id="871">
     <title>Accessing RoboSats</title>
   </bookmark>
@@ -2782,9 +2722,6 @@
   </bookmark>
   <bookmark href="https://cookiecutter.readthedocs.io/" id="937">
     <title>Cookiecutter: Better Project Templates — cookiecutter 1.7.2 documentation</title>
-  </bookmark>
-  <bookmark href="https://github.com/ryanholbrook/datascience-docker-gpu" id="938">
-    <title>ryanholbrook/datascience-docker-gpu</title>
   </bookmark>
   <bookmark href="https://www.linuxhowtos.org/C_C++/socket.htm" id="939">
     <title>Linux Howtos: C/C++ -&gt; Sockets Tutorial</title>
@@ -3017,5 +2954,14 @@
   <bookmark href="https://tennesseelookout.com/2025/01/08/tennessee-bureau-of-investigation-director-backs-off-talk-about-venezuelan-gang-violence/" id="4">
     <title>Tennessee Bureau of Investigation director backs off talk about Venezuelan gang violence • Tennessee Lookout</title>
   </bookmark>
+</folder>
+<folder id="1015">
+  <title>Computer Technology</title>
+  <bookmark href="https://modal.com/gpu-glossary/readme?utm_source=tldrnewsletter" id="1017">
+    <title>GPU Glossary</title>
+  </bookmark>
+</folder>
+<folder id="1016">
+  <title>Online Tools</title>
 </folder>
 </xbel>
