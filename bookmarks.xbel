@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1013: for Floccus bookmark sync browser extension -->
+<!--- highestId :1014: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>floccus</title>
@@ -10,9 +10,6 @@
   </bookmark>
   <bookmark href="https://hosting.lino-framework.org/borg/" id="3">
     <title>How to set up a Borg backup client and server — Hosting Guide</title>
-  </bookmark>
-  <bookmark href="https://tennesseelookout.com/2025/01/08/tennessee-bureau-of-investigation-director-backs-off-talk-about-venezuelan-gang-violence/" id="4">
-    <title>Tennessee Bureau of Investigation director backs off talk about Venezuelan gang violence • Tennessee Lookout</title>
   </bookmark>
   <bookmark href="https://pocket.co/share/cf0a9264-96c2-4bda-8771-0b3611c942d2?utm_source=pocket_reader" id="5">
     <title>llama.cpp guide - Running LLMs locally, on any hardware, from scratch</title>
@@ -104,27 +101,6 @@
   <bookmark href="https://www.deltafaucet.com/kitchen/product/19949-SSSD-DST" id="34">
     <title>Our Kitchen Faucet</title>
   </bookmark>
-  <bookmark href="https://nordvpn.com/" id="35">
-    <title>NordVPN</title>
-  </bookmark>
-  <bookmark href="https://www.highlightskids.com/" id="36">
-    <title>Highlights Kids</title>
-  </bookmark>
-  <bookmark href="http://pbskids.org/" id="37">
-    <title>PBS Kids</title>
-  </bookmark>
-  <bookmark href="http://www.abcya.com/" id="38">
-    <title>ABCya!</title>
-  </bookmark>
-  <bookmark href="http://www.seussville.com/" id="39">
-    <title>Seussville</title>
-  </bookmark>
-  <bookmark href="http://kids.nationalgeographic.com/" id="40">
-    <title>Kids&apos; National Geographic</title>
-  </bookmark>
-  <bookmark href="http://www.switcheroozoo.com/" id="41">
-    <title>Switch Zoo Animal Games</title>
-  </bookmark>
   <bookmark href="http://stackoverflow.com/questions/97640/force-maven2-to-copy-dependencies-into-target-lib" id="42">
     <title>Copy Dependencies in Maven</title>
   </bookmark>
@@ -142,12 +118,6 @@
   </bookmark>
   <bookmark href="https://hub.docker.com/_/python/" id="47">
     <title>Python Official Docker Images</title>
-  </bookmark>
-  <bookmark href="https://pkgs.alpinelinux.org/packages" id="48">
-    <title>Alpine Linux Packages</title>
-  </bookmark>
-  <bookmark href="https://spock.rocks/tech/2016/03/30/docker-alpine-cheat-sheet.html" id="49">
-    <title>Dockerfile Alpine Linux</title>
   </bookmark>
   <bookmark href="https://www.shodan.io/" id="50">
     <title>Shodan</title>
@@ -3040,6 +3010,12 @@
   </bookmark>
   <bookmark href="https://docs.docker.com/engine/reference/run/#runtime-privilege-and-linux-capabilities" id="1013">
     <title>Docker run reference</title>
+  </bookmark>
+</folder>
+<folder id="1014">
+  <title>New Stories</title>
+  <bookmark href="https://tennesseelookout.com/2025/01/08/tennessee-bureau-of-investigation-director-backs-off-talk-about-venezuelan-gang-violence/" id="4">
+    <title>Tennessee Bureau of Investigation director backs off talk about Venezuelan gang violence • Tennessee Lookout</title>
   </bookmark>
 </folder>
 </xbel>
