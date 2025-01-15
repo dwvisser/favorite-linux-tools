@@ -56,9 +56,6 @@
   <bookmark href="https://jensd.be/1126/linux/cross-compiling-for-arm-or-aarch64-on-debian-or-ubuntu" id="30">
     <title>Cross compiling for arm or aarch64 on Debian or Ubuntu | Jensd&apos;s I/O buffer</title>
   </bookmark>
-  <bookmark href="https://ln.bitfinex.com/" id="31">
-    <title>Bitfinex Bitcoin Lightning Network</title>
-  </bookmark>
   <bookmark href="https://firstaidkit.substack.com/p/get-an-itemized-medical-bill-and" id="32">
     <title>Get an itemized medical bill and fact-check it</title>
   </bookmark>
@@ -2907,6 +2904,9 @@
     </bookmark>
     <bookmark href="https://bitcan.world/?ref=nobsbitcoin.com" id="24">
       <title>BitCan: DIY Bitcoin Seed Storage</title>
+    </bookmark>
+    <bookmark href="https://ln.bitfinex.com/" id="31">
+      <title>Bitfinex Bitcoin Lightning Network</title>
     </bookmark>
   </folder>
   <bookmark href="https://www.schwab.com/learn/story/structuring-your-retirement-portfolio" id="12">
