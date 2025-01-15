@@ -878,9 +878,6 @@
   <bookmark href="http://sparql-wrapper.sourceforge.net/" id="396">
     <title>SPARQL Endpoint interface to Python</title>
   </bookmark>
-  <bookmark href="https://launchpad.net/ubuntu/+source/pysesame" id="398">
-    <title>“pysesame” package : Ubuntu</title>
-  </bookmark>
   <bookmark href="http://pyunit.sourceforge.net/pyunit.html#USING" id="399">
     <title>Python Unit Testing Framework</title>
   </bookmark>
