@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1018: for Floccus bookmark sync browser extension -->
+<!--- highestId :1019: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>floccus</title>
@@ -2944,6 +2944,9 @@
   <title>Money</title>
   <bookmark href="https://freeze.transunion.com/sf/securityFreeze/landingPage.jsp" id="57">
     <title>TransUnion - Credit Report Freeze</title>
+  </bookmark>
+  <bookmark href="https://www.freeze.equifax.com/Freeze/jsp/SFF_PersonalIDInfo.jsp" id="1019">
+    <title>Equifax - Credit Report Freeze</title>
   </bookmark>
 </folder>
 </xbel>
