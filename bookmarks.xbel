@@ -5,9 +5,6 @@
 
 <folder id="1">
   <title>Unorganized</title>
-  <bookmark href="http://www.codeotaku.com/projects/jquery-syntax/index.en" id="252">
-    <title>Syntax Highlighting - jQuery.Syntax</title>
-  </bookmark>
   <bookmark href="https://code.google.com/p/uimafit/" id="253">
     <title>uimafit - uimaFIT is a library that provides factories, injection, and testing utilities for UIMA - Google Project Hosting</title>
   </bookmark>
