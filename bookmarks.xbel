@@ -40,6 +40,9 @@
   </folder>
   <folder id="1024">
     <title>Linux</title>
+    <bookmark href="https://www.linuxserver.io/" id="969">
+      <title>LinuxServer</title>
+    </bookmark>
     <bookmark href="https://baturin.org/docs/iproute2/" id="924">
       <title>Task-centered iproute2 user guide</title>
     </bookmark>
@@ -82,6 +85,15 @@
   </folder>
   <folder id="1022">
     <title>Making Software</title>
+    <bookmark href="https://realfavicongenerator.net/" id="988">
+      <title>Favicon Generator for all platforms: iOS, Android, PC/Mac...</title>
+    </bookmark>
+    <bookmark href="https://app-manifest.firebaseapp.com/" id="987">
+      <title>App Manifest Generator</title>
+    </bookmark>
+    <bookmark href="https://stackoverflow.com/questions/23228727/deleting-solr-documents-from-solr-admin" id="956">
+      <title>Deleting solr documents from Solr Admin</title>
+    </bookmark>
     <bookmark href="https://github.com/dandavison/delta" id="942">
       <title>dandavison/delta</title>
     </bookmark>
@@ -173,6 +185,9 @@
 </folder>
 <folder id="1034">
   <title>Cool</title>
+  <bookmark href="https://pcpartpicker.com/" id="990">
+    <title>Pick parts. Build your PC. Compare and share.</title>
+  </bookmark>
   <bookmark href="https://www.languagetransfer.org/" id="909">
     <title>Language Transfer</title>
   </bookmark>
@@ -404,6 +419,9 @@
 </folder>
 <folder id="1102">
   <title>Politics / Government</title>
+  <bookmark href="https://www.climaterealityproject.org/truth" id="980">
+    <title>Truth in 10</title>
+  </bookmark>
   <bookmark href="http://crfb.org/" id="434">
     <title>Committee for a Responsible Federal Budget</title>
   </bookmark>
@@ -425,6 +443,12 @@
 </folder>
 <folder id="1032">
   <title>Recipes</title>
+  <bookmark href="https://www.seriouseats.com/recipes/2009/10/perfect-boiled-eggs-recipe.html" id="972">
+    <title>Perfect Hard-Boiled Eggs Recipe</title>
+  </bookmark>
+  <bookmark href="https://www.thekitchn.com/jacket-potato-22943799" id="970">
+    <title>The Secret to Better Baked Potatoes? Cook Them Like the British Do.</title>
+  </bookmark>
   <bookmark href="https://getpocket.com/explore/item/how-to-make-banana-bread" id="926">
     <title>How To Make Banana Bread</title>
   </bookmark>
@@ -445,138 +469,6 @@
   </bookmark>
   <bookmark href="http://lifehacker.com/5898178/bake-tortillas-into-hard-taco-shells-on-your-oven-rack" id="1097">
     <title>Bake Tortillas Into Hard Taco Shells on Your Oven Rack</title>
-  </bookmark>
-</folder>
-<folder id="1">
-  <title>Unorganized</title>
-  <bookmark href="https://www.aptgetlife.co.uk/fixing-error-opening-spice-console-spiceclientgtk-missing/" id="953">
-    <title>Fixing Error Opening Spice Console SpiceClientGtk missing - apt get life</title>
-  </bookmark>
-  <bookmark href="https://linuxhint.com/libvirt_qemu_kvm_debian/" id="954">
-    <title>Setting up Libvirt QEMU and KVM stack on Debian – Linux Hint</title>
-  </bookmark>
-  <bookmark href="https://www.imore.com/how-clean-your-iphones-charging-port" id="955">
-    <title>Is your iPhone charging port gunked up? Here&apos;s how to clean it</title>
-  </bookmark>
-  <bookmark href="https://stackoverflow.com/questions/23228727/deleting-solr-documents-from-solr-admin" id="956">
-    <title>Deleting solr documents from Solr Admin</title>
-  </bookmark>
-  <bookmark href="https://highlandpiano.com/" id="957">
-    <title>Highland Piano Studios</title>
-  </bookmark>
-  <bookmark href="https://virt-manager.org/" id="958">
-    <title>Virtual Machine Manager Home</title>
-  </bookmark>
-  <bookmark href="https://www.accu-chek.com/meters/guide-meter" id="959">
-    <title>Accu-Chek Guide</title>
-  </bookmark>
-  <bookmark href="https://amarcoplumbing.com/toilet-fills-up-drains-slowly/" id="960">
-    <title>Toilet Fills Up Then Drains Slowly: Causes &amp; Solutions - Amarco Plumbing</title>
-  </bookmark>
-  <bookmark href="https://gist.github.com/mbinna/c61dbb39bca0e4fb7d1f73b0d66a4fd1" id="961">
-    <title>Effective Modern CMake</title>
-  </bookmark>
-  <bookmark href="https://github.com/marketplace/actions/github-pages-action#%EF%B8%8F-static-site-generators-with-nodejs" id="963">
-    <title>GitHub Pages action - GitHub Marketplace</title>
-  </bookmark>
-  <bookmark href="https://github.com/GoogleChromeLabs/dark-mode-toggle" id="964">
-    <title>GoogleChromeLabs/dark-mode-toggle</title>
-  </bookmark>
-  <bookmark href="https://www.open-xchange.com/" id="967">
-    <title>Home | Open-Xchange</title>
-  </bookmark>
-  <bookmark href="https://extras.show/19" id="968">
-    <title>Jupiter Extras: Self-Hosted: Reverse Proxy Basics</title>
-  </bookmark>
-  <bookmark href="https://www.linuxserver.io/" id="969">
-    <title>LinuxServer</title>
-  </bookmark>
-  <bookmark href="https://www.thekitchn.com/jacket-potato-22943799" id="970">
-    <title>The Secret to Better Baked Potatoes? Cook Them Like the British Do.</title>
-  </bookmark>
-  <bookmark href="https://www.seriouseats.com/recipes/2009/10/perfect-boiled-eggs-recipe.html" id="972">
-    <title>Perfect Hard-Boiled Eggs Recipe</title>
-  </bookmark>
-  <bookmark href="https://www.abort-retry-fail.com/2018/09/29/using-a-u2f-yubikey-with-linux-mint-19-tara/" id="973">
-    <title>Using a U2F Yubikey with Linux Mint 19 Tara</title>
-  </bookmark>
-  <bookmark href="https://bestmvno.com/compare/verizon-mvnos/" id="974">
-    <title>Verizon MVNO Comparison</title>
-  </bookmark>
-  <bookmark href="https://github.com/inuyaksa/jquery.nicescroll/blob/master/README.md" id="975">
-    <title>inuyaksa/jquery.nicescroll</title>
-  </bookmark>
-  <bookmark href="https://deckdeckgo.com/" id="976">
-    <title>DeckDeckGo</title>
-  </bookmark>
-  <bookmark href="https://sourcery.ai/blog/python-best-practices/" id="977">
-    <title>How to set up a perfect Python project</title>
-  </bookmark>
-  <bookmark href="https://stackoverflow.com/questions/45486572/bootstrap-4-sass-changing-theme-dynamically" id="978">
-    <title>Bootstrap 4 Sass - changing theme dynamically</title>
-  </bookmark>
-  <bookmark href="https://www.randomlyinspired.com/noviews" id="979">
-    <title>No Views: watch unwatched YouTube videos | Randomly Inspired!</title>
-  </bookmark>
-  <bookmark href="https://www.climaterealityproject.org/truth" id="980">
-    <title>Truth in 10</title>
-  </bookmark>
-  <bookmark href="https://www.npmjs.com/package/intersection-observer" id="981">
-    <title>npm: intersection-observer</title>
-  </bookmark>
-  <bookmark href="https://www.npmjs.com/package/intersection-lazyload" id="982">
-    <title>npm: intersection-lazyload</title>
-  </bookmark>
-  <bookmark href="https://www.macatawabank.com/info/about-us/routing" id="983">
-    <title>Macatawa Bank Routing Number (072413845) and SWIFT Code (MATWUS33)</title>
-  </bookmark>
-  <bookmark href="https://ionicframework.com/docs/api/router" id="984">
-    <title>ion-router - Ionic Documentation</title>
-  </bookmark>
-  <bookmark href="https://dev.to/ananyaneogi/create-a-dark-light-mode-switch-with-css-variables-34l8" id="985">
-    <title>Create A Dark/Light Mode Switch with CSS Variables</title>
-  </bookmark>
-  <bookmark href="https://stackoverflow.com/questions/43095823/vue-js-router-history-mode-and-aws-s3-routingrules#47554827" id="986">
-    <title>Vue.js Router: history mode and AWS S3 (RoutingRules)</title>
-  </bookmark>
-  <bookmark href="https://app-manifest.firebaseapp.com/" id="987">
-    <title>App Manifest Generator</title>
-  </bookmark>
-  <bookmark href="https://realfavicongenerator.net/" id="988">
-    <title>Favicon Generator for all platforms: iOS, Android, PC/Mac...</title>
-  </bookmark>
-  <bookmark href="https://stackoverflow.com/questions/18774069/amazon-cloudfront-cache-control-no-cache-header-has-no-effect-after-24-hours" id="989">
-    <title>Amazon Cloudfront Cache-Control: no-cache header has no effect after 24 hours</title>
-  </bookmark>
-  <bookmark href="https://pcpartpicker.com/" id="990">
-    <title>Pick parts. Build your PC. Compare and share.</title>
-  </bookmark>
-  <bookmark href="https://www.huperoptikusa.com/" id="991">
-    <title>Huper Optik - Home &amp; Commercial Window Tinting Films Manufacturing Company</title>
-  </bookmark>
-  <bookmark href="https://m.wikihow.com/Fix-a-Leaky-Faucet" id="992">
-    <title>How to Fix a Leaky Faucet</title>
-  </bookmark>
-  <bookmark href="http://live.orcasound.net/orcasound-lab" id="993">
-    <title>Orcasound - Listen for whales</title>
-  </bookmark>
-  <bookmark href="http://www.ufopub.com/" id="994">
-    <title>UFO Publishing</title>
-  </bookmark>
-  <bookmark href="https://www.savjee.be/2018/05/Content-security-policy-and-aws-s3-cloudfront/" id="998">
-    <title>Implement Content Security Policy with AWS S3 and CloudFront | Savjee.be</title>
-  </bookmark>
-  <bookmark href="https://costrouc-python-package-template.readthedocs.io/en/latest/" id="999">
-    <title>Welcome to Python Package Template’s documentation! — Python Package Template 1.0.0 documentation</title>
-  </bookmark>
-  <bookmark href="https://gitlab.com/njam/terraform-aws-syncthing" id="1000">
-    <title>Reto Kaiser / terraform-aws-syncthing</title>
-  </bookmark>
-  <bookmark href="http://www.fatsecret.com/calories-nutrition/food/mashed-potatoes/carbohydrate" id="254">
-    <title>Carbs in Mashed Potatoes</title>
-  </bookmark>
-  <bookmark href="http://blog.bittorrent.com/2013/01/24/test-bittorrent-sync-pre-alpha/" id="274">
-    <title>Test BitTorrent Sync (Pre-Alpha) | The Official BitTorrent Blog</title>
   </bookmark>
 </folder>
 </xbel>
