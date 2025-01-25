@@ -40,6 +40,12 @@
   </folder>
   <folder id="1024">
     <title>Linux</title>
+    <bookmark href="https://www.cyberciti.biz/faq/linux-show-dropped-packets-per-interface-command/" id="887">
+      <title>How to show dropped packets per interface on Linux</title>
+    </bookmark>
+    <bookmark href="https://www.systutorials.com/backup-linux-home-directory-using-rsync/" id="865">
+      <title>How to Backup Linux Home Directories Using rsync - SysTutorials</title>
+    </bookmark>
     <bookmark href="http://kdiff3.sourceforge.net/" id="494">
       <title>KDiff3 - Homepage</title>
     </bookmark>
@@ -118,6 +124,9 @@
   </folder>
   <folder id="1035">
     <title>Windows</title>
+    <bookmark href="https://www.ubackup.com/windows-10/reinstall-windows-10-without-losing-data-4348.html#toc.0.18164252145439208" id="888">
+      <title>How to Easily Reinstall Windows 10/11 Without Losing Data (3 Ways)</title>
+    </bookmark>
     <bookmark href="http://windirstat.info/" id="652">
       <title>WinDirStat - Windows Directory Statistics</title>
     </bookmark>
@@ -284,6 +293,15 @@
 </folder>
 <folder id="1018">
   <title>Money</title>
+  <bookmark href="http://help.bluewallet.io/en/articles/3820512-how-to-use-coldcard-with-bluewallet" id="882">
+    <title>How to use Coldcard with Bluewallet | Bluewallet Help Center</title>
+  </bookmark>
+  <bookmark href="https://coldcard.com/docs/quick" id="881">
+    <title>Quickstart! Start Here! – COLDCARD Wallet User Docs</title>
+  </bookmark>
+  <bookmark href="https://lightningnetwork.plus/" id="873">
+    <title>Swaps Index • LightningNetwork+</title>
+  </bookmark>
   <bookmark href="http://www.smartypig.com/" id="617">
     <title>SmartyPig®: Simple. Smart. Savings. ®</title>
   </bookmark>
@@ -386,78 +404,6 @@
 </folder>
 <folder id="1">
   <title>Unorganized</title>
-  <bookmark href="https://www.nasa.gov/specials/trackartemis/" id="864">
-    <title>NASA: Artemis I AROW</title>
-  </bookmark>
-  <bookmark href="https://www.systutorials.com/backup-linux-home-directory-using-rsync/" id="865">
-    <title>How to Backup Linux Home Directories Using rsync - SysTutorials</title>
-  </bookmark>
-  <bookmark href="https://sharats.me/posts/shell-script-best-practices/?utm_source=tldrnewsletter" id="866">
-    <title>Shell Script Best Practices</title>
-  </bookmark>
-  <bookmark href="https://www.higheredinprison.org/national-directory/stats-view" id="867">
-    <title>National Directory – Stats View</title>
-  </bookmark>
-  <bookmark href="https://support.microsoft.com/en-us/topic/windows-7-does-not-go-to-sleep-cb84a4b5-4116-cfb5-a237-5cb287e34320" id="868">
-    <title>Windows 7 does not go to sleep</title>
-  </bookmark>
-  <bookmark href="https://www.connectionsacademy.com/tennessee-online-school/" id="869">
-    <title>Tennessee Connections Academy - Free Online Program in Tennessee</title>
-  </bookmark>
-  <bookmark href="https://learn.robosats.com/docs/access/" id="871">
-    <title>Accessing RoboSats</title>
-  </bookmark>
-  <bookmark href="https://www.borderwallets.com/" id="872">
-    <title>Introducing a new way to quickly and reliably memorise Bitcoin seed phrases.</title>
-  </bookmark>
-  <bookmark href="https://lightningnetwork.plus/" id="873">
-    <title>Swaps Index • LightningNetwork+</title>
-  </bookmark>
-  <bookmark href="https://www.sparrowwallet.com/docs/mixing-whirlpool.html" id="874">
-    <title>Mixing with Whirlpool</title>
-  </bookmark>
-  <bookmark href="https://answers.microsoft.com/en-us/windows/forum/all/can-i-install-computer-programs-into-d-drive-my-c/925c40e4-2225-4670-9a4c-c0052f87bc8a" id="875">
-    <title>Can I install computer programs into d drive. My c drive is full and d - Microsoft Community</title>
-  </bookmark>
-  <bookmark href="https://www.dell.com/community/Optiplex-Desktops/9020-SFF-NVME-M-2-boot-drive/td-p/6189038" id="876">
-    <title>Solved: 9020 SFF, NVME M.2, boot drive? - Dell Community</title>
-  </bookmark>
-  <bookmark href="https://unchained.com/" id="877">
-    <title>Bitcoin financial services - Unchained Capital</title>
-  </bookmark>
-  <bookmark href="https://www.vuity.com/" id="878">
-    <title>Now Approved Prescription Eyedrops for Presbyopia | VUITY™</title>
-  </bookmark>
-  <bookmark href="https://darthcoin.substack.com/p/umbrel-lndhub-bluewallet?s=r" id="879">
-    <title>Umbrel + LNDHub + Bluewallet</title>
-  </bookmark>
-  <bookmark href="https://1ml.com/node/037d284d2d7e6cec7623adbe600450a73b42fb90800989f05a862464b05408df39" id="880">
-    <title>Node: 037d284d2d7e6cec7623 | 1ML - Lightning Network Search and Analysis Engine - Bitcoin mainnet</title>
-  </bookmark>
-  <bookmark href="https://coldcard.com/docs/quick" id="881">
-    <title>Quickstart! Start Here! – COLDCARD Wallet User Docs</title>
-  </bookmark>
-  <bookmark href="http://help.bluewallet.io/en/articles/3820512-how-to-use-coldcard-with-bluewallet" id="882">
-    <title>How to use Coldcard with Bluewallet | Bluewallet Help Center</title>
-  </bookmark>
-  <bookmark href="https://www.bonappetit.com/story/easy-peel-hard-boiled-eggs?utm_source=pocket-newtab" id="883">
-    <title>How to Make Perfect Hard-Boiled Eggs</title>
-  </bookmark>
-  <bookmark href="https://walletrecovery.info/2021/10/29/how-to-transfer-bitcoin-from-a-multibit-classic-or-multibit-hd-wallet-into-electrum/" id="884">
-    <title>How to transfer Bitcoin from a Multibit Classic or Multibit HD wallet into Electrum – Bitcoin Wallet Recovery: Guaranteed Same-Day Crypto Service By Experienced Professionals, USA-based LLC since 2017</title>
-  </bookmark>
-  <bookmark href="https://community.getumbrel.com/t/instructions-to-get-an-incoming-channel-from-lnbig-with-umbrel/1541" id="885">
-    <title>Instructions to get an incoming channel from LNBIG with Umbrel</title>
-  </bookmark>
-  <bookmark href="https://covid.cdc.gov/covid-data-tracker/#wastewater-surveillance" id="886">
-    <title>CDC COVID Data Tracker - wastewater</title>
-  </bookmark>
-  <bookmark href="https://www.cyberciti.biz/faq/linux-show-dropped-packets-per-interface-command/" id="887">
-    <title>How to show dropped packets per interface on Linux</title>
-  </bookmark>
-  <bookmark href="https://www.ubackup.com/windows-10/reinstall-windows-10-without-losing-data-4348.html#toc.0.18164252145439208" id="888">
-    <title>How to Easily Reinstall Windows 10/11 Without Losing Data (3 Ways)</title>
-  </bookmark>
   <bookmark href="https://www.cms.gov/nosurprises/consumers/complaints-about-medical-billing" id="889">
     <title>Complaints about medical billing | CMS</title>
   </bookmark>
