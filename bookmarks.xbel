@@ -5,12 +5,6 @@
 
 <folder id="1">
   <title>Unorganized</title>
-  <bookmark href="http://www.galaxysedge.com/" id="176">
-    <title>Galaxy&apos;s Edge Magazine</title>
-  </bookmark>
-  <bookmark href="https://bugs.launchpad.net/ubuntu/+source/alsa-driver/+bug/864735" id="177">
-    <title>[ATI HDMI] HDMI Audio Disabled by Default (since oneiric)</title>
-  </bookmark>
   <bookmark href="http://ubuntuforums.org/showthread.php?t=2165630" id="178">
     <title>Ubuntu Forum: [AMD/ATi] HDMI sound not working - graphics driver not working</title>
   </bookmark>
