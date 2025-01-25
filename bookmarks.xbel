@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1095: for Floccus bookmark sync browser extension -->
+<!--- highestId :1097: for Floccus bookmark sync browser extension -->
 
 <folder id="1015">
   <title>Computer Technology</title>
@@ -185,6 +185,9 @@
   <bookmark href="https://www.tsienna.net/programming_the_homelinkv_for_u_s_a_owners_-328.html" id="27">
     <title>Toyota Sienna 2010-2023 Owners Manual: Programming the HomeLink® (for U.S.A. owners) - Garage door opener - Using the other interior features - Interior features</title>
   </bookmark>
+  <bookmark href="http://www.apartmenttherapy.com/make-your-rental-more-energy-efficient-167808" id="1096">
+    <title>The Ultimate Guide to Making Any Rental More Energy Efficient Renters Solutions | Apartment Therapy</title>
+  </bookmark>
 </folder>
 <folder id="1018">
   <title>Money</title>
@@ -260,42 +263,12 @@
   <bookmark href="http://www.quick-and-easy-dinner.com/crock-pot-potatoes.html" id="162">
     <title>Crock Pot Potatoes</title>
   </bookmark>
+  <bookmark href="http://lifehacker.com/5898178/bake-tortillas-into-hard-taco-shells-on-your-oven-rack" id="1097">
+    <title>Bake Tortillas Into Hard Taco Shells on Your Oven Rack</title>
+  </bookmark>
 </folder>
 <folder id="1">
   <title>Unorganized</title>
-  <bookmark href="http://lifehacker.com/5902802/ever-wonder-if-its-actually-legal-to-wear-headphones-when-youre-driving" id="407">
-    <title>Ever Wonder If It&apos;s Actually Legal to Wear Headphones When You&apos;re Driving?</title>
-  </bookmark>
-  <bookmark href="http://www.erealtyconcepts.com/" id="408">
-    <title>Knoxville TN real estate listings and homes for sale, homes for rent, property management, home buying, home selling information – Executive Realty Concepts D.B.A eRealty Concepts - Homepage</title>
-  </bookmark>
-  <bookmark href="http://www.w3.org/Submission/SPARQL-Update/" id="409">
-    <title>SPARQL Update</title>
-  </bookmark>
-  <bookmark href="http://cpudb.stanford.edu/" id="410">
-    <title>CPU DB - Looking At 40 Years of Processor Improvements | A complete database of processors for researchers and hobbyists alike.</title>
-  </bookmark>
-  <bookmark href="http://julialang.org/" id="411">
-    <title>The Julia Language</title>
-  </bookmark>
-  <bookmark href="http://lifehacker.com/5898178/bake-tortillas-into-hard-taco-shells-on-your-oven-rack" id="413">
-    <title>Bake Tortillas Into Hard Taco Shells on Your Oven Rack</title>
-  </bookmark>
-  <bookmark href="http://www.techgurublog.com/2012/02/29/run-windows-server-8-beta-vm-on-virtualbox-vhd-format/" id="414">
-    <title>How to Install Windows Server 8 Beta VM on VirtualBox</title>
-  </bookmark>
-  <bookmark href="http://netalyzr.icsi.berkeley.edu/" id="415">
-    <title>ICSI Netalyzr</title>
-  </bookmark>
-  <bookmark href="http://www.apartmenttherapy.com/make-your-rental-more-energy-efficient-167808" id="416">
-    <title>The Ultimate Guide to Making Any Rental More Energy Efficient Renters Solutions | Apartment Therapy</title>
-  </bookmark>
-  <bookmark href="http://www.google.com/products/catalog?q=frontier+85+sict+britax&amp;hl=en&amp;cid=17972024915793442284&amp;os=local-sellers" id="417">
-    <title>Britax Frontier 85 SICT Car Seat Onyx 25-120lbs E9LE31A</title>
-  </bookmark>
-  <bookmark href="http://superuser.com/questions/243705/install-windows-or-linux-fonts-on-mac-os-x" id="418">
-    <title>Install Windows or Linux fonts on Mac OS X - Super User</title>
-  </bookmark>
   <bookmark href="http://chrisacheson.net/blog/2009/03/21/how-to-get-profont-working-in-ubuntu/" id="419">
     <title>How to get ProFont working in Ubuntu « Blog - ChrisAcheson.net</title>
   </bookmark>
