@@ -1,24 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1097: for Floccus bookmark sync browser extension -->
+<!--- highestId :1103: for Floccus bookmark sync browser extension -->
 
 <folder id="1015">
   <title>Computer Technology</title>
-  <bookmark href="http://lifehacker.com/5916163/turn-your-email-into-the-best-social-network-youll-ever-use" id="364">
-    <title>Turn Your Email into the Best Social Network You’ll Ever Use</title>
-  </bookmark>
-  <bookmark href="https://modal.com/gpu-glossary/readme?utm_source=tldrnewsletter" id="1017">
-    <title>GPU Glossary</title>
-  </bookmark>
-  <bookmark href="https://pocket.co/share/cf0a9264-96c2-4bda-8771-0b3611c942d2?utm_source=pocket_reader" id="5">
-    <title>llama.cpp guide - Running LLMs locally, on any hardware, from scratch</title>
-  </bookmark>
-  <bookmark href="https://prism-break.org/" id="202">
-    <title>PRISM ⚡ Break</title>
-  </bookmark>
+  <folder id="1099">
+    <title>Apple</title>
+    <bookmark href="http://www.apple.com/recycling/" id="496">
+      <title>Apple - Recycling Program</title>
+    </bookmark>
+  </folder>
+  <folder id="1100">
+    <title>Internet</title>
+    <bookmark href="http://thecustomizewindows.com/2011/04/create-external-links-with-an-icon-beside-like-wikipedia/" id="280">
+      <title>Create external links with an icon beside like Wikipedia</title>
+    </bookmark>
+    <bookmark href="http://www.whatismyip.com/" id="518">
+      <title>What Is My IP Address - Shows Your IP Address</title>
+    </bookmark>
+    <bookmark href="https://tails.boum.org/" id="293">
+      <title>Tails - Privacy for anyone anywhere</title>
+    </bookmark>
+    <bookmark href="http://lifehacker.com/5916163/turn-your-email-into-the-best-social-network-youll-ever-use" id="364">
+      <title>Turn Your Email into the Best Social Network You’ll Ever Use</title>
+    </bookmark>
+    <bookmark href="http://www.broadbandmap.gov/" id="558">
+      <title>National Broadband Map</title>
+    </bookmark>
+  </folder>
   <folder id="1024">
     <title>Linux</title>
+    <bookmark href="http://kdiff3.sourceforge.net/" id="494">
+      <title>KDiff3 - Homepage</title>
+    </bookmark>
     <bookmark href="http://tuxtweaks.com/2009/12/remove-old-kernels-in-ubuntu/" id="77">
       <title>Remove Old Kernels in Ubuntu | Tux Tweaks</title>
     </bookmark>
@@ -49,6 +64,9 @@
   </folder>
   <folder id="1022">
     <title>Making Software</title>
+    <bookmark href="http://d-programming-language.org/index.html" id="435">
+      <title>Home - D Programming Language</title>
+    </bookmark>
     <bookmark href="https://jensd.be/1126/linux/cross-compiling-for-arm-or-aarch64-on-debian-or-ubuntu" id="30">
       <title>Cross compiling for arm or aarch64 on Debian or Ubuntu | Jensd&apos;s I/O buffer</title>
     </bookmark>
@@ -85,15 +103,18 @@
     <bookmark href="http://jimmyg.org/blog/2009/working-with-python-subprocess.html" id="1094">
       <title>Working with Python subprocess - Shells, Processes, Streams, Pipes, Redirects and More</title>
     </bookmark>
+    <bookmark href="https://pragprog.com/" id="1098">
+      <title>Pragmatic Bookshelf: By Developers, For Developers</title>
+    </bookmark>
   </folder>
-  <bookmark href="http://thecustomizewindows.com/2011/04/create-external-links-with-an-icon-beside-like-wikipedia/" id="280">
-    <title>Create external links with an icon beside like Wikipedia</title>
-  </bookmark>
-  <bookmark href="https://tails.boum.org/" id="293">
-    <title>Tails - Privacy for anyone anywhere</title>
-  </bookmark>
   <folder id="1035">
     <title>Windows</title>
+    <bookmark href="http://stackoverflow.com/questions/2606467/open-ms-word-in-compare-document-mode-from-command-prompt" id="484">
+      <title>msword - Open ms word in &quot;compare document&quot; mode from command prompt - Stack Overflow</title>
+    </bookmark>
+    <bookmark href="http://blogs.msdn.com/b/powershell/archive/2008/03/23/select-string-and-grep.aspx" id="456">
+      <title>Select-String and Grep - Windows PowerShell Blog - Site Home - MSDN Blogs</title>
+    </bookmark>
     <bookmark href="http://www.regular-expressions.info/powershell.html" id="327">
       <title>Regular Expressions with Windows PowerShell</title>
     </bookmark>
@@ -104,9 +125,30 @@
       <title>Effective PowerShell Item 9: Regular Expressions – One of the Power Tools in PowerShell | Keith Hill&apos;s Blog</title>
     </bookmark>
   </folder>
+  <bookmark href="https://modal.com/gpu-glossary/readme?utm_source=tldrnewsletter" id="1017">
+    <title>GPU Glossary</title>
+  </bookmark>
+  <bookmark href="https://pocket.co/share/cf0a9264-96c2-4bda-8771-0b3611c942d2?utm_source=pocket_reader" id="5">
+    <title>llama.cpp guide - Running LLMs locally, on any hardware, from scratch</title>
+  </bookmark>
+  <bookmark href="https://prism-break.org/" id="202">
+    <title>PRISM ⚡ Break</title>
+  </bookmark>
 </folder>
 <folder id="1034">
   <title>Cool</title>
+  <bookmark href="http://sunrisesunset.com/" id="552">
+    <title>Sunrise Sunset Calendars and Local Time</title>
+  </bookmark>
+  <bookmark href="http://openlibrary.org/" id="462">
+    <title>Welcome to Open Library (Open Library)</title>
+  </bookmark>
+  <bookmark href="http://www.archive.org/index.php" id="461">
+    <title>Internet Archive: Digital Library of Free Books, Movies, Music &amp; Wayback Machine</title>
+  </bookmark>
+  <bookmark href="http://www.britannica.com/?cameFromBol=true" id="448">
+    <title>Encyclopedia - Britannica Online Encyclopedia</title>
+  </bookmark>
   <bookmark href="http://stellarium.org/" id="378">
     <title>Stellarium</title>
   </bookmark>
@@ -122,6 +164,12 @@
   <bookmark href="https://tinyhouselistings.com/" id="1095">
     <title>Tiny House Listings: Tiny Houses For Sale and Rent</title>
   </bookmark>
+  <folder id="1101">
+    <title>Fiction</title>
+    <bookmark href="http://www.infinityplus.co.uk/stories/colderwar.htm" id="538">
+      <title>A Colder War - a novelette by Charles Stross</title>
+    </bookmark>
+  </folder>
 </folder>
 <folder id="1027">
   <title>Eulogies</title>
@@ -249,6 +297,18 @@
     <title>Install Greenhouse | Expose Political Corruption</title>
   </bookmark>
 </folder>
+<folder id="1102">
+  <title>Politics / Government</title>
+  <bookmark href="http://crfb.org/" id="434">
+    <title>Committee for a Responsible Federal Budget</title>
+  </bookmark>
+</folder>
+<folder id="1103">
+  <title>Professional</title>
+  <bookmark href="http://www.dwheeler.com/" id="454">
+    <title>David A. Wheeler&apos;s Personal Home Page</title>
+  </bookmark>
+</folder>
 <folder id="1021">
   <title>Quotable Quotes</title>
   <bookmark href="https://www.forbes.com/sites/sap/2014/07/07/douglas-adams-technology-rules/?sh=1f261f6153e6" id="22">
@@ -257,6 +317,9 @@
 </folder>
 <folder id="1032">
   <title>Recipes</title>
+  <bookmark href="http://www.grouprecipes.com/62148/easy-homemade-macaroni-and-cheese.html" id="472">
+    <title>Easy Homemade Macaroni And Cheese Recipe</title>
+  </bookmark>
   <bookmark href="http://www.npr.org/2014/01/09/260554814/slow-cook-your-way-to-the-colonels-secret-recipe?utm_medium=Email&amp;utm_campaign=20140112&amp;utm_source=mostemailed" id="161">
     <title>Found Recipe: KFC-Inspired Chicken : NPR</title>
   </bookmark>
@@ -269,492 +332,6 @@
 </folder>
 <folder id="1">
   <title>Unorganized</title>
-  <bookmark href="http://chrisacheson.net/blog/2009/03/21/how-to-get-profont-working-in-ubuntu/" id="419">
-    <title>How to get ProFont working in Ubuntu « Blog - ChrisAcheson.net</title>
-  </bookmark>
-  <bookmark href="http://www.nerdparadise.com/silly/misc/howtomakeacdcase/" id="420">
-    <title>Nerd Paradise : How to build a CD Case out of a single sheet of paper.</title>
-  </bookmark>
-  <bookmark href="http://flask.pocoo.org/" id="421">
-    <title>Welcome | Flask (A Python Microframework)</title>
-  </bookmark>
-  <bookmark href="http://drupal.org/start" id="423">
-    <title>Get Started with Drupal | drupal.org</title>
-  </bookmark>
-  <bookmark href="http://donottrack.us/" id="424">
-    <title>Do Not Track - Universal Web Tracking Opt Out</title>
-  </bookmark>
-  <bookmark href="http://www.teamviewer.com/en/index.aspx" id="425">
-    <title>TeamViewer - Free Remote Access and Remote Desktop Sharing over the Internet</title>
-  </bookmark>
-  <bookmark href="http://retroshare.sourceforge.net/" id="426">
-    <title>RetroShare</title>
-  </bookmark>
-  <bookmark href="http://www.tomshardware.com/forum/243423-32-image-flash" id="427">
-    <title>ISO image to USB flash - General-Storage - Storage</title>
-  </bookmark>
-  <bookmark href="http://www.bootdisk.com/pendrive.htm" id="428">
-    <title>Boot From A USB Flash/Pen/Key Drive</title>
-  </bookmark>
-  <bookmark href="http://news.cnet.com/8301-10805_3-57389397-75/how-to-uh-turn-windows-8-off/" id="429">
-    <title>How to, uh, turn Windows 8 off | Microsoft - CNET News</title>
-  </bookmark>
-  <bookmark href="http://techietalkz.com/2011/09/15/how-to-run-windows-8-developer-preview-in-virtualbox-with-full-resolution/" id="430">
-    <title>[How To] Run Windows 8 Developer Preview in VirtualBox with Full Resolution « Techie Talkz</title>
-  </bookmark>
-  <bookmark href="http://windows.microsoft.com/en-US/windows-8/iso" id="431">
-    <title>Windows 8 Consumer Preview ISO formats</title>
-  </bookmark>
-  <bookmark href="http://gmailblog.blogspot.com/2012/02/open-email-links-directly-in-gmail.html" id="432">
-    <title>Open email links directly in Gmail using Chrome | Official Gmail Blog</title>
-  </bookmark>
-  <bookmark href="http://gate.ac.uk/" id="433">
-    <title>GATE.ac.uk - index.html</title>
-  </bookmark>
-  <bookmark href="http://crfb.org/" id="434">
-    <title>Committee for a Responsible Federal Budget</title>
-  </bookmark>
-  <bookmark href="http://d-programming-language.org/index.html" id="435">
-    <title>Home - D Programming Language</title>
-  </bookmark>
-  <bookmark href="http://stackoverflow.com/questions/902818/how-to-get-started-with-windows-7-gadgets" id="436">
-    <title>howto - How to get started with Windows 7 gadgets - Stack Overflow</title>
-  </bookmark>
-  <bookmark href="http://aed4.us/" id="437">
-    <title>AED4.US - Radboud University Nijmegen Medical Centre</title>
-  </bookmark>
-  <bookmark href="http://www.delicious.com/sdesciencelover" id="438">
-    <title>Delicious.com - Discover Yourself!</title>
-  </bookmark>
-  <bookmark href="http://www.reactos.org/en/index.html" id="439">
-    <title>Frontpage - ReactOS Website</title>
-  </bookmark>
-  <bookmark href="http://open-advice.org/#dwnbox" id="440">
-    <title>Open Advice</title>
-  </bookmark>
-  <bookmark href="http://www.goodcat-trainings.net/" id="441">
-    <title>On Demand Trainings</title>
-  </bookmark>
-  <bookmark href="http://www.imdb.com/title/tt1270262/" id="443">
-    <title>The Devil&apos;s Double (2011) - IMDb</title>
-  </bookmark>
-  <bookmark href="http://dcmo.defense.gov/etp/FY2011/home.html" id="444">
-    <title>FY 2011 Enterprise Transition Plan</title>
-  </bookmark>
-  <bookmark href="http://www.ethiopianrestaurant.com/dc/madjet.html" id="445">
-    <title>Madjet Ethiopian Restaurant, (202) 265-1952, 1102 U St NW, Washington, DC 20009</title>
-  </bookmark>
-  <bookmark href="http://www.accessscience.com/index.aspx" id="446">
-    <title>McGraw-Hill&apos;s AccessScience Encyclopedia of Science &amp; Technology Online</title>
-  </bookmark>
-  <bookmark href="http://www.oxfordreference.com/views/GLOBAL.html?&amp;authstatuscode=202" id="447">
-    <title>Oxford Reference Online : Welcome</title>
-  </bookmark>
-  <bookmark href="http://www.britannica.com/?cameFromBol=true" id="448">
-    <title>Encyclopedia - Britannica Online Encyclopedia</title>
-  </bookmark>
-  <bookmark href="http://marketplace.eclipse.org/" id="449">
-    <title>Eclipse Plugins, Bundles and Products - Eclipse Marketplace</title>
-  </bookmark>
-  <bookmark href="http://en.wikipedia.org/wiki/Geany" id="450">
-    <title>Geany - Wikipedia, the free encyclopedia</title>
-  </bookmark>
-  <bookmark href="http://www.liquipel.com/" id="451">
-    <title>Liquipel | Waterproof Your Cell Phone, No Case Required!</title>
-  </bookmark>
-  <bookmark href="http://nginx.org/en/" id="452">
-    <title>nginx</title>
-  </bookmark>
-  <bookmark href="http://blogs.msdn.com/b/vancem/archive/2011/12/28/publication-of-the-perfview-performance-analysis-tool.aspx" id="453">
-    <title>Publication of the PerfView performance analysis tool! - Vance Morrison&apos;s Weblog - Site Home - MSDN Blogs</title>
-  </bookmark>
-  <bookmark href="http://www.dwheeler.com/" id="454">
-    <title>David A. Wheeler&apos;s Personal Home Page</title>
-  </bookmark>
-  <bookmark href="http://stackoverflow.com/questions/7260697/set-ant-bootclasspath-jdk-1-7-has-a-new-javac-warning-for-setting-an-older-sour" id="455">
-    <title>java - Set ant bootclasspath: JDK 1.7 has a new javac warning for setting an older source without bootclasspath - Stack Overflow</title>
-  </bookmark>
-  <bookmark href="http://blogs.msdn.com/b/powershell/archive/2008/03/23/select-string-and-grep.aspx" id="456">
-    <title>Select-String and Grep - Windows PowerShell Blog - Site Home - MSDN Blogs</title>
-  </bookmark>
-  <bookmark href="http://blog.gorwits.me.uk/2011/06/22/migrate-sourceforge-cvs-repository-to-git/" id="457">
-    <title>Migrate SourceForge CVS repository to git | Cats and Code</title>
-  </bookmark>
-  <bookmark href="http://www.ushistory.org/paine/reason/index.htm" id="458">
-    <title>Age of Reason</title>
-  </bookmark>
-  <bookmark href="http://opencompute.org/" id="460">
-    <title>Open Compute Project - Hacking Conventional Computing Infrastructure</title>
-  </bookmark>
-  <bookmark href="http://www.archive.org/index.php" id="461">
-    <title>Internet Archive: Digital Library of Free Books, Movies, Music &amp; Wayback Machine</title>
-  </bookmark>
-  <bookmark href="http://openlibrary.org/" id="462">
-    <title>Welcome to Open Library (Open Library)</title>
-  </bookmark>
-  <bookmark href="http://www.amazon.com/Google-Tests-Software-James-Whittaker/dp/0321803027/ref=sr_1_1?ie=UTF8&amp;qid=1323789183&amp;sr=8-1" id="463">
-    <title>Amazon.com: How Google Tests Software (9780321803023): James A. Whittaker, Jason Arbon, Jeff Carollo: Books</title>
-  </bookmark>
-  <bookmark href="http://www.astaro.com/landingpages/en-worldwide-homeuse" id="464">
-    <title>Astaro Internet Security - Free Home Use Firewall</title>
-  </bookmark>
-  <bookmark href="http://www.opendns.com/parental-controls/" id="465">
-    <title>OpenDNS - Parental Controls: Block Adult Internet sites at Home</title>
-  </bookmark>
-  <bookmark href="http://pragprog.com/book/rwdata/seven-databases-in-seven-weeks" id="466">
-    <title>The Pragmatic Bookshelf | Seven Databases in Seven Weeks</title>
-  </bookmark>
-  <bookmark href="http://www.gelaskins.com/" id="467">
-    <title>GelaSkins | iPad Skins, iPhone Skins, iPod Skins, Laptop Skins, Gaming Skins, Custom Skins, Giclee Prints and more...</title>
-  </bookmark>
-  <bookmark href="http://support.microsoft.com/kb/140333" id="468">
-    <title>How To Add an Object to the New Object List</title>
-  </bookmark>
-  <bookmark href="http://bashscript.blogspot.com/2010/05/how-to-read-file-line-by-line-in-shell.html" id="469">
-    <title>Shell Scripting: How to Read a File Line by Line in a Shell Script</title>
-  </bookmark>
-  <bookmark href="http://www.codeproject.com/KB/cpp/XSDTutorial_01.aspx?display=Print" id="470">
-    <title>XSD Tutorial - Part 1 of 5 - Elements and Attributes - CodeProject</title>
-  </bookmark>
-  <bookmark href="http://www.grouprecipes.com/62148/easy-homemade-macaroni-and-cheese.html" id="472">
-    <title>Easy Homemade Macaroni And Cheese Recipe</title>
-  </bookmark>
-  <bookmark href="http://www.willus.com/k2pdfopt/" id="473">
-    <title>Willus.com&apos;s K2pdfopt</title>
-  </bookmark>
-  <bookmark href="http://www.nvidia.com/object/notebook-win7-winvista-64bit-285.62-whql-driver.html" id="474">
-    <title>NVIDIA DRIVERS 285.62 WHQL</title>
-  </bookmark>
-  <bookmark href="http://www.verizonwireless.com/b2c/employee/emaildomainauthentication.jsp" id="475">
-    <title>Employee Discount Program - Register Your Line</title>
-  </bookmark>
-  <bookmark href="http://www.gnu.org/software/octave/doc/interpreter/" id="476">
-    <title>GNU Octave</title>
-  </bookmark>
-  <bookmark href="http://bellard.org/jslinux/" id="477">
-    <title>Javascript PC Emulator</title>
-  </bookmark>
-  <bookmark href="http://www.truecrypt.org/" id="478">
-    <title>TrueCrypt</title>
-  </bookmark>
-  <bookmark href="http://blogs.technet.com/b/danstolts/archive/2011/06/08/taming-windows-7-search-syntax-knowing-the-syntax-makes-all-the-difference.aspx" id="479">
-    <title>How To Tame Windows 7 and Outlook Search Syntax–Knowing The Syntax Makes All The Difference - ITProGuru Blog by Systems Management Expert Dan Stolts - Site Home - TechNet Blogs</title>
-  </bookmark>
-  <bookmark href="http://www.umizoomishop.com/content/Home.htm" id="480">
-    <title>Team Umizoomi Preschool Math Kits For Sale! Shop Now!</title>
-  </bookmark>
-  <bookmark href="http://stackoverflow.com/questions/2199897/git-convert-normal-to-bare-repository" id="481">
-    <title>Git: Convert normal to bare repository - Stack Overflow</title>
-  </bookmark>
-  <bookmark href="http://vnhacker.blogspot.com/2011/09/beast.html" id="482">
-    <title>Thái: BEAST</title>
-  </bookmark>
-  <bookmark href="http://code.google.com/p/tortoisegit/" id="483">
-    <title>tortoisegit - Porting TortoiseSVN to TortoiseGIT - Google Project Hosting</title>
-  </bookmark>
-  <bookmark href="http://stackoverflow.com/questions/2606467/open-ms-word-in-compare-document-mode-from-command-prompt" id="484">
-    <title>msword - Open ms word in &quot;compare document&quot; mode from command prompt - Stack Overflow</title>
-  </bookmark>
-  <bookmark href="http://msdn.microsoft.com/en-us/library/cc216513(PROT.10).aspx" id="485">
-    <title>Windows Communication Protocols (MCPP)</title>
-  </bookmark>
-  <bookmark href="http://gcompris.net/-en-" id="486">
-    <title>[GCompris]</title>
-  </bookmark>
-  <bookmark href="http://www.grc.com/latinsquares.htm" id="487">
-    <title>GRC&apos;s | Latin Squares Workbench</title>
-  </bookmark>
-  <bookmark href="http://www.chicagomanualofstyle.org/home.html" id="488">
-    <title>The Chicago Manual of Style Online</title>
-  </bookmark>
-  <bookmark href="http://www.chicagomanualofstyle.org/16/contents.html" id="489">
-    <title>The Chicago Manual of Style Online: Contents</title>
-  </bookmark>
-  <bookmark href="http://www.vdh.state.va.us/epidemiology/immunization/requirements.htm" id="490">
-    <title>School Requirements</title>
-  </bookmark>
-  <bookmark href="http://www.novaccine.com/law-exemptions/Virginia.asp" id="491">
-    <title>WAVE - Virginia Law / Exemptions</title>
-  </bookmark>
-  <bookmark href="http://spectrum.ieee.org/podcast/rss" id="492">
-    <title>Spectrum Podcasts</title>
-  </bookmark>
-  <bookmark href="http://connect.microsoft.com/systemsweeper" id="493">
-    <title>Microsoft Standalone System Sweeper Beta | Microsoft Connect</title>
-  </bookmark>
-  <bookmark href="http://kdiff3.sourceforge.net/" id="494">
-    <title>KDiff3 - Homepage</title>
-  </bookmark>
-  <bookmark href="http://www.everythingdiescomic.com/?s=45&amp;b=58" id="495">
-    <title>Everything Dies by Box Brown :: Ben Died of a Train</title>
-  </bookmark>
-  <bookmark href="http://www.apple.com/recycling/" id="496">
-    <title>Apple - Recycling Program</title>
-  </bookmark>
-  <bookmark href="http://lifetag.com/store/p/2570-5-Pack-LIFETAG-Medical-ID-Stick-ons-.aspx" id="497">
-    <title>5 Pack LIFETAG Medical ID Stick ons</title>
-  </bookmark>
-  <bookmark href="http://directory.adoption.com/search/Stepparent_Adoption-Virginia.html" id="498">
-    <title>Virginia Stepparent Adoption - Step Parent Adoptions, Adopting Virginia Adoption Directory-Pg1</title>
-  </bookmark>
-  <bookmark href="http://www.myadoptionforms.com/php_to_use/qualifications.php" id="499">
-    <title>MyAdoptionForms.com - Adoption Forms and Adoption Papers Online</title>
-  </bookmark>
-  <bookmark href="http://www.reliableadoption.com/states/virginia_adoption.html" id="500">
-    <title>Virginia Stepparent Adoption Documents.</title>
-  </bookmark>
-  <bookmark href="http://www.vudu.com/" id="501">
-    <title>VUDU - Rent, buy &amp; watch HD movies and TV shows on-demand</title>
-  </bookmark>
-  <bookmark href="http://www.zamzar.com/" id="503">
-    <title>Zamzar - Free online file conversion</title>
-  </bookmark>
-  <bookmark href="http://www.draytek.us/component/content/article/8-product-pages/258-v2930n.html" id="504">
-    <title>Draytek US | Vigor 2930N Dual WAN SSL VPN series</title>
-  </bookmark>
-  <bookmark href="http://www.pentagonchannel.mil/podcast/index.shtml" id="505">
-    <title>Pentagon Channel - Podcasts</title>
-  </bookmark>
-  <bookmark href="http://www.imdb.com/title/tt0448134/" id="506">
-    <title>Sunshine (2007) - IMDb</title>
-  </bookmark>
-  <bookmark href="http://consumer.fonolo.com/" id="508">
-    <title>Fonolo.com - Try it out!</title>
-  </bookmark>
-  <bookmark href="http://www.tuxpaint.org/" id="509">
-    <title>Tux Paint</title>
-  </bookmark>
-  <bookmark href="http://colorschemedesigner.com/#3Aa1Tw0w0w0w0" id="510">
-    <title>Color Scheme Designer 3</title>
-  </bookmark>
-  <bookmark href="https://ucore.gov/ucore/book/export/html/90" id="511">
-    <title>UCore TimeType</title>
-  </bookmark>
-  <bookmark href="http://secunia.com/vulnerability_scanning/personal/" id="512">
-    <title>Secunia Personal Software Inspector (PSI) - Introduction</title>
-  </bookmark>
-  <bookmark href="http://www.modernizr.com/" id="513">
-    <title>Modernizr</title>
-  </bookmark>
-  <bookmark href="http://www.vanmobilegear.com/htc-trophy-clear-lcd-screen-saver-cover-protector-2-pack-accessory.aspx" id="514">
-    <title>HTC Trophy - Clear LCD Screen Saver Cover Protector (2-Pack)</title>
-  </bookmark>
-  <bookmark href="https://www.case-mate.com/HTC-Trophy-Cases/HTC-Trophy-Cases.asp" id="515">
-    <title>HTC Trophy Cases, Covers, Accessories for WP7 by Case-Mate</title>
-  </bookmark>
-  <bookmark href="http://www.dyndns.com/services/dns/dyndns/" id="517">
-    <title>Dynamic DNS: Free DNS Service - DynDNS.com</title>
-  </bookmark>
-  <bookmark href="http://www.whatismyip.com/" id="518">
-    <title>What Is My IP Address - Shows Your IP Address</title>
-  </bookmark>
-  <bookmark href="http://www.groovypost.com/howto/microsoft/setup-vpn-pptp-host-on-home-windows-7/" id="519">
-    <title>Setup a VPN – PPTP Host On Your Home Windows 7 PC [How-To]</title>
-  </bookmark>
-  <bookmark href="http://msdn.microsoft.com/en-us/library/ms997506.aspx" id="520">
-    <title>Microsoft Inductive User Interface Guidelines</title>
-  </bookmark>
-  <bookmark href="http://www.jonathancoulton.com/store/downloads/" id="521">
-    <title>Jonathan Coulton » The MP3 Store</title>
-  </bookmark>
-  <bookmark href="http://www.myxer.com/make/" id="522">
-    <title>Myxer - Make your own ringtones and more!</title>
-  </bookmark>
-  <bookmark href="https://deepbit.net/" id="523">
-    <title>.:D:. Bitcoin mining pool, Compute4cash</title>
-  </bookmark>
-  <bookmark href="http://pytools.codeplex.com/" id="524">
-    <title>Python Tools for Visual Studio - Home</title>
-  </bookmark>
-  <bookmark href="http://www.zerodaythebook.com/" id="525">
-    <title>zerodaythebook.com</title>
-  </bookmark>
-  <bookmark href="http://typesafe.com/stack" id="526">
-    <title>Typesafe - Overview</title>
-  </bookmark>
-  <bookmark href="http://download.oracle.com/javase/6/docs/technotes/guides/security/crypto/CryptoSpec.html#AppA" id="527">
-    <title>Java Cryptography Architecture (JCA)</title>
-  </bookmark>
-  <bookmark href="http://java.decompiler.free.fr/" id="528">
-    <title>JD | Java Decompiler</title>
-  </bookmark>
-  <bookmark href="http://www.scala-ide.org/" id="529">
-    <title>Scala IDE for Eclipse</title>
-  </bookmark>
-  <bookmark href="http://akka.io/" id="530">
-    <title>Akka Project</title>
-  </bookmark>
-  <bookmark href="http://programming-scala.labs.oreilly.com/" id="531">
-    <title>Programming Scala</title>
-  </bookmark>
-  <bookmark href="http://www.whitehouse.gov/issues/taxes/tax-receipt" id="532">
-    <title>Your 2010 Federal Taxpayer Receipt | The White House</title>
-  </bookmark>
-  <bookmark href="http://www.polackthefilm.com/polack_the_film/HOME.html" id="533">
-    <title>Polack</title>
-  </bookmark>
-  <bookmark href="http://www.commodoreusa.net/CUSA_C64.aspx" id="534">
-    <title>Commodore USA</title>
-  </bookmark>
-  <bookmark href="https://github.com/dahlbyk/posh-git" id="535">
-    <title>dahlbyk/posh-git - GitHub</title>
-  </bookmark>
-  <bookmark href="http://tinyhouselistings.com/" id="536">
-    <title>Tiny House Listings. Buy, sell and rent tiny homes.</title>
-  </bookmark>
-  <bookmark href="http://courseweb.stthomas.edu/apthomas/SquishyCircuits/index.htm" id="537">
-    <title>Squishy Circuits</title>
-  </bookmark>
-  <bookmark href="http://www.infinityplus.co.uk/stories/colderwar.htm" id="538">
-    <title>A Colder War - a novelette by Charles Stross</title>
-  </bookmark>
-  <bookmark href="http://h10010.www1.hp.com/wwpc/ca/en/ho/WF06a/12139188-78299199-78308301-78308301-78308301-78867421.html" id="539">
-    <title>Compaq Presario V6000 Notebook PC</title>
-  </bookmark>
-  <bookmark href="http://www.dell.com/us/business/p/latitude-e6410/pd" id="540">
-    <title>Dell Latitude E6410 Laptop</title>
-  </bookmark>
-  <bookmark href="http://www.gateway.com/product_spec.php?product_recid=529668104" id="541">
-    <title>Gateway GT5694 Desktop Minitower</title>
-  </bookmark>
-  <bookmark href="http://tika.apache.org/index.html" id="542">
-    <title>Apache Tika - Apache Tika</title>
-  </bookmark>
-  <bookmark href="http://nlp.stanford.edu/IR-book/html/htmledition/irbook.html" id="543">
-    <title>Introduction to Information Retrieval</title>
-  </bookmark>
-  <bookmark href="http://lucene.apache.org/java/2_9_0/api/core/org/apache/lucene/search/Similarity.html" id="544">
-    <title>Similarity (Lucene 2.9.0 API)</title>
-  </bookmark>
-  <bookmark href="http://www.lunacore.com/photoshop/tutorials/tut011.htm" id="545">
-    <title>Lunacore Photoshop Training - Photo to Line Drawing tutorial</title>
-  </bookmark>
-  <bookmark href="http://support.gateway.com/s/MONITOR/7010975R/7010975Rnv.shtml" id="546">
-    <title>Gateway Support - 7010975R Gateway HD2201 22-inch Widescreen High-Definition LCD Display</title>
-  </bookmark>
-  <bookmark href="http://www.prasannatech.net/2009/01/convert-pdf-text-parser-java-api-pdfbox.html" id="547">
-    <title>PDF Text Parser: Converting PDF to Text in Java using PDFBox</title>
-  </bookmark>
-  <bookmark href="http://www.crap4j.org/" id="548">
-    <title>Crap4j Home</title>
-  </bookmark>
-  <bookmark href="https://github.com/ceteri/textrank/tree/648b35f4479cdbf8afbae5bd5802a107319f5711" id="549">
-    <title>ceteri/textrank at 648b35f4479cdbf8afbae5bd5802a107319f5711 - GitHub</title>
-  </bookmark>
-  <bookmark href="http://bitcoin-otc.com/" id="550">
-    <title>#bitcoin-otc</title>
-  </bookmark>
-  <bookmark href="http://apod.nasa.gov/apod/ap110315.html" id="551">
-    <title>APOD: 2011 March 15 - Cassini Approaches Saturn</title>
-  </bookmark>
-  <bookmark href="http://sunrisesunset.com/" id="552">
-    <title>Sunrise Sunset Calendars and Local Time</title>
-  </bookmark>
-  <bookmark href="http://www.expertsystem.it/page.asp?id=1521&amp;idd=27" id="553">
-    <title>Expert System - Products - Cogito Discover</title>
-  </bookmark>
-  <bookmark href="http://www.alloscomp.com/bitcoin/calculator.php" id="554">
-    <title>Bitcoin Generation Calculator</title>
-  </bookmark>
-  <bookmark href="http://mining.bitcoin.cz/" id="555">
-    <title>mining.bitcoin.cz</title>
-  </bookmark>
-  <bookmark href="https://softwaretechnews.thedacs.com/stn_view.php?stn_id=56&amp;article_id=175" id="556">
-    <title>DoD Software Tech News</title>
-  </bookmark>
-  <bookmark href="http://www.amazon.com/Why-We-Get-Fat-Borzoi/dp/0307272702/ref=sr_1_1?ie=UTF8&amp;qid=1295359636&amp;sr=8-1" id="557">
-    <title>Amazon.com: Why We Get Fat: And What to Do About It (Borzoi Books) (9780307272706): Gary Taubes: Books</title>
-  </bookmark>
-  <bookmark href="http://www.broadbandmap.gov/" id="558">
-    <title>National Broadband Map</title>
-  </bookmark>
-  <bookmark href="http://www.amazon.com/S107-Co-Axial-Gyroscope-Controlled-Helicopter/dp/8499000606/" id="559">
-    <title>Amazon.com: New Syma 3 Channel S107 Mini Indoor Co-Axial Metal Body Frame &amp; Built-in Gyroscope RC Remote Controlled Helicopter (Colors may vary): Toys &amp; Games</title>
-  </bookmark>
-  <bookmark href="http://bitcoincharts.com/markets/" id="560">
-    <title>Bitcoin Charts / Markets</title>
-  </bookmark>
-  <bookmark href="http://www.bitcoinwatch.com/" id="561">
-    <title>Bitcoin Watch</title>
-  </bookmark>
-  <bookmark href="http://pipstechnology.com/" id="562">
-    <title>PIPS Technology - The most advanced license plate recognition systems in the world.</title>
-  </bookmark>
-  <bookmark href="http://www.squishable.com/pc/squish_tortoise_15/Big_Animals/Big+Squishable+Tortoise" id="563">
-    <title>squishable.com: Squishable Tortoise</title>
-  </bookmark>
-  <bookmark href="http://www.gentoo-wiki.info/HOWTO_Customizing_UDEV" id="564">
-    <title>Gentoo Wiki Archives - HOWTO_Customizing_UDEV</title>
-  </bookmark>
-  <bookmark href="http://technet.microsoft.com/en-us/library/cc754340(WS.10).aspx" id="565">
-    <title>Command-line Reference</title>
-  </bookmark>
-  <bookmark href="http://www.bitcoin.org/" id="566">
-    <title>Bitcoin P2P Virtual Currency | Bitcoin</title>
-  </bookmark>
-  <bookmark href="http://www.vrbo.com/273692#ownerprofile" id="567">
-    <title>Sanibel Harbour Resort &amp; Spa Vacation Rental - VRBO 273692 - 2 BR Fort Myers Condo in FL, Private Beach, Beautiful Sunsets, Seclusion in Sanibel Harbour</title>
-  </bookmark>
-  <bookmark href="http://www.co-ode.org/" id="568">
-    <title>CO-ODE</title>
-  </bookmark>
-  <bookmark href="http://mayoclinic.com/health/triglycerides/CL00015" id="569">
-    <title>Triglycerides: Why do they matter?</title>
-  </bookmark>
-  <bookmark href="http://support.microsoft.com/kb/2501696" id="570">
-    <title>Microsoft Security Advisory: Vulnerability in MHTML could allow information disclosure</title>
-  </bookmark>
-  <bookmark href="http://www.techonthenet.com/oracle/questions/quotes.php" id="571">
-    <title>Oracle / PLSQL: Dealing with apostrophes/single quotes in strings</title>
-  </bookmark>
-  <bookmark href="http://www.yellowpagesoptout.com/" id="572">
-    <title>Opt Out of Yellow Pages, White Pages &amp; Phone Books Delivery, National Yellow Pages Opt Out Site</title>
-  </bookmark>
-  <bookmark href="http://diveintohtml5.org/" id="573">
-    <title>Dive Into HTML5</title>
-  </bookmark>
-  <bookmark href="http://www.edrawsoft.com/Flowchart-Definition.php" id="574">
-    <title>Flow Chart Definition - Types of flowcharts, How to draw flow chart and guideline for drawing a flowchart</title>
-  </bookmark>
-  <bookmark href="http://www.oracle.com/technetwork/community/developer-vm/index.html?msgid=3-3156674507" id="575">
-    <title>VirtualBox VMs for Developers</title>
-  </bookmark>
-  <bookmark href="http://www.sysresccd.org/Main_Page" id="576">
-    <title>SystemRescueCd</title>
-  </bookmark>
-  <bookmark href="http://www.dottieandrichard.info/" id="577">
-    <title>www.dottieandrichard.info</title>
-  </bookmark>
-  <bookmark href="http://lifehacker.com/5732208/how-to-create-a-chrome-theme-from-your-favorite-wallpaper" id="578">
-    <title>How to Create a Chrome Theme from Your Favorite Wallpaper</title>
-  </bookmark>
-  <bookmark href="http://www.pragprog.com/titles/jruby/using-jruby" id="579">
-    <title>The Pragmatic Bookshelf | Using JRuby</title>
-  </bookmark>
-  <bookmark href="http://www.kinesis-ergo.com/" id="580">
-    <title>Kinesis Corporation - Computer Ergonomics</title>
-  </bookmark>
-  <bookmark href="http://www.springerlink.com/content/l34533/#section=783714&amp;page=1" id="581">
-    <title>J2EE 6 &amp; Glassfish Ebook</title>
-  </bookmark>
-  <bookmark href="http://www.1topstore.com/product_info.php?language=en&amp;currency=USD&amp;products_id=9981" id="582">
-    <title>Battery for Vtech 6030 6031 6032 6041 6042 6052 6053</title>
-  </bookmark>
-  <bookmark href="http://www.ruby-doc.org/" id="583">
-    <title>[Ruby-Doc.org: Documenting the Ruby Language]</title>
-  </bookmark>
-  <bookmark href="http://www.engineyard.com/blog/2010/the-lowdown-on-routes-in-rails-3/" id="584">
-    <title>The Lowdown on Routes in Rails 3 | Engine Yard Ruby on Rails Blog</title>
-  </bookmark>
-  <bookmark href="http://vaig.be/2010/12/joel-test-for-software-companies.html" id="585">
-    <title>Marc Garcia &amp; The Python: Joel test for software companies</title>
-  </bookmark>
-  <bookmark href="http://www.joelonsoftware.com/articles/fog0000000043.html" id="586">
-    <title>The Joel Test: 12 Steps to Better Code - Joel on Software</title>
-  </bookmark>
-  <bookmark href="http://omgbloglol.com/post/344792822/the-path-to-rails-3-introduction" id="587">
-    <title>omgbloglol - The Path to Rails 3: Introduction</title>
-  </bookmark>
   <bookmark href="http://omgbloglol.com/post/353978923/the-path-to-rails-3-approaching-the-upgrade" id="588">
     <title>omgbloglol - The Path to Rails 3: Approaching the upgrade</title>
   </bookmark>
