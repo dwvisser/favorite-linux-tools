@@ -5,9 +5,6 @@
 
 <folder id="1">
   <title>Unorganized</title>
-  <bookmark href="http://stackoverflow.com/questions/59895/can-a-bash-script-tell-what-directory-its-stored-in" id="174">
-    <title>Can a Bash script tell what directory it&apos;s stored in? - Stack Overflow</title>
-  </bookmark>
   <bookmark href="http://cisecurity.org/" id="175">
     <title>Center for Internet Security - Standards</title>
   </bookmark>
@@ -2409,6 +2406,9 @@
     </bookmark>
     <bookmark href="http://www.linuxjournal.com/content/tech-tip-extract-pages-pdf" id="188">
       <title>Tech Tip: Extract Pages From a PDF | Linux Journal</title>
+    </bookmark>
+    <bookmark href="http://stackoverflow.com/questions/59895/can-a-bash-script-tell-what-directory-its-stored-in" id="174">
+      <title>Can a Bash script tell what directory it&apos;s stored in? - Stack Overflow</title>
     </bookmark>
   </folder>
   <folder id="1022">
