@@ -5,12 +5,6 @@
 
 <folder id="1">
   <title>Unorganized</title>
-  <bookmark href="http://sourceforge.net/p/whonix/wiki/Readme/" id="298">
-    <title>Whonix / Documentation / Readme</title>
-  </bookmark>
-  <bookmark href="http://maven.apache.org/plugins/maven-surefire-plugin/examples/skipping-test.html" id="299">
-    <title>Skipping Test</title>
-  </bookmark>
   <bookmark href="http://lifehacker.com/5763170/how-to-secure-and-encrypt-your-web-browsing-on-public-networks-with-hamachi-and-privoxy" id="301">
     <title>How to Secure and Encrypt Your Web Browsing on Public Networks (with Hamachi and Privoxy)</title>
   </bookmark>
