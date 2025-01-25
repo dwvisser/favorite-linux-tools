@@ -5,9 +5,6 @@
 
 <folder id="1">
   <title>Unorganized</title>
-  <bookmark href="https://maven.apache.org/guides/mini/guide-3rd-party-jars-local.html" id="200">
-    <title>Maven Guide to installing 3rd party JARs</title>
-  </bookmark>
   <bookmark href="http://stackoverflow.com/questions/8766556/gwt-maven-plugin-gwtrun-works-but-gwtcompile-doesnt-why" id="201">
     <title>Maven GWT how to package a WAR file</title>
   </bookmark>
@@ -2394,6 +2391,9 @@
     </bookmark>
     <bookmark href="http://daringfireball.net/projects/markdown/syntax#philosophy" id="184">
       <title>Daring Fireball: Markdown Syntax Documentation</title>
+    </bookmark>
+    <bookmark href="https://maven.apache.org/guides/mini/guide-3rd-party-jars-local.html" id="200">
+      <title>Maven Guide to installing 3rd party JARs</title>
     </bookmark>
   </folder>
 </folder>
