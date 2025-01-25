@@ -5,9 +5,6 @@
 
 <folder id="1">
   <title>Unorganized</title>
-  <bookmark href="https://www.virtualbox.org/ticket/11709" id="245">
-    <title>#11709 (VirtualBox Guest Additions 4.2.12 breaks Ubuntu 12.04 guest) – Oracle VM VirtualBox</title>
-  </bookmark>
   <bookmark href="https://github.com/comwt/git-info-bar/wiki" id="246">
     <title>Home · comwt/git-info-bar Wiki</title>
   </bookmark>
