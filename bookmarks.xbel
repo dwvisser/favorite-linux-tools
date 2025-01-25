@@ -1,8 +1,164 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1036: for Floccus bookmark sync browser extension -->
+<!--- highestId :1088: for Floccus bookmark sync browser extension -->
 
+<folder id="1037">
+  <title>Old Edge Browser Faves</title>
+  <folder id="1038">
+    <title>Windows Live</title>
+    <bookmark href="http://go.microsoft.com/fwlink/?LinkId=68925" id="1048">
+      <title>Windows Live Mail</title>
+    </bookmark>
+    <bookmark href="http://go.microsoft.com/fwlink/?LinkId=69172" id="1049">
+      <title>Get Windows Live</title>
+    </bookmark>
+  </folder>
+  <bookmark href="http://www.debtguru.com/articles/credit-score.html" id="1039">
+    <title>What Does My Credit Score Mean</title>
+  </bookmark>
+  <folder id="1040">
+    <title>Phone</title>
+    <bookmark href="http://dnd.wizards.com/articles/features/basicrules" id="1050">
+      <title>Basic Rules for Dungeons &amp; Dragons - Dungeons &amp; Dragons</title>
+    </bookmark>
+    <bookmark href="http://beyondabrick.com/class_summer.html" id="1051">
+      <title>2013 Summer Camp LEGO Classes</title>
+    </bookmark>
+    <bookmark href="http://www.campbellskitchen.com/recipes/easy-chicken-cheese-enchiladas-50780" id="1052">
+      <title>Campbell&apos;s Easy Chicken &amp; Cheese Enchiladas Recipe</title>
+    </bookmark>
+    <bookmark href="https://www.kroger.com/myprescriptions#/login?pharmacyRedirectUrl=%2F&amp;redirectUrl=%2Fmyprescriptions" id="1053">
+      <title>Sign In - Pharmacy</title>
+    </bookmark>
+    <bookmark href="http://i.imgur.com/3YuVnAv.gif" id="1054">
+      <title>Tiger Eyes</title>
+    </bookmark>
+    <bookmark href="http://forums.bit-tech.net/showthread.php?t=205979" id="1055">
+      <title>Can&apos;t get Windows 7 to connect to LAN or wireless -SOLVED- - bit-tech.net Forums</title>
+    </bookmark>
+    <bookmark href="https://globe.torproject.org/#/relay/FD5454152DA5220ED8EBAEB37BB87CE505A29D72" id="1056">
+      <title>Details for InternetFreedom227 - Relay - Globe 0.4.8</title>
+    </bookmark>
+    <bookmark href="https://video.pbs.org/program/everything-news/" id="1057">
+      <title>Everything But the News</title>
+    </bookmark>
+    <bookmark href="https://fsfe.org/campaigns/android/android.html" id="1058">
+      <title>Free Your Android! - FSFE</title>
+    </bookmark>
+    <bookmark href="http://komunitaslinuxselaparang.blogspot.com/2012/04/game-education-for-kids-in-ubuntu.html?m=1" id="1059">
+      <title>Game education for kids in ubuntu ~ SALITY</title>
+    </bookmark>
+    <bookmark href="http://m.wikihow.com/Get-Rid-of-Fleas" id="1068">
+      <title>Get Rid of Fleas - wikiHow</title>
+    </bookmark>
+    <bookmark href="http://www.glycemicindex.com/foodSearch.php" id="1069">
+      <title>GI Database</title>
+    </bookmark>
+    <bookmark href="http://www.nordic-vikings.net/?p=1942" id="1070">
+      <title>Google Play on Kurio 7, tablet for kids - Nordic-vikings.net IT</title>
+    </bookmark>
+    <bookmark href="https://www.grc.com/sqrl/sqrl.htm" id="1071">
+      <title>GRC&apos;s - SQRL Secure QR Login</title>
+    </bookmark>
+    <bookmark href="https://m.diginsite.com/enrichmentfcu/login.do?ts=1366243903258" id="1072">
+      <title>K25 Login</title>
+    </bookmark>
+    <bookmark href="http://krausfamilyfootprints.blogspot.com/?m=1" id="1073">
+      <title>Kraus Family Footprints</title>
+    </bookmark>
+    <bookmark href="http://dl.dropboxusercontent.com/u/73754394/No%20Carb%20Revolution%20Affirmations.mp3" id="1074">
+      <title>Low carb revolution affirmations</title>
+    </bookmark>
+    <bookmark href="http://lumia.linkmicrosoft.com/device/entry/van/nsupport" id="1075">
+      <title>Lumia Support</title>
+    </bookmark>
+    <bookmark href="http://en.m.wikipedia.org/wiki/Military_radio_station_of_Pierre-sur-Haute#section_3" id="1076">
+      <title>Military radio station of Pierre-sur-Haute - Wikipedia, the free encyclopedia</title>
+    </bookmark>
+    <bookmark href="http://wsmart.myvzw.com/" id="1077">
+      <title>Mobile Web</title>
+    </bookmark>
+    <bookmark href="http://childrenandmedia.org.au/movie-reviews/by-age-suitability/age5" id="1078">
+      <title>Movies suitable for 5 year olds - Movie reviews by Age Suitability - Australian Council on Children and the Media</title>
+    </bookmark>
+    <bookmark href="http://nokia.mobi/entry/van/main/822" id="1079">
+      <title>Nokia.com</title>
+    </bookmark>
+    <bookmark href="http://www.sunrisesunset.com/calendar.asp?comb_city_info=Oak%20Ridge%2C%20Tennessee;84.2962;35.9627;-5;1&amp;month=6&amp;year=2013&amp;time_type=0&amp;txsz=S&amp;back=USATN&amp;supr=774163&amp;want_mphase=1" id="1080">
+      <title>Oak Ridge, Tennessee - Sunrise Sunset Calendar</title>
+    </bookmark>
+    <bookmark href="http://prism-break.org/" id="1081">
+      <title>Opt out of PRISM, the NSA’s global data surveillance program - PRISM Break</title>
+    </bookmark>
+    <bookmark href="https://www.nextmd.com/Login/Login.aspx" id="1082">
+      <title>Patient Portal-Your Medical Home on the Web</title>
+    </bookmark>
+    <bookmark href="http://www.raspberrypi.org/phpBB3/viewtopic.php?f=28&amp;t=14275" id="1083">
+      <title>Raspberry Pi • View topic - Gcompris - No Sound</title>
+    </bookmark>
+    <bookmark href="http://www.utne.com/science-technology/the-god-problem-ze0z1303zgar.aspx" id="1084">
+      <title>The God Problem - Science &amp; Technology - Utne Reader</title>
+    </bookmark>
+    <bookmark href="http://www.techrepublic.com/blog/windows-and-office/troubleshoot-a-wireless-connection-in-windows-7-with-a-firmware-upgrade/2342/" id="1085">
+      <title>Troubleshoot a wireless connection in Windows 7 with a firmware upgrade - TechRepublic</title>
+    </bookmark>
+    <bookmark href="http://wwwapps.ups.com/WebTracking/processInputRequest?sort_by=status&amp;tracknums_displayed=1&amp;TypeOfInquiryNumber=T&amp;loc=en_US&amp;InquiryNumber1=1ZA209749000142672&amp;track.x=0&amp;track.y=0" id="1086">
+      <title>UPS- Tracking Information - lingo</title>
+    </bookmark>
+    <bookmark href="http://go.microsoft.com/fwlink/?LinkId=247436" id="1087">
+      <title>Windows Phone Tips</title>
+    </bookmark>
+    <bookmark href="http://m.youtube.com/remote_pairing?desktop_uri=%2Fpair#/pair?desktop_uri=%2Fpair" id="1088">
+      <title>YouTube Pairing</title>
+    </bookmark>
+  </folder>
+  <bookmark href="http://www.napster.com/" id="1041">
+    <title>Napster</title>
+  </bookmark>
+  <folder id="1042">
+    <title>MSN Websites</title>
+    <bookmark href="http://go.microsoft.com/fwlink/?LinkId=55143" id="1060">
+      <title>MSN Autos</title>
+    </bookmark>
+    <bookmark href="http://go.microsoft.com/fwlink/?LinkId=68923" id="1061">
+      <title>MSN Money</title>
+    </bookmark>
+    <bookmark href="http://go.microsoft.com/fwlink/?LinkId=68922" id="1062">
+      <title>MSNBC News</title>
+    </bookmark>
+  </folder>
+  <folder id="1043">
+    <title>Microsoft Websites</title>
+    <bookmark href="http://go.microsoft.com/fwlink/?linkid=69151" id="1063">
+      <title>Marketplace</title>
+    </bookmark>
+    <bookmark href="http://go.microsoft.com/fwlink/?linkid=68920" id="1064">
+      <title>Microsoft At Work</title>
+    </bookmark>
+    <bookmark href="http://go.microsoft.com/fwlink/?linkid=68919" id="1065">
+      <title>Welcome to IE7</title>
+    </bookmark>
+  </folder>
+  <folder id="1044">
+    <title>Links for United States</title>
+    <bookmark href="http://go.microsoft.com/fwlink/?LinkId=129792" id="1066">
+      <title>GobiernoUSA.gov</title>
+    </bookmark>
+  </folder>
+  <bookmark href="http://gateway.wildgames.com/" id="1045">
+    <title>Gateway Games by WildTangent</title>
+  </bookmark>
+  <folder id="1046">
+    <title>Dell</title>
+    <bookmark href="http://www.dellauction.com/" id="1067">
+      <title>Dell Auction</title>
+    </bookmark>
+  </folder>
+  <bookmark href="http://www.aol.com/" id="1047">
+    <title>AOL</title>
+  </bookmark>
+</folder>
 <folder id="1">
   <title>Unorganized</title>
   <bookmark href="https://www.virtualbox.org/ticket/9775" id="323">
