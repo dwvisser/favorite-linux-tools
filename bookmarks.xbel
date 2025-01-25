@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1105: for Floccus bookmark sync browser extension -->
+<!--- highestId :1106: for Floccus bookmark sync browser extension -->
 
 <folder id="1015">
   <title>Computer Technology</title>
@@ -40,6 +40,9 @@
   </folder>
   <folder id="1024">
     <title>Linux</title>
+    <bookmark href="https://baturin.org/docs/iproute2/" id="924">
+      <title>Task-centered iproute2 user guide</title>
+    </bookmark>
     <bookmark href="https://www.cyberciti.biz/faq/linux-show-dropped-packets-per-interface-command/" id="887">
       <title>How to show dropped packets per interface on Linux</title>
     </bookmark>
@@ -79,6 +82,12 @@
   </folder>
   <folder id="1022">
     <title>Making Software</title>
+    <bookmark href="https://github.com/dandavison/delta" id="942">
+      <title>dandavison/delta</title>
+    </bookmark>
+    <bookmark href="https://cookiecutter.readthedocs.io/" id="937">
+      <title>Cookiecutter: Better Project Templates — cookiecutter 1.7.2 documentation</title>
+    </bookmark>
     <bookmark href="https://readme.so/" id="908">
       <title>readme.so - Easiest Way to Create A README</title>
     </bookmark>
@@ -164,6 +173,9 @@
 </folder>
 <folder id="1034">
   <title>Cool</title>
+  <bookmark href="https://www.languagetransfer.org/" id="909">
+    <title>Language Transfer</title>
+  </bookmark>
   <bookmark href="http://www.paulenglish.com/ivr/" id="852">
     <title>Quickly Get Through Phone Menus to a Human</title>
   </bookmark>
@@ -248,6 +260,12 @@
 </folder>
 <folder id="1090">
   <title>GIFs</title>
+  <bookmark href="https://www.svgrepo.com/" id="916">
+    <title>SVG Repo - Free SVG Vectors and Icons</title>
+  </bookmark>
+  <bookmark href="https://gifrun.com/?utm_source=tldrnewsletter" id="913">
+    <title>GIFRun - Create GIFs from YouTube, Facebook, TikTok and many other sites.</title>
+  </bookmark>
   <bookmark href="http://i.imgur.com/3YuVnAv.gif" id="1092">
     <title>Tiger Eyes</title>
   </bookmark>
@@ -284,6 +302,9 @@
 </folder>
 <folder id="1030">
   <title>Home Maintenance</title>
+  <bookmark href="https://www.wikihow.com/Fix-a-Leaky-Faucet" id="911">
+    <title>How to Fix a Leaky Faucet (with Pictures) - wikiHow</title>
+  </bookmark>
   <bookmark href="http://www.freecycle.org/" id="855">
     <title>Freecycle</title>
   </bookmark>
@@ -386,6 +407,9 @@
   <bookmark href="http://crfb.org/" id="434">
     <title>Committee for a Responsible Federal Budget</title>
   </bookmark>
+  <bookmark href="https://bidenwhitehouse.archives.gov/" id="1106">
+    <title>The White House</title>
+  </bookmark>
 </folder>
 <folder id="1103">
   <title>Professional</title>
@@ -401,6 +425,12 @@
 </folder>
 <folder id="1032">
   <title>Recipes</title>
+  <bookmark href="https://getpocket.com/explore/item/how-to-make-banana-bread" id="926">
+    <title>How To Make Banana Bread</title>
+  </bookmark>
+  <bookmark href="http://thekitchn.com/challah-french-toast-264194" id="925">
+    <title>Recipe: Best-Ever Challah French Toast</title>
+  </bookmark>
   <bookmark href="http://www.foodnetwork.com/recipes/michael-chiarello/italian-meatloaf-recipe/index.html" id="729">
     <title>Italian Meatloaf Recipe : Michael Chiarello : Food Network</title>
   </bookmark>
@@ -419,126 +449,6 @@
 </folder>
 <folder id="1">
   <title>Unorganized</title>
-  <bookmark href="https://www.languagetransfer.org/" id="909">
-    <title>Language Transfer</title>
-  </bookmark>
-  <bookmark href="https://www.homedepot.com/b/Plumbing-Plumbing-Parts-Faucet-Parts-Faucet-Washers/N-5yc1vZc6a6" id="910">
-    <title>Faucet Washers - Faucet Parts - The Home Depot</title>
-  </bookmark>
-  <bookmark href="https://www.wikihow.com/Fix-a-Leaky-Faucet" id="911">
-    <title>How to Fix a Leaky Faucet (with Pictures) - wikiHow</title>
-  </bookmark>
-  <bookmark href="https://redmondmag.com/articles/2021/02/18/rebuild-problematic-windows-10.aspx?oly_enc_id=" id="912">
-    <title>How To Rebuild a Problematic Windows 10 Installation -- Redmondmag.com</title>
-  </bookmark>
-  <bookmark href="https://gifrun.com/?utm_source=tldrnewsletter" id="913">
-    <title>GIFRun - Create GIFs from YouTube, Facebook, TikTok and many other sites.</title>
-  </bookmark>
-  <bookmark href="https://www.wikihow.com/Fix-a-Sinking-Desk-Chair" id="914">
-    <title>How to Fix a Sinking Desk Chair: 11 Steps (with Pictures)</title>
-  </bookmark>
-  <bookmark href="https://vaccinefinder.org/" id="915">
-    <title>VaccineFinder</title>
-  </bookmark>
-  <bookmark href="https://www.svgrepo.com/" id="916">
-    <title>SVG Repo - Free SVG Vectors and Icons</title>
-  </bookmark>
-  <bookmark href="https://www.payetteforward.com/iphone-keyboard-not-work-heres-why-real-fix/" id="917">
-    <title>iPhone Keyboard Not Working? Here&apos;s Why &amp; The Real Fix!</title>
-  </bookmark>
-  <bookmark href="https://www.lambdatest.com/blog/bug-severity-vs-priority-in-testing-with-examples/" id="918">
-    <title>Bug Severity vs Priority In Testing With Examples</title>
-  </bookmark>
-  <bookmark href="https://cameratimes.org/best-memory-cards-for-canon-eos-rebel-t8i/" id="919">
-    <title>Best Memory Cards for Canon EOS Rebel T8i</title>
-  </bookmark>
-  <bookmark href="https://www.reddit.com/r/twinpeaks/comments/kf14i2/im_okay_with_the_events_currently_unfolding/?utm_source=share&amp;utm_medium=mweb" id="920">
-    <title>I&apos;m okay with the events currently unfolding</title>
-  </bookmark>
-  <bookmark href="https://remembertheapi.com/" id="921">
-    <title>Remember The API - Programmer gifts and merchandise!</title>
-  </bookmark>
-  <bookmark href="https://blog.mapchart.net/maps/the-new-united-states-electoral-college-cartogram-map/" id="922">
-    <title>The New United States Electoral College Cartogram map | Blog - MapChart</title>
-  </bookmark>
-  <bookmark href="https://www.hansmaautomotive.com/tips/car-wont-start-fast-clicking-noise" id="923">
-    <title>Car Won&apos;t Start And Is Making Fast Click Noise — Hansma Automotive</title>
-  </bookmark>
-  <bookmark href="https://baturin.org/docs/iproute2/" id="924">
-    <title>Task-centered iproute2 user guide</title>
-  </bookmark>
-  <bookmark href="http://thekitchn.com/challah-french-toast-264194" id="925">
-    <title>Recipe: Best-Ever Challah French Toast</title>
-  </bookmark>
-  <bookmark href="https://getpocket.com/explore/item/how-to-make-banana-bread" id="926">
-    <title>How To Make Banana Bread</title>
-  </bookmark>
-  <bookmark href="https://chrome.google.com/webstore/detail/wifi-solver/jgkakaecbdoedmgpfelanndgnnmcomom" id="927">
-    <title>WiFi Solver</title>
-  </bookmark>
-  <bookmark href="https://www.cakeworthystore.com/pages/golden-girls-x-cakeworthy" id="928">
-    <title>The Golden Girls X Cakeworthy Lookbook</title>
-  </bookmark>
-  <bookmark href="https://ma.ttias.be/pretty-git-log-in-one-line/" id="929">
-    <title>Pretty git log in one line</title>
-  </bookmark>
-  <bookmark href="https://nelsonmichael.dev/awesome-developer-resources-ckcrin0gg00khpms1gbue38dz#%23Fonts" id="930">
-    <title>Awesome Developer Resources</title>
-  </bookmark>
-  <bookmark href="https://www.onlinegdb.com/" id="931">
-    <title>GDB online Debugger | Compiler - Code, Compile, Run, Debug online C, C++</title>
-  </bookmark>
-  <bookmark href="https://www.codacy.com/" id="932">
-    <title>Automated code reviews &amp; code analytics</title>
-  </bookmark>
-  <bookmark href="https://joebiden.com/clean-energy/" id="933">
-    <title>THE BIDEN PLAN TO BUILD A MODERN, SUSTAINABLE INFRASTRUCTURE AND AN EQUITABLE CLEAN ENERGY FUTURE</title>
-  </bookmark>
-  <bookmark href="https://stackoverflow.com/questions/46415076/how-can-i-define-macros-for-the-c-intellisense-engine" id="934">
-    <title>How can I define macros for the C++ intellisense engine?</title>
-  </bookmark>
-  <bookmark href="https://danielmiessler.com/study/tmux/" id="935">
-    <title>Tactical tmux: The 10 Most Important Commands</title>
-  </bookmark>
-  <bookmark href="https://backreference.org/2010/03/26/tuntap-interface-tutorial/" id="936">
-    <title>Tun/Tap interface tutorial</title>
-  </bookmark>
-  <bookmark href="https://cookiecutter.readthedocs.io/" id="937">
-    <title>Cookiecutter: Better Project Templates — cookiecutter 1.7.2 documentation</title>
-  </bookmark>
-  <bookmark href="https://www.linuxhowtos.org/C_C++/socket.htm" id="939">
-    <title>Linux Howtos: C/C++ -&gt; Sockets Tutorial</title>
-  </bookmark>
-  <bookmark href="https://github.com/sharkdp/bat/" id="941">
-    <title>sharkdp/bat</title>
-  </bookmark>
-  <bookmark href="https://github.com/dandavison/delta" id="942">
-    <title>dandavison/delta</title>
-  </bookmark>
-  <bookmark href="https://www.pixlee.com/social-feed" id="943">
-    <title>Free Instagram Gallery Powered by Pixlee - Embed Instagram Anywhere</title>
-  </bookmark>
-  <bookmark href="https://github.com/magicmonty/bash-git-prompt" id="944">
-    <title>magicmonty/bash-git-prompt</title>
-  </bookmark>
-  <bookmark href="https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines" id="945">
-    <title>C++ Core Guidelines</title>
-  </bookmark>
-  <bookmark href="https://softwareengineering.stackexchange.com/questions/262019/is-it-good-practice-to-rely-on-headers-being-included-transitively" id="946">
-    <title>Is it good practice to rely on headers being included transitively?</title>
-  </bookmark>
-  <bookmark href="http://ezprompt.net/" id="947">
-    <title>Easy Bash Prompt Generator</title>
-  </bookmark>
-  <bookmark href="https://stackoverflow.com/questions/33943362/timeit-equivalent-in-code" id="950">
-    <title>%timeit equivalent in code</title>
-  </bookmark>
-  <bookmark href="https://www.makeuseof.com/tag/iphone-ipad-getting-hot-heres-fix/" id="951">
-    <title>iPhone or iPad Getting Hot? Here’s Why and How to Fix It</title>
-  </bookmark>
-  <bookmark href="https://superuser.com/questions/1063240/libvirt-failed-to-initialize-a-valid-firewall-backend" id="952">
-    <title>libvirt: &quot;Failed to initialize a valid firewall backend&quot;</title>
-  </bookmark>
   <bookmark href="https://www.aptgetlife.co.uk/fixing-error-opening-spice-console-spiceclientgtk-missing/" id="953">
     <title>Fixing Error Opening Spice Console SpiceClientGtk missing - apt get life</title>
   </bookmark>
