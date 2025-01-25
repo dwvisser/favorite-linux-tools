@@ -107,6 +107,9 @@
 </folder>
 <folder id="1034">
   <title>Cool</title>
+  <bookmark href="http://stellarium.org/" id="378">
+    <title>Stellarium</title>
+  </bookmark>
   <bookmark href="http://www.thingiverse.com/" id="345">
     <title>Thingiverse - Digital Designs for Physical Objects</title>
   </bookmark>
@@ -260,126 +263,6 @@
 </folder>
 <folder id="1">
   <title>Unorganized</title>
-  <bookmark href="http://www.numbersleuth.org/universe/" id="365">
-    <title>Magnifying the Universe</title>
-  </bookmark>
-  <bookmark href="http://www.learnprolognow.org/lpnpage.php?pageid=online" id="366">
-    <title>Learn Prolog Now!</title>
-  </bookmark>
-  <bookmark href="http://eculture.cs.vu.nl/europeana/documentation.html#sec:5" id="367">
-    <title>SWI-Prolog Semantic Web Server</title>
-  </bookmark>
-  <bookmark href="https://brightnest.com/" id="368">
-    <title>BrightNest | The Brighter Side of Home Maintenance</title>
-  </bookmark>
-  <bookmark href="http://www.rentalhouses.com/Tennessee/Oak-Ridge/r1134074" id="369">
-    <title>Rental Home at 22 Clark Place, Oak Ridge, TN | RentalHouses.com</title>
-  </bookmark>
-  <bookmark href="http://support.microsoft.com/lifecycle/?LN=en-us&amp;x=16&amp;y=14&amp;p1=1773" id="370">
-    <title>Microsoft Support Lifecycle</title>
-  </bookmark>
-  <bookmark href="http://20somethingfinance.com/get-rid-of-your-comcast-modem-rental-fee/" id="371">
-    <title>3 Ways to Get Rid of your Comcast Modem Rental Fee</title>
-  </bookmark>
-  <bookmark href="http://transitofvenus.nl/wp/where-when/local-transit-times/" id="372">
-    <title>Local transit times | Venustransit</title>
-  </bookmark>
-  <bookmark href="http://docs.python.org/library/xml.dom.minidom.html" id="373">
-    <title>19.7. xml.dom.minidom — Lightweight DOM implementation — Python v2.7.3 documentation</title>
-  </bookmark>
-  <bookmark href="http://www.learningpython.com/2010/01/08/introducing-docstrings/" id="374">
-    <title>learning python » Blog Archive » Introducing Docstrings</title>
-  </bookmark>
-  <bookmark href="http://www.google.com/culturalinstitute/worldwonders/" id="375">
-    <title>Google World Wonders Project</title>
-  </bookmark>
-  <bookmark href="http://www.amazon.com/Electronics-Trade-In/b/?ref=amb_link_355863222_2?ie=UTF8&amp;node=2226766011&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_s=center-7&amp;pf_rd_r=0FN45CWK5P9KZJZE0MRY&amp;pf_rd_t=101&amp;pf_rd_p=1298691042&amp;pf_rd_i=2242532011&amp;tag=gmgamzn-20" id="376">
-    <title>Amazon.com Electronics Trade-In</title>
-  </bookmark>
-  <bookmark href="http://www.duplicati.com/howtos/howto-google-drive-gdrive" id="377">
-    <title>HowTo: Google Drive (Gdrive) - Duplicati</title>
-  </bookmark>
-  <bookmark href="http://stellarium.org/" id="378">
-    <title>Stellarium</title>
-  </bookmark>
-  <bookmark href="http://windows.microsoft.com/en-US/windows/what-is-windows-defender-offline" id="379">
-    <title>What is Windows Defender Offline?</title>
-  </bookmark>
-  <bookmark href="http://symcat.com/" id="380">
-    <title>Symptom checker and diagnosis calculator by Symcat</title>
-  </bookmark>
-  <bookmark href="http://www.floriangilles.com/software/netspeedmonitor" id="381">
-    <title>FlorianGilles.com - NetSpeedMonitor</title>
-  </bookmark>
-  <bookmark href="http://www.lifeedited.com/2012/04/15-practical-tips-for-creating-a-simpler-happier-life/" id="382">
-    <title>15 Practical Tips for Creating a Simpler, Happier Life - LifeEdited</title>
-  </bookmark>
-  <bookmark href="http://www.microsoft.com/en-us/download/details.aspx?DisplayLang=en&amp;id=15155" id="383">
-    <title>Download: SyncToy 2.1 - Microsoft Download Center - Download Details</title>
-  </bookmark>
-  <bookmark href="http://www.giantfreakinrobot.com/scifi/faux-vintage-travel-posters-invite-tour-solar-system.html" id="384">
-    <title>Faux Vintage Travel Posters Invite You To Tour The Solar System | Giant Freakin Robot</title>
-  </bookmark>
-  <bookmark href="http://simplehoney.com/me" id="385">
-    <title>simplehoney - don’t worry, travel happy. - san francisco hotels, napa hotels, hawaii hotels</title>
-  </bookmark>
-  <bookmark href="http://www.voipreview.org/residential_voip" id="386">
-    <title>Residential VoIP | voipreview.org</title>
-  </bookmark>
-  <bookmark href="http://www.whichvoip.com/" id="387">
-    <title>VoIP Phone Service, VoIP Service Providers, &amp; VoIP Provider Solutions</title>
-  </bookmark>
-  <bookmark href="http://www.crashplan.com/" id="388">
-    <title>Online Data Backup - Offsite, Onsite, &amp; Cloud - CrashPlan Backup Software</title>
-  </bookmark>
-  <bookmark href="http://static.debian-handbook.info/browse/stable/" id="389">
-    <title>The Debian Administrator&apos;s Handbook</title>
-  </bookmark>
-  <bookmark href="http://lifehacker.com/5911651/five-best-web-hosting-companies" id="390">
-    <title>Five Best Web Hosting Companies</title>
-  </bookmark>
-  <bookmark href="http://kate-editor.org/" id="391">
-    <title>Kate | Get an Edge in Editing | The Kate Editor Homepage</title>
-  </bookmark>
-  <bookmark href="http://www.elitemovinglabor.com/virginia/alexandria-va" id="392">
-    <title>Alexandria VA Moving Labor - Elite Moving Labor</title>
-  </bookmark>
-  <bookmark href="http://superuser.com/questions/23180/whats-the-easiest-way-to-sniff-tcp-traffic-data-on-linux" id="393">
-    <title>networking - What&apos;s the easiest way to sniff TCP traffic data on Linux? - Super User</title>
-  </bookmark>
-  <bookmark href="http://www.w3.org/2001/sw/wiki/Python" id="394">
-    <title>Python - Semantic Web Standards</title>
-  </bookmark>
-  <bookmark href="http://www.oreillynet.com/pub/a/css-html/excerpts/programming-the-semantic-web/overview-toolkits.html" id="395">
-    <title>Overview of Toolkits - Programming the Semantic Web - O&apos;Reilly Media</title>
-  </bookmark>
-  <bookmark href="http://sparql-wrapper.sourceforge.net/" id="396">
-    <title>SPARQL Endpoint interface to Python</title>
-  </bookmark>
-  <bookmark href="http://pyunit.sourceforge.net/pyunit.html#USING" id="399">
-    <title>Python Unit Testing Framework</title>
-  </bookmark>
-  <bookmark href="http://gitready.com/" id="400">
-    <title>git ready » learn git one commit at a time</title>
-  </bookmark>
-  <bookmark href="http://ubuntuforums.org/showthread.php?t=1098092" id="401">
-    <title>[xubuntu] Video Driver on Toshiba Satellite Pro 4600 - Ubuntu Forums</title>
-  </bookmark>
-  <bookmark href="http://www.insidemylaptop.com/disassemble-compaq-presario-v6000-laptop/" id="402">
-    <title>How to disassemble Compaq Presario v6000 laptop &gt;&gt; Inside my laptop</title>
-  </bookmark>
-  <bookmark href="http://bbs.archbang.org/viewtopic.php?id=14" id="403">
-    <title>How to change screen resolution? [SOLVED] (Page 1) / Openbox / ArchBang Forums</title>
-  </bookmark>
-  <bookmark href="http://www.cloudfogger.com/en/home/index.aspx" id="404">
-    <title>Cloudfogger - Free File Encryption for Dropbox and the Cloud</title>
-  </bookmark>
-  <bookmark href="http://www.pixeloptics.com/empower/index.html" id="405">
-    <title>emPower! – Life-activated Eyewear</title>
-  </bookmark>
-  <bookmark href="http://www.rentalhouses.com/Tennessee/Knoxville/rh42944" id="406">
-    <title>Rental Home at 9120 Fairhaven Place, Knoxville, TN | RentalHouses.com</title>
-  </bookmark>
   <bookmark href="http://lifehacker.com/5902802/ever-wonder-if-its-actually-legal-to-wear-headphones-when-youre-driving" id="407">
     <title>Ever Wonder If It&apos;s Actually Legal to Wear Headphones When You&apos;re Driving?</title>
   </bookmark>
