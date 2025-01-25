@@ -1,22 +1,247 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1092: for Floccus bookmark sync browser extension -->
+<!--- highestId :1093: for Floccus bookmark sync browser extension -->
 
+<folder id="1089">
+  <title>Family</title>
+  <bookmark href="https://krausfamilyfootprints.blogspot.com/?m=0" id="1091">
+    <title>Kraus Family Footprints</title>
+  </bookmark>
+</folder>
+<folder id="1014">
+  <title>News Stories</title>
+  <bookmark href="https://tennesseelookout.com/2025/01/08/tennessee-bureau-of-investigation-director-backs-off-talk-about-venezuelan-gang-violence/" id="4">
+    <title>Tennessee Bureau of Investigation director backs off talk about Venezuelan gang violence • Tennessee Lookout</title>
+  </bookmark>
+  <bookmark href="https://www.wate.com/news/local-news/knoxville-police-on-venezuelan-gang-no-investigations-in-knoxville/" id="6">
+    <title>Knoxville Police on Venezuelan gang: No investigations in Knoxville</title>
+  </bookmark>
+</folder>
+<folder id="1032">
+  <title>Recipes</title>
+  <bookmark href="http://www.npr.org/2014/01/09/260554814/slow-cook-your-way-to-the-colonels-secret-recipe?utm_medium=Email&amp;utm_campaign=20140112&amp;utm_source=mostemailed" id="161">
+    <title>Found Recipe: KFC-Inspired Chicken : NPR</title>
+  </bookmark>
+  <bookmark href="http://www.quick-and-easy-dinner.com/crock-pot-potatoes.html" id="162">
+    <title>Crock Pot Potatoes</title>
+  </bookmark>
+</folder>
+<folder id="1031">
+  <title>Online Tools</title>
+  <bookmark href="http://www.allaregreen.us/" id="114">
+    <title>Install Greenhouse | Expose Political Corruption</title>
+  </bookmark>
+</folder>
+<folder id="1033">
+  <title>Family Law</title>
+  <bookmark href="https://biloskimiller.com/" id="1007">
+    <title>Family Law, Divorce &amp; Custody Attorneys in Oak Ridge + Clinton</title>
+  </bookmark>
+</folder>
+<folder id="1030">
+  <title>Home Maintenance</title>
+  <bookmark href="https://www.rmwraps.com/shop-products/p/tardis-refrigerator-wrap" id="17">
+    <title>Tardis Refrigerator Wrap</title>
+  </bookmark>
+  <bookmark href="https://support.geniecompany.com/app/answers/detail/a_id/1573#gs=eyJndWlkZUlEIjoxMjQ0LCJxdWVzdGlvbklEIjoxLCJyZXNwb25zZUlEIjoxMywiZ3VpZGVTZXNzaW9uIjoiekJsS0oxRnEiLCJzZXNzaW9uSUQiOiJtOU9GSjFGcSJ9" id="19">
+    <title>Garage Door Openers and Accessories | The Genie Company</title>
+  </bookmark>
+  <bookmark href="https://www.tsienna.net/programming_the_homelinkv_for_u_s_a_owners_-328.html" id="27">
+    <title>Toyota Sienna 2010-2023 Owners Manual: Programming the HomeLink® (for U.S.A. owners) - Garage door opener - Using the other interior features - Interior features</title>
+  </bookmark>
+</folder>
+<folder id="1028">
+  <title>Music</title>
+  <bookmark href="http://nullmorphem.bandcamp.com/track/schnee-von-gestern" id="149">
+    <title>Schnee von gestern | Nullmorphem</title>
+  </bookmark>
+</folder>
+<folder id="1027">
+  <title>Eulogies</title>
+  <bookmark href="http://www.emalayalee.com/varthaFull.php?page=7&amp;newsId=77831" id="122">
+    <title>emalayalee.com - C Sekar Chandersekaran – The Man I Knew</title>
+  </bookmark>
+</folder>
+<folder id="1026">
+  <title>Gaming</title>
+  <bookmark href="http://www.bay12games.com/dwarves/" id="112">
+    <title>Bay 12 Games: Dwarf Fortress</title>
+  </bookmark>
+  <bookmark href="http://www.physicsgames.net/" id="61">
+    <title>Physics Games</title>
+  </bookmark>
+</folder>
+<folder id="1023">
+  <title>Healthcare</title>
+  <bookmark href="https://fourthievesvinegar.org/?ref=404media.co" id="11">
+    <title>Four Thieves Vinegar Collective</title>
+  </bookmark>
+  <bookmark href="https://firstaidkit.substack.com/p/get-an-itemized-medical-bill-and" id="32">
+    <title>Get an itemized medical bill and fact-check it</title>
+  </bookmark>
+  <bookmark href="https://fighthealthinsurance.com/" id="14">
+    <title>Fight Your Health Insurance Denial -- Use AI to Generate Your Health Insurance Appeal</title>
+  </bookmark>
+  <bookmark href="https://www.vsp.com/" id="1029">
+    <title>VSP Vision Care | Vision Insurance</title>
+  </bookmark>
+  <bookmark href="https://www.goodrx.com/" id="1008">
+    <title>Prescription Prices, Coupons &amp; Pharmacy Information - GoodRx</title>
+  </bookmark>
+</folder>
+<folder id="1021">
+  <title>Quotable Quotes</title>
+  <bookmark href="https://www.forbes.com/sites/sap/2014/07/07/douglas-adams-technology-rules/?sh=1f261f6153e6" id="22">
+    <title>SAP BrandVoice: Douglas Adams&apos; Technology Rules</title>
+  </bookmark>
+</folder>
+<folder id="1018">
+  <title>Money</title>
+  <bookmark href="https://freeze.transunion.com/sf/securityFreeze/landingPage.jsp" id="57">
+    <title>TransUnion - Credit Report Freeze</title>
+  </bookmark>
+  <bookmark href="https://www.freeze.equifax.com/Freeze/jsp/SFF_PersonalIDInfo.jsp" id="1019">
+    <title>Equifax - Credit Report Freeze</title>
+  </bookmark>
+  <bookmark href="https://www.knoxvillehomeguys.com/" id="9">
+    <title>Sell Your House Fast In Knoxville, Tennessee | Sell Your House Fast For Cash!</title>
+  </bookmark>
+  <folder id="1020">
+    <title>Bitcoin</title>
+    <bookmark href="https://www.b2p-central.com/" id="16">
+      <title>B2P Central</title>
+    </bookmark>
+    <bookmark href="https://bitcan.world/?ref=nobsbitcoin.com" id="24">
+      <title>BitCan: DIY Bitcoin Seed Storage</title>
+    </bookmark>
+    <bookmark href="https://ln.bitfinex.com/" id="31">
+      <title>Bitfinex Bitcoin Lightning Network</title>
+    </bookmark>
+    <bookmark href="https://freedomnode.com/blog/how-to-create-and-use-an-offline-bitcoin-wallet-aka-cold-storage-with-electrum/" id="29">
+      <title>How to Create and Use an Offline Bitcoin Wallet aka Cold Storage with Electrum</title>
+    </bookmark>
+    <bookmark href="https://medium.blockchainedu.net/how-to-run-an-electrum-server-in-few-easy-steps-f87e98a229e3" id="15">
+      <title>How to run an Electrum Server in few easy steps</title>
+    </bookmark>
+  </folder>
+  <folder id="1025">
+    <title>Retirement</title>
+    <bookmark href="https://www.schwab.com/learn/story/structuring-your-retirement-portfolio" id="12">
+      <title>How to Structure Your Retirement Portfolio</title>
+    </bookmark>
+    <bookmark href="https://www.schwab.com/learn/story/retirement-portfolio-assets-allocation-by-age" id="13">
+      <title>Retirement Portfolio Assets: Allocation by Age</title>
+    </bookmark>
+  </folder>
+</folder>
+<folder id="1015">
+  <title>Computer Technology</title>
+  <bookmark href="https://modal.com/gpu-glossary/readme?utm_source=tldrnewsletter" id="1017">
+    <title>GPU Glossary</title>
+  </bookmark>
+  <bookmark href="https://pocket.co/share/cf0a9264-96c2-4bda-8771-0b3611c942d2?utm_source=pocket_reader" id="5">
+    <title>llama.cpp guide - Running LLMs locally, on any hardware, from scratch</title>
+  </bookmark>
+  <bookmark href="https://prism-break.org/" id="202">
+    <title>PRISM ⚡ Break</title>
+  </bookmark>
+  <folder id="1024">
+    <title>Linux</title>
+    <bookmark href="http://tuxtweaks.com/2009/12/remove-old-kernels-in-ubuntu/" id="77">
+      <title>Remove Old Kernels in Ubuntu | Tux Tweaks</title>
+    </bookmark>
+    <bookmark href="https://wiki.ubuntu.com/Lvm" id="97">
+      <title>Lvm - Ubuntu Wiki</title>
+    </bookmark>
+    <bookmark href="http://www.thegeekstuff.com/2008/11/3-steps-to-perform-ssh-login-without-password-using-ssh-keygen-ssh-copy-id/" id="108">
+      <title>3 Steps to Perform SSH Login Without Password Using ssh-keygen &amp; ssh-copy-id</title>
+    </bookmark>
+    <bookmark href="http://www.tuxfiles.org/linuxhelp/vimcheat.html" id="309">
+      <title>The Vim commands cheat sheet</title>
+    </bookmark>
+    <bookmark href="http://explainshell.com/" id="166">
+      <title>explainshell.com - match command-line arguments to their help text</title>
+    </bookmark>
+    <bookmark href="http://www.shellcheck.net/" id="173">
+      <title>ShellCheck – Online shell script analyzer</title>
+    </bookmark>
+    <bookmark href="http://www.linuxjournal.com/content/tech-tip-extract-pages-pdf" id="188">
+      <title>Tech Tip: Extract Pages From a PDF | Linux Journal</title>
+    </bookmark>
+    <bookmark href="http://stackoverflow.com/questions/59895/can-a-bash-script-tell-what-directory-its-stored-in" id="174">
+      <title>Can a Bash script tell what directory it&apos;s stored in? - Stack Overflow</title>
+    </bookmark>
+    <bookmark href="http://drmfree.calibre-ebook.com/about" id="305">
+      <title>calibre - Open books</title>
+    </bookmark>
+  </folder>
+  <folder id="1022">
+    <title>Making Software</title>
+    <bookmark href="https://jensd.be/1126/linux/cross-compiling-for-arm-or-aarch64-on-debian-or-ubuntu" id="30">
+      <title>Cross compiling for arm or aarch64 on Debian or Ubuntu | Jensd&apos;s I/O buffer</title>
+    </bookmark>
+    <bookmark href="http://stackoverflow.com/questions/97640/force-maven2-to-copy-dependencies-into-target-lib" id="42">
+      <title>Copy Dependencies in Maven</title>
+    </bookmark>
+    <bookmark href="https://rtyley.github.io/bfg-repo-cleaner/" id="65">
+      <title>BFG Repo-Cleaner by rtyley</title>
+    </bookmark>
+    <bookmark href="https://dev.to/domysee/setting-up-a-reverse-proxy-with-nginx-and-docker-compose-29jg" id="962">
+      <title>Setting up a Reverse-Proxy with Nginx and docker-compose</title>
+    </bookmark>
+    <bookmark href="https://blog.linuxserver.io/2019/10/01/updating-and-backing-up-docker-containers-with-version-control/" id="965">
+      <title>Updating and Backing Up Docker Containers With Version Control</title>
+    </bookmark>
+    <bookmark href="http://eloquentjavascript.net/contents.html" id="134">
+      <title>Contents -- Eloquent JavaScript</title>
+    </bookmark>
+    <bookmark href="http://semver.org/" id="128">
+      <title>Semantic Versioning 2.0.0</title>
+    </bookmark>
+    <bookmark href="https://stubbisms.wordpress.com/2009/07/10/git-script-to-show-largest-pack-objects-and-trim-your-waist-line/" id="130">
+      <title>Git Script to Show Largest Pack Objects and Trim Your Waist Line! | Stubbisms - Tony&apos;s Weblog</title>
+    </bookmark>
+    <bookmark href="https://stackoverflow.com/questions/17537390/how-to-install-a-package-using-the-python-apt-api" id="997">
+      <title>How to install a package using the python-apt API</title>
+    </bookmark>
+    <bookmark href="http://daringfireball.net/projects/markdown/syntax#philosophy" id="184">
+      <title>Daring Fireball: Markdown Syntax Documentation</title>
+    </bookmark>
+    <bookmark href="https://maven.apache.org/guides/mini/guide-3rd-party-jars-local.html" id="200">
+      <title>Maven Guide to installing 3rd party JARs</title>
+    </bookmark>
+  </folder>
+  <bookmark href="http://thecustomizewindows.com/2011/04/create-external-links-with-an-icon-beside-like-wikipedia/" id="280">
+    <title>Create external links with an icon beside like Wikipedia</title>
+  </bookmark>
+  <bookmark href="https://tails.boum.org/" id="293">
+    <title>Tails - Privacy for anyone anywhere</title>
+  </bookmark>
+  <folder id="1035">
+    <title>Windows</title>
+    <bookmark href="https://www.nuget.org/" id="1036">
+      <title>NuGet Package Manager</title>
+    </bookmark>
+    <bookmark href="http://rkeithhill.wordpress.com/2007/09/29/effective-powershell-item-9-regular-expressions-one-of-the-power-tools-in-powershell/" id="1093">
+      <title>Effective PowerShell Item 9: Regular Expressions – One of the Power Tools in PowerShell | Keith Hill&apos;s Blog</title>
+    </bookmark>
+  </folder>
+</folder>
+<folder id="1034">
+  <title>Cool</title>
+  <bookmark href="http://macaulaylibrary.org/" id="251">
+    <title>ML: Macaulay Library (Animal Pictures/Sounds/Videos)</title>
+  </bookmark>
+</folder>
+<folder id="1090">
+  <title>GIFs</title>
+  <bookmark href="http://i.imgur.com/3YuVnAv.gif" id="1092">
+    <title>Tiger Eyes</title>
+  </bookmark>
+</folder>
 <folder id="1">
   <title>Unorganized</title>
-  <bookmark href="https://www.virtualbox.org/ticket/9775" id="323">
-    <title>#9775 (3.The Mini-toolbar and ctrl+home menu is invisible when running full screen with a 3D accelerated desktop like Unity or Windows 7 Aero ==&gt; Fixed in SVN) – Oracle VM VirtualBox</title>
-  </bookmark>
-  <bookmark href="http://guake.org/" id="324">
-    <title>Guake terminal</title>
-  </bookmark>
-  <bookmark href="http://blog.bodhizazen.net/linux/netbook-optimization/" id="325">
-    <title>Netbook optimization | Shadows of epiphany</title>
-  </bookmark>
-  <bookmark href="http://rkeithhill.wordpress.com/2007/09/29/effective-powershell-item-9-regular-expressions-one-of-the-power-tools-in-powershell/" id="326">
-    <title>Effective PowerShell Item 9: Regular Expressions – One of the Power Tools in PowerShell | Keith Hill&apos;s Blog</title>
-  </bookmark>
   <bookmark href="http://www.regular-expressions.info/powershell.html" id="327">
     <title>Regular Expressions with Windows PowerShell</title>
   </bookmark>
@@ -1951,240 +2176,6 @@
   </bookmark>
   <bookmark href="http://blog.bittorrent.com/2013/01/24/test-bittorrent-sync-pre-alpha/" id="274">
     <title>Test BitTorrent Sync (Pre-Alpha) | The Official BitTorrent Blog</title>
-  </bookmark>
-</folder>
-<folder id="1089">
-  <title>Family</title>
-  <bookmark href="https://krausfamilyfootprints.blogspot.com/?m=0" id="1091">
-    <title>Kraus Family Footprints</title>
-  </bookmark>
-</folder>
-<folder id="1014">
-  <title>News Stories</title>
-  <bookmark href="https://tennesseelookout.com/2025/01/08/tennessee-bureau-of-investigation-director-backs-off-talk-about-venezuelan-gang-violence/" id="4">
-    <title>Tennessee Bureau of Investigation director backs off talk about Venezuelan gang violence • Tennessee Lookout</title>
-  </bookmark>
-  <bookmark href="https://www.wate.com/news/local-news/knoxville-police-on-venezuelan-gang-no-investigations-in-knoxville/" id="6">
-    <title>Knoxville Police on Venezuelan gang: No investigations in Knoxville</title>
-  </bookmark>
-</folder>
-<folder id="1032">
-  <title>Recipes</title>
-  <bookmark href="http://www.npr.org/2014/01/09/260554814/slow-cook-your-way-to-the-colonels-secret-recipe?utm_medium=Email&amp;utm_campaign=20140112&amp;utm_source=mostemailed" id="161">
-    <title>Found Recipe: KFC-Inspired Chicken : NPR</title>
-  </bookmark>
-  <bookmark href="http://www.quick-and-easy-dinner.com/crock-pot-potatoes.html" id="162">
-    <title>Crock Pot Potatoes</title>
-  </bookmark>
-</folder>
-<folder id="1031">
-  <title>Online Tools</title>
-  <bookmark href="http://www.allaregreen.us/" id="114">
-    <title>Install Greenhouse | Expose Political Corruption</title>
-  </bookmark>
-</folder>
-<folder id="1033">
-  <title>Family Law</title>
-  <bookmark href="https://biloskimiller.com/" id="1007">
-    <title>Family Law, Divorce &amp; Custody Attorneys in Oak Ridge + Clinton</title>
-  </bookmark>
-</folder>
-<folder id="1030">
-  <title>Home Maintenance</title>
-  <bookmark href="https://www.rmwraps.com/shop-products/p/tardis-refrigerator-wrap" id="17">
-    <title>Tardis Refrigerator Wrap</title>
-  </bookmark>
-  <bookmark href="https://support.geniecompany.com/app/answers/detail/a_id/1573#gs=eyJndWlkZUlEIjoxMjQ0LCJxdWVzdGlvbklEIjoxLCJyZXNwb25zZUlEIjoxMywiZ3VpZGVTZXNzaW9uIjoiekJsS0oxRnEiLCJzZXNzaW9uSUQiOiJtOU9GSjFGcSJ9" id="19">
-    <title>Garage Door Openers and Accessories | The Genie Company</title>
-  </bookmark>
-  <bookmark href="https://www.tsienna.net/programming_the_homelinkv_for_u_s_a_owners_-328.html" id="27">
-    <title>Toyota Sienna 2010-2023 Owners Manual: Programming the HomeLink® (for U.S.A. owners) - Garage door opener - Using the other interior features - Interior features</title>
-  </bookmark>
-</folder>
-<folder id="1028">
-  <title>Music</title>
-  <bookmark href="http://nullmorphem.bandcamp.com/track/schnee-von-gestern" id="149">
-    <title>Schnee von gestern | Nullmorphem</title>
-  </bookmark>
-</folder>
-<folder id="1027">
-  <title>Eulogies</title>
-  <bookmark href="http://www.emalayalee.com/varthaFull.php?page=7&amp;newsId=77831" id="122">
-    <title>emalayalee.com - C Sekar Chandersekaran – The Man I Knew</title>
-  </bookmark>
-</folder>
-<folder id="1026">
-  <title>Gaming</title>
-  <bookmark href="http://www.bay12games.com/dwarves/" id="112">
-    <title>Bay 12 Games: Dwarf Fortress</title>
-  </bookmark>
-  <bookmark href="http://www.physicsgames.net/" id="61">
-    <title>Physics Games</title>
-  </bookmark>
-</folder>
-<folder id="1023">
-  <title>Healthcare</title>
-  <bookmark href="https://fourthievesvinegar.org/?ref=404media.co" id="11">
-    <title>Four Thieves Vinegar Collective</title>
-  </bookmark>
-  <bookmark href="https://firstaidkit.substack.com/p/get-an-itemized-medical-bill-and" id="32">
-    <title>Get an itemized medical bill and fact-check it</title>
-  </bookmark>
-  <bookmark href="https://fighthealthinsurance.com/" id="14">
-    <title>Fight Your Health Insurance Denial -- Use AI to Generate Your Health Insurance Appeal</title>
-  </bookmark>
-  <bookmark href="https://www.vsp.com/" id="1029">
-    <title>VSP Vision Care | Vision Insurance</title>
-  </bookmark>
-  <bookmark href="https://www.goodrx.com/" id="1008">
-    <title>Prescription Prices, Coupons &amp; Pharmacy Information - GoodRx</title>
-  </bookmark>
-</folder>
-<folder id="1021">
-  <title>Quotable Quotes</title>
-  <bookmark href="https://www.forbes.com/sites/sap/2014/07/07/douglas-adams-technology-rules/?sh=1f261f6153e6" id="22">
-    <title>SAP BrandVoice: Douglas Adams&apos; Technology Rules</title>
-  </bookmark>
-</folder>
-<folder id="1018">
-  <title>Money</title>
-  <bookmark href="https://freeze.transunion.com/sf/securityFreeze/landingPage.jsp" id="57">
-    <title>TransUnion - Credit Report Freeze</title>
-  </bookmark>
-  <bookmark href="https://www.freeze.equifax.com/Freeze/jsp/SFF_PersonalIDInfo.jsp" id="1019">
-    <title>Equifax - Credit Report Freeze</title>
-  </bookmark>
-  <bookmark href="https://www.knoxvillehomeguys.com/" id="9">
-    <title>Sell Your House Fast In Knoxville, Tennessee | Sell Your House Fast For Cash!</title>
-  </bookmark>
-  <folder id="1020">
-    <title>Bitcoin</title>
-    <bookmark href="https://www.b2p-central.com/" id="16">
-      <title>B2P Central</title>
-    </bookmark>
-    <bookmark href="https://bitcan.world/?ref=nobsbitcoin.com" id="24">
-      <title>BitCan: DIY Bitcoin Seed Storage</title>
-    </bookmark>
-    <bookmark href="https://ln.bitfinex.com/" id="31">
-      <title>Bitfinex Bitcoin Lightning Network</title>
-    </bookmark>
-    <bookmark href="https://freedomnode.com/blog/how-to-create-and-use-an-offline-bitcoin-wallet-aka-cold-storage-with-electrum/" id="29">
-      <title>How to Create and Use an Offline Bitcoin Wallet aka Cold Storage with Electrum</title>
-    </bookmark>
-    <bookmark href="https://medium.blockchainedu.net/how-to-run-an-electrum-server-in-few-easy-steps-f87e98a229e3" id="15">
-      <title>How to run an Electrum Server in few easy steps</title>
-    </bookmark>
-  </folder>
-  <folder id="1025">
-    <title>Retirement</title>
-    <bookmark href="https://www.schwab.com/learn/story/structuring-your-retirement-portfolio" id="12">
-      <title>How to Structure Your Retirement Portfolio</title>
-    </bookmark>
-    <bookmark href="https://www.schwab.com/learn/story/retirement-portfolio-assets-allocation-by-age" id="13">
-      <title>Retirement Portfolio Assets: Allocation by Age</title>
-    </bookmark>
-  </folder>
-</folder>
-<folder id="1015">
-  <title>Computer Technology</title>
-  <bookmark href="https://modal.com/gpu-glossary/readme?utm_source=tldrnewsletter" id="1017">
-    <title>GPU Glossary</title>
-  </bookmark>
-  <bookmark href="https://pocket.co/share/cf0a9264-96c2-4bda-8771-0b3611c942d2?utm_source=pocket_reader" id="5">
-    <title>llama.cpp guide - Running LLMs locally, on any hardware, from scratch</title>
-  </bookmark>
-  <bookmark href="https://prism-break.org/" id="202">
-    <title>PRISM ⚡ Break</title>
-  </bookmark>
-  <folder id="1024">
-    <title>Linux</title>
-    <bookmark href="http://tuxtweaks.com/2009/12/remove-old-kernels-in-ubuntu/" id="77">
-      <title>Remove Old Kernels in Ubuntu | Tux Tweaks</title>
-    </bookmark>
-    <bookmark href="https://wiki.ubuntu.com/Lvm" id="97">
-      <title>Lvm - Ubuntu Wiki</title>
-    </bookmark>
-    <bookmark href="http://www.thegeekstuff.com/2008/11/3-steps-to-perform-ssh-login-without-password-using-ssh-keygen-ssh-copy-id/" id="108">
-      <title>3 Steps to Perform SSH Login Without Password Using ssh-keygen &amp; ssh-copy-id</title>
-    </bookmark>
-    <bookmark href="http://www.tuxfiles.org/linuxhelp/vimcheat.html" id="309">
-      <title>The Vim commands cheat sheet</title>
-    </bookmark>
-    <bookmark href="http://explainshell.com/" id="166">
-      <title>explainshell.com - match command-line arguments to their help text</title>
-    </bookmark>
-    <bookmark href="http://www.shellcheck.net/" id="173">
-      <title>ShellCheck – Online shell script analyzer</title>
-    </bookmark>
-    <bookmark href="http://www.linuxjournal.com/content/tech-tip-extract-pages-pdf" id="188">
-      <title>Tech Tip: Extract Pages From a PDF | Linux Journal</title>
-    </bookmark>
-    <bookmark href="http://stackoverflow.com/questions/59895/can-a-bash-script-tell-what-directory-its-stored-in" id="174">
-      <title>Can a Bash script tell what directory it&apos;s stored in? - Stack Overflow</title>
-    </bookmark>
-    <bookmark href="http://drmfree.calibre-ebook.com/about" id="305">
-      <title>calibre - Open books</title>
-    </bookmark>
-  </folder>
-  <folder id="1022">
-    <title>Making Software</title>
-    <bookmark href="https://jensd.be/1126/linux/cross-compiling-for-arm-or-aarch64-on-debian-or-ubuntu" id="30">
-      <title>Cross compiling for arm or aarch64 on Debian or Ubuntu | Jensd&apos;s I/O buffer</title>
-    </bookmark>
-    <bookmark href="http://stackoverflow.com/questions/97640/force-maven2-to-copy-dependencies-into-target-lib" id="42">
-      <title>Copy Dependencies in Maven</title>
-    </bookmark>
-    <bookmark href="https://rtyley.github.io/bfg-repo-cleaner/" id="65">
-      <title>BFG Repo-Cleaner by rtyley</title>
-    </bookmark>
-    <bookmark href="https://dev.to/domysee/setting-up-a-reverse-proxy-with-nginx-and-docker-compose-29jg" id="962">
-      <title>Setting up a Reverse-Proxy with Nginx and docker-compose</title>
-    </bookmark>
-    <bookmark href="https://blog.linuxserver.io/2019/10/01/updating-and-backing-up-docker-containers-with-version-control/" id="965">
-      <title>Updating and Backing Up Docker Containers With Version Control</title>
-    </bookmark>
-    <bookmark href="http://eloquentjavascript.net/contents.html" id="134">
-      <title>Contents -- Eloquent JavaScript</title>
-    </bookmark>
-    <bookmark href="http://semver.org/" id="128">
-      <title>Semantic Versioning 2.0.0</title>
-    </bookmark>
-    <bookmark href="https://stubbisms.wordpress.com/2009/07/10/git-script-to-show-largest-pack-objects-and-trim-your-waist-line/" id="130">
-      <title>Git Script to Show Largest Pack Objects and Trim Your Waist Line! | Stubbisms - Tony&apos;s Weblog</title>
-    </bookmark>
-    <bookmark href="https://stackoverflow.com/questions/17537390/how-to-install-a-package-using-the-python-apt-api" id="997">
-      <title>How to install a package using the python-apt API</title>
-    </bookmark>
-    <bookmark href="http://daringfireball.net/projects/markdown/syntax#philosophy" id="184">
-      <title>Daring Fireball: Markdown Syntax Documentation</title>
-    </bookmark>
-    <bookmark href="https://maven.apache.org/guides/mini/guide-3rd-party-jars-local.html" id="200">
-      <title>Maven Guide to installing 3rd party JARs</title>
-    </bookmark>
-  </folder>
-  <bookmark href="http://thecustomizewindows.com/2011/04/create-external-links-with-an-icon-beside-like-wikipedia/" id="280">
-    <title>Create external links with an icon beside like Wikipedia</title>
-  </bookmark>
-  <bookmark href="https://tails.boum.org/" id="293">
-    <title>Tails - Privacy for anyone anywhere</title>
-  </bookmark>
-  <folder id="1035">
-    <title>Windows</title>
-    <bookmark href="https://www.nuget.org/" id="1036">
-      <title>NuGet Package Manager</title>
-    </bookmark>
-  </folder>
-</folder>
-<folder id="1034">
-  <title>Cool</title>
-  <bookmark href="http://macaulaylibrary.org/" id="251">
-    <title>ML: Macaulay Library (Animal Pictures/Sounds/Videos)</title>
-  </bookmark>
-</folder>
-<folder id="1090">
-  <title>GIFs</title>
-  <bookmark href="http://i.imgur.com/3YuVnAv.gif" id="1092">
-    <title>Tiger Eyes</title>
   </bookmark>
 </folder>
 </xbel>
