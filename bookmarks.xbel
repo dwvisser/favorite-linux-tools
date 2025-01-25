@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1033: for Floccus bookmark sync browser extension -->
+<!--- highestId :1034: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Unorganized</title>
-  <bookmark href="http://macaulaylibrary.org/" id="251">
-    <title>ML: Macaulay Library (Animal Pictures/Sounds/Videos)</title>
-  </bookmark>
   <bookmark href="http://www.codeotaku.com/projects/jquery-syntax/index.en" id="252">
     <title>Syntax Highlighting - jQuery.Syntax</title>
   </bookmark>
@@ -2339,5 +2336,11 @@
       <title>Maven Guide to installing 3rd party JARs</title>
     </bookmark>
   </folder>
+</folder>
+<folder id="1034">
+  <title>Cool</title>
+  <bookmark href="http://macaulaylibrary.org/" id="251">
+    <title>ML: Macaulay Library (Animal Pictures/Sounds/Videos)</title>
+  </bookmark>
 </folder>
 </xbel>
