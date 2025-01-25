@@ -5,9 +5,6 @@
 
 <folder id="1">
   <title>Unorganized</title>
-  <bookmark href="http://chocolatey.org/" id="322">
-    <title>Chocolatey Gallery</title>
-  </bookmark>
   <bookmark href="https://www.virtualbox.org/ticket/9775" id="323">
     <title>#9775 (3.The Mini-toolbar and ctrl+home menu is invisible when running full screen with a 3D accelerated desktop like Unity or Windows 7 Aero ==&gt; Fixed in SVN) – Oracle VM VirtualBox</title>
   </bookmark>
