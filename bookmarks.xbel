@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1034: for Floccus bookmark sync browser extension -->
+<!--- highestId :1035: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Unorganized</title>
@@ -2165,6 +2165,9 @@
   <bookmark href="https://tails.boum.org/" id="293">
     <title>Tails - Privacy for anyone anywhere</title>
   </bookmark>
+  <folder id="1035">
+    <title>Windows</title>
+  </folder>
 </folder>
 <folder id="1034">
   <title>Cool</title>
