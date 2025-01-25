@@ -5,9 +5,6 @@
 
 <folder id="1">
   <title>Unorganized</title>
-  <bookmark href="https://prism-break.org/" id="202">
-    <title>PRISM ⚡ Break</title>
-  </bookmark>
   <bookmark href="http://pastebin.com/" id="203">
     <title>PasteBin</title>
   </bookmark>
@@ -2393,5 +2390,8 @@
       <title>Maven Guide to installing 3rd party JARs</title>
     </bookmark>
   </folder>
+  <bookmark href="https://prism-break.org/" id="202">
+    <title>PRISM ⚡ Break</title>
+  </bookmark>
 </folder>
 </xbel>
