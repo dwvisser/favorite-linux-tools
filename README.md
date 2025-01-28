@@ -24,15 +24,16 @@ Go (<a href=https://github.com/golang-samples/gopher-vector><img src=images/goph
 
 ### Filesystem
 
-Name | Ubuntu | Fedora | Description / Config
----- |------- | ------ | --------------------
-<img src=images/python.svg height=18/> [autojump](https://github.com/wting/autojump) | `apt intall autojump`, then see man file for launching in your *.bashrc* | | Lets me change working directory to recently used directories via quick pattern match. A tool I'm watching to replace this whenever I can rely on fzf 0.33 or later packages (Ubuntu 24.04+/Fedora 40+) is [zoxide](https://github.com/ajeetdsouza/zoxide).
-<img src=images/rustacean.svg height=18/> [diskonaut](https://github.com/imsnif/diskonaut/) | `cargo install diskonaut` | same | Interactive treemap visualization of disk space usage, right in the console
-<img src=images/gopher.svg height=18/> [duf](https://github.com/muesli/duf) | `apt intall duf` | `dnf install duf` | Easy-on-the-eyes `du`/`df` replacement.
-<img src=images/rustacean.svg height=18> [eza](https://github.com/eza-community/eza) | [PPA instructions](https://eza.rocks/#debian-and-ubuntu) | `dnf install eza` | `ls` replacement with colorful, columnar output. See useful `ezag` alias in [.bash_aliases](.bash_aliases)
-<img src=images/rustacean.svg height=18/> [fd](https://github.com/sharkdp/fd) | `apt install fd-find` | `dnf install fd-find` | Colorful, fast *find* replacement with sensible, opinionated defaults. `fdfind` is the command on Ubuntu.
-<img src=images/rustacean.svg height=18> [lla](https://crates.io/crates/lla) | `cargo install lla` | | A different take on what *eza* does. I particularly like using the `-G` option to peruse a local Git repository.
-🔨 [Shunpo](https://github.com/egurapha/Shunpo) | `./install.sh` | | Intuitive directory bookmarking and quick navigation with two-letter commands and number keys.
+Name | Ubuntu / Fedora | Description / Config
+---- |------------- | -------------------- 
+<img src=images/rustacean.svg height=18/> [diskonaut](https://github.com/imsnif/diskonaut/) | `cargo install diskonaut` | Interactive treemap visualization of disk space usage, right in the console
+<img src=images/gopher.svg height=18/> [duf](https://github.com/muesli/duf) | `apt intall duf` / `dnf install duf` | Easy-on-the-eyes `du`/`df` replacement.
+<img src=images/rustacean.svg height=18> [eza](https://github.com/eza-community/eza) | [PPA instructions](https://eza.rocks/#debian-and-ubuntu)  / `dnf install eza` | `ls` replacement with colorful, columnar output. See useful `ezag` alias in [.bash_aliases](.bash_aliases)
+<img src=images/rustacean.svg height=18/> [fd](https://github.com/sharkdp/fd) | `apt install fd-find` / `dnf install fd-find` | Colorful, fast *find* replacement with sensible, opinionated defaults. `fdfind` is the command on Ubuntu.
+<img src=images/rustacean.svg height=18> [lla](https://crates.io/crates/lla) | `cargo install lla` | A different take on what *eza* does. I particularly like using the `-G` option to peruse a local Git repository.
+🔨 [Shunpo](https://github.com/egurapha/Shunpo) | `./install.sh` | Intuitive directory bookmarking and quick navigation with two-letter commands and number keys.
+
+Another tool I'm watching in this area, whenever I can rely on fzf 0.33 or later packages (Ubuntu 24.04+/Fedora 40+), is [zoxide](https://github.com/ajeetdsouza/zoxide).
 
 ### Et al
 
