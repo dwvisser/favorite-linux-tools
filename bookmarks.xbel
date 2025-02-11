@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1106: for Floccus bookmark sync browser extension -->
+<!--- highestId :1107: for Floccus bookmark sync browser extension -->
 
 <folder id="1015">
   <title>Computer Technology</title>
@@ -181,6 +181,9 @@
   </bookmark>
   <bookmark href="https://prism-break.org/" id="202">
     <title>PRISM ⚡ Break</title>
+  </bookmark>
+  <bookmark href="https://endoflife.date/" id="1107">
+    <title>endoflife.date</title>
   </bookmark>
 </folder>
 <folder id="1034">
