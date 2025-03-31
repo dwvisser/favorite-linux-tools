@@ -35,30 +35,34 @@ Name | Ubuntu / Fedora | Description / Config
 
 Another tool I'm watching in this area, whenever I can rely on fzf 0.33 or later packages (Ubuntu 24.04+/Fedora 40+), is [zoxide](https://github.com/ajeetdsouza/zoxide).
 
+### Working with Text Files
+
+Name | Ubuntu / Fedora | Description / Config
+---- |------------- | -------------------- 
+<img src=images/rustacean.svg height=18/> [bat](https://github.com/sharkdp/bat) | `apt install bat` (tool is invoked with `batcat` in this case) / `dnf install bat` | Colorful `cat` with line numbers, paging, and syntax highlighting.
+<img src=images/gopher.svg height=18/> [fx](https://github.com/antonmedv/fx) | `snap install fx` / same or `go install github.com/antonmedv/fx@latest` | JSON Viewer that helps with figuring out [jq](https://github.com/jqlang/jq) query syntax. | 
+<img src=images/gopher.svg height=18/> [glow](https://github.com/charmbracelet/glow) | `snap install glow` / See page for DNF install method. | Render markdown nicely right in the terminal. Use `-p` for paged output.
+<img src=images/rustacean.svg height=18/> [jnv](https://github.com/ynqa/jnv) | `cargo install jnv` | Pure Rust interactive json filtering for subset of [jq filters](https://jqlang.github.io/jq/manual/#basic-filters).
+<img src=images/gopher.svg height=18/> [micro](https://github.com/zyedidia/micro) | `apt`/`dnf` `install micro` | Nano replacement with syntax highlighting.
+<img src=images/rustacean.svg height=18/> [ripgrep](https://github.com/BurntSushi/ripgrep) | `apt`/`dnf` `install ripgrep` | Fast, developer-friendly grep-like code searcher.
+<img src=images/C_Logo.png height=18> [vim](https://vim8.org/) | `apt`/`dnf` `install vim` | Like trusty old `vi` but better, includes syntax highlighting.
+<img src=images/rustacean.svg height=18/> [xan](https://github.com/medialab/xan) | `cargo install xan` | Amazing command-line interactive CSV file viewer/processor.
+
 ### Et al
 
 Name | Ubuntu | Fedora | Description / Config
 ---- |------- | ------ | --------------------
 <img src=images/rustacean.svg height=18/> [bandwhich](https://github.com/imsnif/bandwhich) | Unzip executable from releases tarball to */usr/local/bin* | | Very nice presentation of what programs are consuming bandwith on connections to where. Needs `sudo` to run.
-<img src=images/rustacean.svg height=18/> [bat](https://github.com/sharkdp/bat) | `apt install bat` (tool is invoked with `batcat` in this case). | `dnf install bat` | Colorful `cat` with line numbers, paging, and syntax highlighting.
-<img src=images/rustacean.svg height=18/> [csvlens](https://github.com/YS-L/csvlens/) | `cargo install csvlens` | `cargo install csvlens` | Amazing command-line interactive CSV file viewer. (H or ? shows help)
 <img src=images/gopher.svg height=18/> [doggo](https://github.com/mr-karan/doggo) | Unzip executable from releases tarball to */usr/local/bin* |  | Pretty [dig](https://www.isc.org/bind/) replacement, for querying DNS from the command-line.
-<img src=images/gopher.svg height=18/> [fx](https://github.com/antonmedv/fx) | `snap install fx` | same or `go install github.com/antonmedv/fx@latest` | JSON Viewer that helps with figuring out [jq](https://github.com/jqlang/jq) query syntax. | 
 <img src=images/gopher.svg height=18> [fzf](https://github.com/junegunn/fzf) | `apt install fzf`, then look at `apt show fzf` to find instructions on enabling keybindings and autocompletions. | `dnf install fzf`, then look in */usr/share/doc/fzf* for how to enable keybindings. | Powerful "command-line fuzzy finder" that is hard to describe adequately. Its *Alt-C* function has allowed me to augment *autojump* when jumping *into* the current tree. Just watch [this YouTube video](https://youtu.be/qgG5Jhi_Els), or read [this blog post](https://andrew-quinn.me/fzf/).
-<img src=images/gopher.svg height=18/> [glow](https://github.com/charmbracelet/glow) | `snap install glow` | See page for DNF install method. | Render markdown nicely right in the terminal. Use `-p` for paged output.
 <img src=images/rustacean.svg height=18/> [gitui](https://github.com/extrawurst/gitui/) | Download binary. Place in *~/.local/bin* | same | same | Intuitive terminal-based UI to your Git repository. Lacks *tig*'s multi-branch tree view, so both tools are nice to have.
 <img src=images/rustacean.svg height=18/> [hexyl](https://github.com/sharkdp/hexyl/) | dpkg (see below) | | Colorful hexadecimal binary file viewer.
-<img src=images/rustacean.svg height=18/> [jnv](https://github.com/ynqa/jnv) | `cargo install jnv` | same | Pure Rust interactive json filtering for subset of [jq filters](https://jqlang.github.io/jq/manual/#basic-filters).
 <img src=images/python.svg height=18/> [litecli](https://github.com/dbcli/litecli) | `pip install litecli` | same | Colorful autocomplete-savvy SQLite CLI client
-<img src=images/gopher.svg height=18/> [micro](https://github.com/zyedidia/micro) | `apt install micro` | `dnf install micro` | Nano replacement with syntax highlighting.
 <img src=images/rustacean.svg height=18/> [nushell](https://github.com/nushell/nushell) | Download tarball release file, extract under *~/.local*, and update [alias](.bash_aliases) | | | Fancy uber-capable shell, inspired by PowerShell, but results are more column-and-row based.
 <img src=images/rustacean.svg height=18/> [procs](https://github.com/dalance/procs) | `snap install procs` | `dnf install procs` | Colorful, flexible `ps` replacement.
-<img src=images/rustacean.svg height=18/> [ripgrep](https://github.com/BurntSushi/ripgrep) | `apt install ripgrep` | `dnf install ripgrep` | Fast, developer-friendly grep-like code searcher.
 <img src=images/rustacean.svg height=18/> [starship](https://starship.rs/) | [Install Fira Code Nerd Font](https://github.com/tonsky/FiraCode/wiki/Linux-instructions#installing-with-a-package-manager); Set as font in terminal application; [Set as font in VS Code](https://github.com/tonsky/FiraCode/wiki/VS-Code-Instructions); Follow *Quick Install* instructions using shell script. | same | Amazing developer-friendly, colorful, and rich shell prompt. **Config**: Copy *.config/starship.toml* to *~/.config*
 <img src=images/C_Logo.png height=18> [tig](https://jonas.github.io/tig/) | `apt install tig` | | Fancy git browser. I also like the "git lola" variant given at [this blog post](https://medium.com/better-programming/5-git-tricks-that-i-wished-i-have-known-earlier-af1060881880)
-<img src=images/C_Logo.png height=18> [vim](https://vim8.org/) | `apt install vim` | | Like trusty old `vi` but better, includes syntax highlighting.
 <img src=images/rustacean.svg height=18/> [zellij](https://github.com/zellij-org/zellij) | `snap install --classic zellij` | `dnf install cargo` && `cargo install zellij` | Colorful, user-friendly, `tmux` replacement, that I usually use now.  **Config**: Copy *.config/zellij/config.yaml* to use Alt-S and Alt-Q instead, which avoids collision with *micro* editor keys.
-<img src=images/rustacean.svg height=18/> [zenith](https://github.com/bvaisvil/zenith) | dpkg (see below) | | Colorful `top` replacement.
 
 **cargo** = Just what it says. My favorite way to get Rust up and running is to `apt/dnf install rustup`, then issue the command, `rustup toolchain install stable`. That way, it's easy to update to a newer version of Rust later. Some tools, like diskonaut, have C++ dependencies to build as well. On Ubuntu, `sudo apt install build-essintial`, on Fedora, `sudo dnf groupinstall "Development Tools" "Development Libraries"`.
 
