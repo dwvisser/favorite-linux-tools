@@ -3,7 +3,7 @@
 
 Many of these are actually cross-platform. For context, I currently use:
 
-1. At home: Fedora Workstation 41 & Ubuntu 24.04
+1. At home: Fedora Workstation 42 & Ubuntu 24.10
 3. At work: Ubuntu 22.04.
 
  I am also a heavy user of the default [bash](https://www.gnu.org/software/bash/) shell.
