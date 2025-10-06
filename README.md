@@ -15,6 +15,13 @@ Many of these are actually cross-platform. For context, I currently use:
 * The excellent list at [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) contains more tools I may try in the future.
 * A [blog post](https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/) by Julia Evans has some cool stuff to look at too.
 
+## Python Development
+
+* [uv](https://docs.astral.sh/uv/) - FAST. "A single tool to replace pip, pip-tools, pipx, poetry, pyenv, twine, virtualenv, and more."
+* [ruff](https://docs.astral.sh/ruff/) - Fast linting/formatting from the command-line & IDE plug-ins.
+* [ty](https://docs.astral.sh/ty/) - Fast type checking from the command-line.
+* [radon](https://radon.readthedocs.io/en/latest/) - Cyclomatic Complexity, SLOCs & other metrics.
+
 ## Terminal-based tools
 
  I've marked all tools with icons indicating the primary implmentation language, e.g., Rust
