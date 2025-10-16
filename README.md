@@ -17,7 +17,7 @@ Many of these are actually cross-platform. For context, I currently use:
 
 ## Python Development
 
-* [uv](https://docs.astral.sh/uv/) - FAST. "A single tool to replace pip, pip-tools, pipx, poetry, pyenv, twine, virtualenv, and more."
+* [uv](https://docs.astral.sh/uv/) - FAST. "A single tool to replace pip, pip-tools, pipx, poetry, pyenv, twine, virtualenv, and more." [Good Cheat Sheet](https://mathspp.com/blog/uv-cheatsheet)
 * [ruff](https://docs.astral.sh/ruff/) - Fast linting/formatting from the command-line & IDE plug-ins.
 * [ty](https://docs.astral.sh/ty/) - Fast type checking from the command-line.
 * [radon](https://radon.readthedocs.io/en/latest/) - Cyclomatic Complexity, SLOCs & other metrics.
