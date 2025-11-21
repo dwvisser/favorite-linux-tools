@@ -26,8 +26,8 @@ I currently use the following Linux versions, some as boot OS, others as WSL VMs
 
  I've marked all tools with icons indicating the primary implmentation language, e.g., Rust
 <a href=https://commons.wikimedia.org/wiki/File:Rustacean-orig-noshadow.svg><img src=images/rustacean.svg height=18/></a>,
-Go (<a href=https://github.com/golang-samples/gopher-vector><img src=images/gopher.svg height=18/></a>), Python
-(<a href=https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg><img src=images/python.svg height=18/></a>) and Ruby <img src=images/ruby.svg height=18>.
+Go <a href=https://github.com/golang-samples/gopher-vector><img src=images/gopher.svg height=18/></a>, Python
+<a href=https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg><img src=images/python.svg height=18/></a> and Ruby <img src=images/ruby.svg height=18>.
 
 ### Filesystem
 
