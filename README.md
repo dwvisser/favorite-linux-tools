@@ -39,8 +39,7 @@ Name | Install Steps | Description / Config
 <img src=images/rustacean.svg height=18/> [fd](https://github.com/sharkdp/fd) | `apt install fd-find`| Colorful, fast *find* replacement with sensible, opinionated defaults. `fdfind` is the command on Ubuntu.
 <img src=images/rustacean.svg height=18> [lla](https://crates.io/crates/lla) | `cargo install lla` | A different take on what *eza* does. I particularly like using the `-G` option to peruse a local Git repository.
 🔨 [Shunpo](https://github.com/egurapha/Shunpo) | `./install.sh` | Intuitive directory bookmarking and quick navigation with two-letter commands and number keys.
-
-Another tool I'm watching in this area, whenever I can rely on fzf 0.33 or later packages (Ubuntu 24.04+), is [zoxide](https://github.com/ajeetdsouza/zoxide).
+<img src=images/rustacean.svg height=18> [zoxide](https://github.com/ajeetdsouza/zoxide) | `curl | sh` & add command to *.bashrc* | Best `cd` replacement ever, leverages fzf to let you "fuzzy cd". Requires Ubuntu 24.04+
 
 ### Working with Text Files
 
