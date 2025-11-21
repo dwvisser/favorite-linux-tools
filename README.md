@@ -49,6 +49,7 @@ Name | Install Steps | Description / Config
 <img src=images/rustacean.svg height=18/> [bat](https://github.com/sharkdp/bat) | `apt install bat` | Colorful `cat` with line numbers, paging, and syntax highlighting. (Tool is invoked with `batcat` when `apt` installed.)
 <img src=images/gopher.svg height=18/> [fx](https://github.com/antonmedv/fx) | `snap install fx` | JSON Viewer that helps with figuring out [jq](https://github.com/jqlang/jq) query syntax. | 
 <img src=images/gopher.svg height=18/> [glow](https://github.com/charmbracelet/glow) | `snap install glow` | Render markdown nicely right in the terminal. Use `-p` for paged output.
+<img src=images/rustacean.svg height=18/> [hl](https://github.com/pamburus/hl) | `cargo install --locked --git https://github.com/pamburus/hl.git` | Fast pretty colorful presentation/filtering of JSON-formatted logs.
 <img src=images/rustacean.svg height=18/> [jnv](https://github.com/ynqa/jnv) | `cargo install jnv` | Pure Rust interactive json filtering for subset of [jq filters](https://jqlang.github.io/jq/manual/#basic-filters).
 <img src=images/gopher.svg height=18/> [micro](https://github.com/zyedidia/micro) | `apt install micro` | Nano replacement with syntax highlighting.
 <img src=images/rustacean.svg height=18/> [ripgrep](https://github.com/BurntSushi/ripgrep) | `apt install ripgrep` | Fast, developer-friendly grep-like code searcher.
