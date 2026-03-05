@@ -57,7 +57,7 @@ Name | Install Steps | Description / Config
 
 Name | Install Steps | Description / Config
 ---- |------------- | --------------------
-<img src=images/rustacean.svg height=18/> [gitui](https://github.com/extrawurst/gitui/) | Download binary. Place in *~/.local/bin* | Intuitive terminal-based UI to your Git repository. Lacks *tig*'s multi-branch tree view, so both tools are nice to have.
+<img src=images/gopher.svg height=18/> [lazygit](https://github.com/jesseduffield/lazygit) | Download binary. Place in *~/.local/bin* | Intuitive TUI to your Git repository. Really amazing complement to the Git CLI. Keep open while working on files.
 🔨 [git what](https://github.com/andybalaam/git-what) | See repo for manual instruction with Make. | Just type `git what` for a quick, colorfol, summary of all the local open branches in the current repo.
 <img src=images/C_Logo.png height=18> [tig](https://jonas.github.io/tig/) | `apt install tig` | Fancy git browser. I also like the "git lola" variant given at [this blog post](https://medium.com/better-programming/5-git-tricks-that-i-wished-i-have-known-earlier-af1060881880)
 
