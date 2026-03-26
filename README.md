@@ -3,7 +3,7 @@
 
 I currently use the following Linux versions, some as boot OS, others as WSL VMs:
 
-1. At home: Ubuntu 25.10 & Kubuntu 25.10
+1. At home: Ubuntu 25.10 & Linux Mint (Ubuntu 24.04-based)
 3. At work: Ubuntu 22.04 & 24.04
 
  I am a heavy user of the default [bash](https://www.gnu.org/software/bash/) shell.
@@ -44,10 +44,9 @@ Name | Install Steps | Description / Config
 Name | Install Steps | Description / Config
 ---- |------------- | -------------------- 
 <img src=images/rustacean.svg height=18/> [bat](https://github.com/sharkdp/bat) | `apt install bat` | Colorful `cat` with line numbers, paging, and syntax highlighting. (Tool is invoked with `batcat` when `apt` installed.)
-<img src=images/gopher.svg height=18/> [fx](https://github.com/antonmedv/fx) | `snap install fx` | JSON Viewer that helps with figuring out [jq](https://github.com/jqlang/jq) query syntax. | 
+<img src=images/rustacean.svg height=18/> [jsongrep](https://github.com/sharkdp/bat) | `cargo install jsongrep` | JSON file search, faster and more intuitive syntax than [jq](https://github.com/jqlang/jq).
 <img src=images/gopher.svg height=18/> [glow](https://github.com/charmbracelet/glow) | `snap install glow` | Render markdown nicely right in the terminal. Use `-p` for paged output.
 <img src=images/rustacean.svg height=18/> [hl](https://github.com/pamburus/hl) | `cargo install --locked --git https://github.com/pamburus/hl.git` | Fast pretty colorful presentation/filtering of JSON-formatted logs.
-<img src=images/rustacean.svg height=18/> [jnv](https://github.com/ynqa/jnv) | `cargo install jnv` | Pure Rust interactive json filtering for subset of [jq filters](https://jqlang.github.io/jq/manual/#basic-filters).
 <img src=images/gopher.svg height=18/> [micro](https://github.com/zyedidia/micro) | `apt install micro` | Nano replacement with syntax highlighting.
 <img src=images/rustacean.svg height=18/> [ripgrep](https://github.com/BurntSushi/ripgrep) | `apt install ripgrep` | Fast, developer-friendly grep-like code searcher.
 <img src=images/C_Logo.png height=18> [vim](https://vim8.org/) | `apt install vim` | Like trusty old `vi` but better, includes syntax highlighting.
