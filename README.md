@@ -3,8 +3,8 @@
 
 I currently use the following Linux versions, some as boot OS, others as WSL VMs:
 
-1. At home: Ubuntu 25.10 & Linux Mint (Ubuntu 24.04-based)
-3. At work: Ubuntu 22.04 & 24.04
+1. At home: Ubuntu 26.04 & Linux Mint 22.3 (Ubuntu 24.04-based)
+3. At work: Ubuntu 24.04
 
  I am a heavy user of the default [bash](https://www.gnu.org/software/bash/) shell.
 
