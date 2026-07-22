@@ -58,6 +58,7 @@ Name | Install Steps | Description / Config
 ---- |------------- | --------------------
 <img src=images/rustacean.svg height=18/> [deff](https://github.com/flamestro/deff) | `cargo install deff` | TUI alternative to "git diff". Arg structure is different for specifying what to diff, but not too bad, and the TUI interface is quite nice.
 <img src=images/gopher.svg height=18/> [lazygit](https://github.com/jesseduffield/lazygit) | Download binary. Place in *~/.local/bin* | Intuitive TUI to your Git repository. Really amazing complement to the Git CLI. Keep open while working on files.
+<img src=images/rustacean.svg height=18/> [prek](https://prek.j178.dev/) | `uv tool install prek` | Rust-based drop-in replacement for *pre-commit*. Fast!
 <img src=images/rustacean.svg height=18/> [sem](https://github.com/Ataraxy-Labs/sem) | Download binary. Place in *~/.local/bin* | Gives semantic understanding of what is changing in diffs. Also of potential impact of changes across code base.
 <img src=images/C_Logo.png height=18> [tig](https://jonas.github.io/tig/) | `apt install tig` | Fancy git browser. I also like the "git lola" variant given at [this blog post](https://medium.com/better-programming/5-git-tricks-that-i-wished-i-have-known-earlier-af1060881880)
 
